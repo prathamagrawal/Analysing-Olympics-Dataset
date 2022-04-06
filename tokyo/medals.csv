@@ -1,0 +1,2143 @@
+Country,CountryCode,Name,Sport,Sport-short,Event,Medal
+Czech Republic,CZE,DRAHONINSKY David,Archery,ARC,Men's Individual - W1,Gold Medal
+People's Republic of China,CHN,HE Zihao,Archery,ARC,Men's Individual Compound - Open,Gold Medal
+United States of America,USA,MATHER Kevin,Archery,ARC,Men's Individual Recurve - Open,Gold Medal
+People's Republic of China,CHN,CHEN Minyi,Archery,ARC,Women's Individual - W1,Gold Medal
+Great Britain,GBR,PATERSON PINE Phoebe,Archery,ARC,Women's Individual Compound - Open,Gold Medal
+Islamic Republic of Iran,IRI,NEMATI Zahra,Archery,ARC,Women's Individual Recurve - Open,Gold Medal
+People's Republic of China,CHN,CHEN Minyi,Archery,ARC,Mixed Team - W1,Gold Medal
+People's Republic of China,CHN,ZHANG Tianxin,Archery,ARC,Mixed Team - W1,Gold Medal
+People's Republic of China,CHN,HE Zihao,Archery,ARC,Mixed Team Compound - Open,Gold Medal
+People's Republic of China,CHN,LIN Yueshan,Archery,ARC,Mixed Team Compound - Open,Gold Medal
+RPC,RPC,SIDORENKO Margarita,Archery,ARC,Mixed Team Recurve - Open,Gold Medal
+RPC,RPC,SMIRNOV Kirill,Archery,ARC,Mixed Team Recurve - Open,Gold Medal
+Greece,GRE,GHAVELAS Athanasios,Athletics,ATH,Men's 100m - T11,Gold Medal
+Norway,NOR,KASHAFALI Salum Ageze,Athletics,ATH,Men's 100m - T12,Gold Medal
+Ireland,IRL,SMYTH Jason,Athletics,ATH,Men's 100m - T13,Gold Medal
+Great Britain,GBR,SMALL Andrew,Athletics,ATH,Men's 100m - T33,Gold Medal
+Tunisia,TUN,KTILA Walid,Athletics,ATH,Men's 100m - T34,Gold Medal
+RPC,RPC,SAFRONOV Dmitrii,Athletics,ATH,Men's 100m - T35,Gold Medal
+People's Republic of China,CHN,DENG Peicheng,Athletics,ATH,Men's 100m - T36,Gold Medal
+United States of America,USA,MAYHUGH Nick,Athletics,ATH,Men's 100m - T37,Gold Medal
+Great Britain,GBR,YOUNG Thomas,Athletics,ATH,Men's 100m - T38,Gold Medal
+Brazil,BRA,FERREIRA dos SANTOS Petrucio,Athletics,ATH,Men's 100m - T47,Gold Medal
+Belgium,BEL,GENYN Peter,Athletics,ATH,Men's 100m - T51,Gold Medal
+United States of America,USA,MARTIN Raymond,Athletics,ATH,Men's 100m - T52,Gold Medal
+Thailand,THA,PAEYO Pongsakorn,Athletics,ATH,Men's 100m - T53,Gold Medal
+Thailand,THA,PAENG-NUEA Athiwat,Athletics,ATH,Men's 100m - T54,Gold Medal
+RPC,RPC,PROKHOROV Anton,Athletics,ATH,Men's 100m - T63,Gold Medal
+Germany,GER,STRENG Felix,Athletics,ATH,Men's 100m - T64,Gold Medal
+Brazil,BRA,JACQUES Yeltsin,Athletics,ATH,Men's 1500m - T11,Gold Medal
+RPC,RPC,KULIATIN Anton,Athletics,ATH,Men's 1500m - T13,Gold Medal
+Great Britain,GBR,MILLER Owen,Athletics,ATH,Men's 1500m - T20,Gold Medal
+Canada,CAN,RIECH Nate,Athletics,ATH,Men's 1500m - T38,Gold Medal
+RPC,RPC,IAREMCHUK Aleksandr,Athletics,ATH,Men's 1500m - T46,Gold Medal
+Japan,JPN,SATO Tomoki,Athletics,ATH,Men's 1500m - T52,Gold Medal
+Switzerland,SUI,HUG Marcel,Athletics,ATH,Men's 1500m - T54,Gold Medal
+RPC,RPC,SAFRONOV Dmitrii,Athletics,ATH,Men's 200m - T35,Gold Medal
+United States of America,USA,MAYHUGH Nick,Athletics,ATH,Men's 200m - T37,Gold Medal
+Finland,FIN,PIISPANEN Toni,Athletics,ATH,Men's 200m - T51,Gold Medal
+South Africa,RSA,MAHLANGU Ntando,Athletics,ATH,Men's 200m - T61,Gold Medal
+Costa Rica,CRC,GUITY GUITY Sherman Isidro,Athletics,ATH,Men's 200m - T64,Gold Medal
+Spain,ESP,DESCARREGA PUIGDEVALL Gerard,Athletics,ATH,Men's 400m - T11,Gold Medal
+Morocco,MAR,HILI Abdeslam,Athletics,ATH,Men's 400m - T12,Gold Medal
+Algeria,ALG,ATHMANI Skander Djamil,Athletics,ATH,Men's 400m - T13,Gold Medal
+France,FRA,KOUAKOU Charles-Antoine,Athletics,ATH,Men's 400m - T20,Gold Medal
+Australia,AUS,TURNER James,Athletics,ATH,Men's 400m - T36,Gold Medal
+RPC,RPC,VDOVIN Andrei,Athletics,ATH,Men's 400m - T37,Gold Medal
+Mexico,MEX,CHESSANI GARCIA Jose Rodolfo,Athletics,ATH,Men's 400m - T38,Gold Medal
+Morocco,MAR,SADNI Ayoub,Athletics,ATH,Men's 400m - T47,Gold Medal
+Japan,JPN,SATO Tomoki,Athletics,ATH,Men's 400m - T52,Gold Medal
+Thailand,THA,PAEYO Pongsakorn,Athletics,ATH,Men's 400m - T53,Gold Medal
+United States of America,USA,ROMANCHUK Daniel,Athletics,ATH,Men's 400m - T54,Gold Medal
+Germany,GER,FLOORS Johannes,Athletics,ATH,Men's 400m - T62,Gold Medal
+Brazil,BRA,JACQUES Yeltsin,Athletics,ATH,Men's 5000m - T11,Gold Medal
+Spain,ESP,OUHDADI EL ATABY Yassine,Athletics,ATH,Men's 5000m - T13,Gold Medal
+Switzerland,SUI,HUG Marcel,Athletics,ATH,Men's 5000m - T54,Gold Medal
+Tunisia,TUN,KTILA Walid,Athletics,ATH,Men's 800m - T34,Gold Medal
+Thailand,THA,PAEYO Pongsakorn,Athletics,ATH,Men's 800m - T53,Gold Medal
+Switzerland,SUI,HUG Marcel,Athletics,ATH,Men's 800m - T54,Gold Medal
+People's Republic of China,CHN,LIU Li,Athletics,ATH,Men's Club Throw - F32,Gold Medal
+RPC,RPC,TAIMAZOV Musa,Athletics,ATH,Men's Club Throw - F51,Gold Medal
+Brazil,BRA,da SILVA Alessandro Rodrigo,Athletics,ATH,Men's Discus Throw - F11,Gold Medal
+Pakistan,PAK,ALI Haider,Athletics,ATH,Men's Discus Throw - F37,Gold Medal
+Poland,POL,KOSEWICZ Piotr,Athletics,ATH,Men's Discus Throw - F52,Gold Medal
+Brazil,BRA,BATISTA dos SANTOS Claudiney,Athletics,ATH,Men's Discus Throw - F56,Gold Medal
+United States of America,USA,CAMPBELL Jeremy,Athletics,ATH,Men's Discus Throw - F64,Gold Medal
+United States of America,USA,TOWNSEND Roderick,Athletics,ATH,Men's High Jump - T47,Gold Medal
+United States of America,USA,GREWE Sam,Athletics,ATH,Men's High Jump - T63,Gold Medal
+Great Britain,GBR,BROOM-EDWARDS Jonathan,Athletics,ATH,Men's High Jump - T64,Gold Medal
+Great Britain,GBR,PEMBROKE Daniel,Athletics,ATH,Men's Javelin Throw - F13,Gold Medal
+Islamic Republic of Iran,IRI,AFROOZ Saeid,Athletics,ATH,Men's Javelin Throw - F34,Gold Medal
+Colombia,COL,LEMOS RIVAS Jose Gregorio,Athletics,ATH,Men's Javelin Throw - F38,Gold Medal
+People's Republic of China,CHN,SUN Pengxiang,Athletics,ATH,Men's Javelin Throw - F41,Gold Medal
+Sri Lanka,SRI,HERATH MUDIYANSELAGE Dinesh Priyan.,Athletics,ATH,Men's Javelin Throw - F46,Gold Medal
+Islamic Republic of Iran,IRI,AMIRI Hamed,Athletics,ATH,Men's Javelin Throw - F54,Gold Medal
+Azerbaijan,AZE,HEIDARI Hamed,Athletics,ATH,Men's Javelin Throw - F57,Gold Medal
+India,IND,SUMIT,Athletics,ATH,Men's Javelin Throw - F64,Gold Medal
+People's Republic of China,CHN,DI Dongdong,Athletics,ATH,Men's Long Jump - T11,Gold Medal
+Islamic Republic of Iran,IRI,KHOSRAVANI Amir,Athletics,ATH,Men's Long Jump - T12,Gold Medal
+Azerbaijan,AZE,ASLANOV Orkhan,Athletics,ATH,Men's Long Jump - T13,Gold Medal
+Malaysia,MAS,ROMLY Abdul Latif,Athletics,ATH,Men's Long Jump - T20,Gold Medal
+RPC,RPC,TORSUNOV Evgenii,Athletics,ATH,Men's Long Jump - T36,Gold Medal
+Ukraine,UKR,ZAHREBELNYI Vladyslav,Athletics,ATH,Men's Long Jump - T37,Gold Medal
+People's Republic of China,CHN,ZHU Dening,Athletics,ATH,Men's Long Jump - T38,Gold Medal
+Cuba,CUB,SOL CERVANTES Robiel Yankiel,Athletics,ATH,Men's Long Jump - T47,Gold Medal
+South Africa,RSA,MAHLANGU Ntando,Athletics,ATH,Men's Long Jump - T63,Gold Medal
+Germany,GER,REHM Markus,Athletics,ATH,Men's Long Jump - T64,Gold Medal
+Morocco,MAR,CHENTOUF El Amin,Athletics,ATH,Men's Marathon - T12,Gold Medal
+People's Republic of China,CHN,LI Chaoyan,Athletics,ATH,Men's Marathon - T46,Gold Medal
+Switzerland,SUI,HUG Marcel,Athletics,ATH,Men's Marathon - T54,Gold Medal
+Islamic Republic of Iran,IRI,OLAD Mahdi,Athletics,ATH,Men's Shot Put - F11,Gold Medal
+Spain,ESP,LOPEZ GONZALEZ Kim,Athletics,ATH,Men's Shot Put - F12,Gold Medal
+Ukraine,UKR,KOVAL Maksym,Athletics,ATH,Men's Shot Put - F20,Gold Medal
+People's Republic of China,CHN,LIU Li,Athletics,ATH,Men's Shot Put - F32,Gold Medal
+Morocco,MAR,DERHEM Zakariae,Athletics,ATH,Men's Shot Put - F33,Gold Medal
+Jordan,JOR,HINDI Ahmad,Athletics,ATH,Men's Shot Put - F34,Gold Medal
+Uzbekistan,UZB,NORBEKOV Khusniddin,Athletics,ATH,Men's Shot Put - F35,Gold Medal
+RPC,RPC,SVIRIDOV Vladimir,Athletics,ATH,Men's Shot Put - F36,Gold Medal
+RPC,RPC,KHINCHAGOV Albert,Athletics,ATH,Men's Shot Put - F37,Gold Medal
+RPC,RPC,GNEZDILOV Denis,Athletics,ATH,Men's Shot Put - F40,Gold Medal
+Uzbekistan,UZB,OMONOV Bobirjon,Athletics,ATH,Men's Shot Put - F41,Gold Medal
+Canada,CAN,STEWART Greg,Athletics,ATH,Men's Shot Put - F46,Gold Medal
+Azerbaijan,AZE,ASTANOV Elvin,Athletics,ATH,Men's Shot Put - F53,Gold Medal
+Brazil,BRA,SANTOS Wallace,Athletics,ATH,Men's Shot Put - F55,Gold Medal
+People's Republic of China,CHN,WU Guoshan,Athletics,ATH,Men's Shot Put - F57,Gold Medal
+Great Britain,GBR,DAVIES Aled,Athletics,ATH,Men's Shot Put - F63,Gold Medal
+Venezuela,VEN,PEREZ LOPEZ Linda Patricia,Athletics,ATH,Women's 100m - T11,Gold Medal
+Cuba,CUB,DURAND ELIAS Omara,Athletics,ATH,Women's 100m - T12,Gold Medal
+Spain,ESP,IGLESIAS FORNEIRO Adiaratou,Athletics,ATH,Women's 100m - T13,Gold Medal
+Great Britain,GBR,COCKROFT Hannah,Athletics,ATH,Women's 100m - T34,Gold Medal
+People's Republic of China,CHN,ZHOU Xia,Athletics,ATH,Women's 100m - T35,Gold Medal
+People's Republic of China,CHN,SHI Yiting,Athletics,ATH,Women's 100m - T36,Gold Medal
+People's Republic of China,CHN,WEN Xiaoyan,Athletics,ATH,Women's 100m - T37,Gold Medal
+Great Britain,GBR,HAHN Sophie,Athletics,ATH,Women's 100m - T38,Gold Medal
+Venezuela,VEN,VERA ANDRADE Lisbeli Marina,Athletics,ATH,Women's 100m - T47,Gold Medal
+People's Republic of China,CHN,GAO Fang,Athletics,ATH,Women's 100m - T53,Gold Medal
+People's Republic of China,CHN,ZHOU Zhaoqian,Athletics,ATH,Women's 100m - T54,Gold Medal
+Italy,ITA,SABATINI Ambra,Athletics,ATH,Women's 100m - T63,Gold Medal
+Netherlands,NED,van GANSEWINKEL Marlene,Athletics,ATH,Women's 100m - T64,Gold Medal
+Mexico,MEX,RODRIGUEZ SAAVEDRA Monica Olivia,Athletics,ATH,Women's 1500m - T11,Gold Medal
+Ethiopia,ETH,MENIGSTU Tigist Gezahagn,Athletics,ATH,Women's 1500m - T13,Gold Medal
+Poland,POL,BIEGANOWSKA-ZAJAC Barbara,Athletics,ATH,Women's 1500m - T20,Gold Medal
+People's Republic of China,CHN,ZHOU Zhaoqian,Athletics,ATH,Women's 1500m - T54,Gold Medal
+People's Republic of China,CHN,LIU Cuiqing,Athletics,ATH,Women's 200m - T11,Gold Medal
+Cuba,CUB,DURAND ELIAS Omara,Athletics,ATH,Women's 200m - T12,Gold Medal
+People's Republic of China,CHN,ZHOU Xia,Athletics,ATH,Women's 200m - T35,Gold Medal
+People's Republic of China,CHN,SHI Yiting,Athletics,ATH,Women's 200m - T36,Gold Medal
+People's Republic of China,CHN,WEN Xiaoyan,Athletics,ATH,Women's 200m - T37,Gold Medal
+Venezuela,VEN,VERA ANDRADE Lisbeli Marina,Athletics,ATH,Women's 200m - T47,Gold Medal
+Netherlands,NED,van GANSEWINKEL Marlene,Athletics,ATH,Women's 200m - T64,Gold Medal
+People's Republic of China,CHN,LIU Cuiqing,Athletics,ATH,Women's 400m - T11,Gold Medal
+Cuba,CUB,DURAND ELIAS Omara,Athletics,ATH,Women's 400m - T12,Gold Medal
+Azerbaijan,AZE,VALIYEVA Lamiya,Athletics,ATH,Women's 400m - T13,Gold Medal
+United States of America,USA,CLARK Breanna,Athletics,ATH,Women's 400m - T20,Gold Medal
+People's Republic of China,CHN,JIANG Fenfen,Athletics,ATH,Women's 400m - T37,Gold Medal
+Germany,GER,AVE Lindy,Athletics,ATH,Women's 400m - T38,Gold Medal
+South Africa,RSA,WEYERS Anrune,Athletics,ATH,Women's 400m - T47,Gold Medal
+Switzerland,SUI,DEBRUNNER Catherine,Athletics,ATH,Women's 400m - T53,Gold Medal
+Switzerland,SUI,SCHAER Manuela,Athletics,ATH,Women's 400m - T54,Gold Medal
+United States of America,USA,SCARONI Susannah,Athletics,ATH,Women's 5000m - T54,Gold Medal
+Great Britain,GBR,COCKROFT Hannah,Athletics,ATH,Women's 800m - T34,Gold Medal
+Australia,AUS,de ROZARIO Madison,Athletics,ATH,Women's 800m - T53,Gold Medal
+Switzerland,SUI,SCHAER Manuela,Athletics,ATH,Women's 800m - T54,Gold Medal
+Poland,POL,KOZAKOWSKA Roza,Athletics,ATH,Women's Club Throw - F32,Gold Medal
+Ukraine,UKR,OVSII Zoia,Athletics,ATH,Women's Club Throw - F51,Gold Medal
+People's Republic of China,CHN,ZHANG Liangmin,Athletics,ATH,Women's Discus Throw - F11,Gold Medal
+People's Republic of China,CHN,MI Na,Athletics,ATH,Women's Discus Throw - F38,Gold Medal
+Tunisia,TUN,TLILI Raoua,Athletics,ATH,Women's Discus Throw - F41,Gold Medal
+Brazil,BRA,RODRIGUES GOMES Elizabeth,Athletics,ATH,Women's Discus Throw - F53,Gold Medal
+People's Republic of China,CHN,DONG Feixia,Athletics,ATH,Women's Discus Throw - F55,Gold Medal
+Uzbekistan,UZB,KHAMDAMOVA Mokhigul,Athletics,ATH,Women's Discus Throw - F57,Gold Medal
+People's Republic of China,CHN,YAO Juan,Athletics,ATH,Women's Discus Throw - F64,Gold Medal
+Uzbekistan,UZB,KAYUMOVA Nozimakhon,Athletics,ATH,Women's Javelin Throw - F13,Gold Medal
+People's Republic of China,CHN,ZOU Lijuan,Athletics,ATH,Women's Javelin Throw - F34,Gold Medal
+New Zealand,NZL,ROBINSON Holly,Athletics,ATH,Women's Javelin Throw - F46,Gold Medal
+Nigeria,NGR,UGWUNWA Flora,Athletics,ATH,Women's Javelin Throw - F54,Gold Medal
+Islamic Republic of Iran,IRI,MOTAGHIAN MOAVI Hashemiyeh,Athletics,ATH,Women's Javelin Throw - F56,Gold Medal
+Brazil,BRA,COSTA de OLIVEIRA Silvania,Athletics,ATH,Women's Long Jump - T11,Gold Medal
+Ukraine,UKR,ZUBKOVSKA Oksana,Athletics,ATH,Women's Long Jump - T12,Gold Medal
+Poland,POL,KUCHARCZYK Karolina,Athletics,ATH,Women's Long Jump - T20,Gold Medal
+People's Republic of China,CHN,WEN Xiaoyan,Athletics,ATH,Women's Long Jump - T37,Gold Medal
+Hungary,HUN,EKLER Luca,Athletics,ATH,Women's Long Jump - T38,Gold Medal
+New Zealand,NZL,GRIMALDI Anna,Athletics,ATH,Women's Long Jump - T47,Gold Medal
+Australia,AUS,LOW Vanessa,Athletics,ATH,Women's Long Jump - T63,Gold Medal
+Netherlands,NED,JONG Fleur,Athletics,ATH,Women's Long Jump - T64,Gold Medal
+Japan,JPN,MICHISHITA Misato,Athletics,ATH,Women's Marathon - T12,Gold Medal
+Australia,AUS,de ROZARIO Madison,Athletics,ATH,Women's Marathon - T54,Gold Medal
+Uzbekistan,UZB,BURKHANOVA Safiya,Athletics,ATH,Women's Shot Put - F12,Gold Medal
+Ecuador,ECU,MENDES SANCHEZ Poleth Isamar,Athletics,ATH,Women's Shot Put - F20,Gold Medal
+Ukraine,UKR,MOSKALENKO Anastasiia,Athletics,ATH,Women's Shot Put - F32,Gold Medal
+Algeria,ALG,BOUDJADAR Asmahane,Athletics,ATH,Women's Shot Put - F33,Gold Medal
+People's Republic of China,CHN,ZOU Lijuan,Athletics,ATH,Women's Shot Put - F34,Gold Medal
+Ukraine,UKR,POMAZAN Mariia,Athletics,ATH,Women's Shot Put - F35,Gold Medal
+RPC,RPC,LIPATNIKOVA Galina,Athletics,ATH,Women's Shot Put - F36,Gold Medal
+New Zealand,NZL,ADAMS Lisa,Athletics,ATH,Women's Shot Put - F37,Gold Medal
+Poland,POL,SLIWINSKA Renata,Athletics,ATH,Women's Shot Put - F40,Gold Medal
+Tunisia,TUN,TLILI Raoua,Athletics,ATH,Women's Shot Put - F41,Gold Medal
+Chile,CHI,MARDONES SEPULVEDA Francisca,Athletics,ATH,Women's Shot Put - F54,Gold Medal
+Algeria,ALG,DJELAL Safia,Athletics,ATH,Women's Shot Put - F57,Gold Medal
+United States of America,USA,MALONE Noah,Athletics,ATH,4x100m Universal Relay,Gold Medal
+United States of America,USA,MASON Brittni,Athletics,ATH,4x100m Universal Relay,Gold Medal
+United States of America,USA,MAYHUGH Nick,Athletics,ATH,4x100m Universal Relay,Gold Medal
+United States of America,USA,McFADDEN Tatyana,Athletics,ATH,4x100m Universal Relay,Gold Medal
+People's Republic of China,CHN,MAI Jianpeng,Badminton,BDM,Men's Doubles WH,Gold Medal
+People's Republic of China,CHN,QU Zimo,Badminton,BDM,Men's Doubles WH,Gold Medal
+People's Republic of China,CHN,QU Zimo,Badminton,BDM,Men's Singles WH1,Gold Medal
+Japan,JPN,KAJIWARA Daiki,Badminton,BDM,Men's Singles WH2,Gold Medal
+India,IND,BHAGAT Pramod,Badminton,BDM,Men's Singles SL3,Gold Medal
+France,FRA,MAZUR Lucas,Badminton,BDM,Men's Singles SL4,Gold Medal
+Malaysia,MAS,CHEAH Liek Hou,Badminton,BDM,Men's Singles SU5,Gold Medal
+India,IND,NAGAR Krishna,Badminton,BDM,Men's Singles SH6,Gold Medal
+Japan,JPN,SATOMI Sarina,Badminton,BDM,Women's Doubles WH,Gold Medal
+Japan,JPN,YAMAZAKI Yuma,Badminton,BDM,Women's Doubles WH,Gold Medal
+Indonesia,INA,KHALIMATUS Sadiyah,Badminton,BDM,Women's Doubles SL3-SU5,Gold Medal
+Indonesia,INA,LEANI RATRI Oktila,Badminton,BDM,Women's Doubles SL3-SU5,Gold Medal
+Japan,JPN,SATOMI Sarina,Badminton,BDM,Women's Singles WH1,Gold Medal
+People's Republic of China,CHN,LIU Yutong,Badminton,BDM,Women's Singles WH2,Gold Medal
+People's Republic of China,CHN,CHENG Hefang,Badminton,BDM,Women's Singles SL4,Gold Medal
+People's Republic of China,CHN,YANG Qiuxia,Badminton,BDM,Women's Singles SU5,Gold Medal
+Indonesia,INA,HARY Susanto,Badminton,BDM,Mixed Doubles SL3-SU5,Gold Medal
+Indonesia,INA,LEANI RATRI Oktila,Badminton,BDM,Mixed Doubles SL3-SU5,Gold Medal
+Great Britain,GBR,SMITH David,Boccia,BOC,Individual - BC1,Gold Medal
+Japan,JPN,SUGIMURA Hidetaka,Boccia,BOC,Individual - BC2,Gold Medal
+Czech Republic,CZE,PESKA Adam,Boccia,BOC,Individual - BC3,Gold Medal
+Slovakia,SVK,ANDREJCIK Samuel,Boccia,BOC,Individual - BC4,Gold Medal
+Republic of Korea,KOR,CHOI Yejin,Boccia,BOC,Pairs - BC3,Gold Medal
+Republic of Korea,KOR,JEONG Howon,Boccia,BOC,Pairs - BC3,Gold Medal
+Republic of Korea,KOR,KIM Hansoo,Boccia,BOC,Pairs - BC3,Gold Medal
+Slovakia,SVK,ANDREJCIK Samuel,Boccia,BOC,Pairs - BC4,Gold Medal
+Slovakia,SVK,BALCOVA Michaela,Boccia,BOC,Pairs - BC4,Gold Medal
+Slovakia,SVK,STREHARSKY Martin,Boccia,BOC,Pairs - BC4,Gold Medal
+Thailand,THA,HUADPRADIT Witsanu,Boccia,BOC,Team - BC1/BC2,Gold Medal
+Thailand,THA,SAENGAMPA Worawut,Boccia,BOC,Team - BC1/BC2,Gold Medal
+Thailand,THA,TIPMANEE Subin,Boccia,BOC,Team - BC1/BC2,Gold Medal
+Thailand,THA,VONGSA Watcharaphon,Boccia,BOC,Team - BC1/BC2,Gold Medal
+Hungary,HUN,KISS Peter,Canoe Sprint,CSP,Men's Kayak Single 200m - KL1,Gold Medal
+Australia,AUS,McGRATH Curtis,Canoe Sprint,CSP,Men's Kayak Single 200m - KL2,Gold Medal
+Ukraine,UKR,YEMELIANOV Serhii,Canoe Sprint,CSP,Men's Kayak Single 200m - KL3,Gold Medal
+Brazil,BRA,RUFINO de PAULO Fernando,Canoe Sprint,CSP,Men's Va'a Single 200m - VL2,Gold Medal
+Australia,AUS,McGRATH Curtis,Canoe Sprint,CSP,Men's Va'a Single 200m - VL3,Gold Medal
+Germany,GER,MUELLER Edina,Canoe Sprint,CSP,Women's Kayak Single 200m - KL1,Gold Medal
+Great Britain,GBR,HENSHAW Charlotte,Canoe Sprint,CSP,Women's Kayak Single 200m - KL2,Gold Medal
+Great Britain,GBR,SUGAR Laura,Canoe Sprint,CSP,Women's Kayak Single 200m - KL3,Gold Medal
+Great Britain,GBR,WIGGS Emma,Canoe Sprint,CSP,Women's Va'a Single 200m - VL2,Gold Medal
+France,FRA,JOUANNY Florian,Cycling Road,CRD,Men's H1-2 Road Race,Gold Medal
+People's Republic of China,CHN,CHEN Jianxin,Cycling Road,CRD,Men's T1-2 Road Race,Gold Medal
+RPC,RPC,KUZNETSOV Ruslan,Cycling Road,CRD,Men's H3 Road Race,Gold Medal
+Great Britain,GBR,WATSON Benjamin,Cycling Road,CRD,Men's C1-3 Road Race,Gold Medal
+Netherlands,NED,ter SCHURE Vincent,Cycling Road,CRD,Men's B Road Race,Gold Medal
+Netherlands,NED,PLAT Jetze,Cycling Road,CRD,Men's H4 Road Race,Gold Medal
+Netherlands,NED,VALIZE Mitch,Cycling Road,CRD,Men's H5 Road Race,Gold Medal
+France,FRA,le CUNFF Kevin,Cycling Road,CRD,Men's C4-5 Road Race,Gold Medal
+RPC,RPC,ASTASHOV Mikhail,Cycling Road,CRD,Men's C1 Time Trial,Gold Medal
+South Africa,RSA,du PREEZ Nicolas Pieter,Cycling Road,CRD,Men's H1 Time Trial,Gold Medal
+Australia,AUS,HICKS Darren,Cycling Road,CRD,Men's C2 Time Trial,Gold Medal
+Spain,ESP,GARROTE MUNOZ Sergio,Cycling Road,CRD,Men's H2 Time Trial,Gold Medal
+People's Republic of China,CHN,CHEN Jianxin,Cycling Road,CRD,Men's T1-2 Time Trial,Gold Medal
+Great Britain,GBR,WATSON Benjamin,Cycling Road,CRD,Men's C3 Time Trial,Gold Medal
+Austria,AUT,ABLINGER Walter,Cycling Road,CRD,Men's H3 Time Trial,Gold Medal
+France,FRA,LLOVERAS Alexandre,Cycling Road,CRD,Men's B Time Trial,Gold Medal
+Slovakia,SVK,KURIL Patrik,Cycling Road,CRD,Men's C4 Time Trial,Gold Medal
+Netherlands,NED,PLAT Jetze,Cycling Road,CRD,Men's H4 Time Trial,Gold Medal
+Netherlands,NED,ABRAHAM GEBRU Daniel,Cycling Road,CRD,Men's C5 Time Trial,Gold Medal
+Netherlands,NED,VALIZE Mitch,Cycling Road,CRD,Men's H5 Time Trial,Gold Medal
+Italy,ITA,CECCHETTO Paolo,Cycling Road,CRD,Mixed H1-5 Team Relay,Gold Medal
+Italy,ITA,COLOMBARI Diego,Cycling Road,CRD,Mixed H1-5 Team Relay,Gold Medal
+Italy,ITA,MAZZONE Luca,Cycling Road,CRD,Mixed H1-5 Team Relay,Gold Medal
+Germany,GER,MAJUNKE Jana,Cycling Road,CRD,Women's T1-2 Road Race,Gold Medal
+Japan,JPN,SUGIURA Keiko,Cycling Road,CRD,Women's C1-3 Road Race,Gold Medal
+Ireland,IRL,DUNLEVY Katie-George,Cycling Road,CRD,Women's B Road Race,Gold Medal
+Netherlands,NED,JANSEN Jennette,Cycling Road,CRD,Women's H1-4 Road Race,Gold Medal
+United States of America,USA,MASTERS Oksana,Cycling Road,CRD,Women's H5 Road Race,Gold Medal
+Great Britain,GBR,STOREY Sarah,Cycling Road,CRD,Women's C4-5 Road Race,Gold Medal
+Germany,GER,MAJUNKE Jana,Cycling Road,CRD,Women's T1-2 Time Trial,Gold Medal
+Japan,JPN,SUGIURA Keiko,Cycling Road,CRD,Women's C1-3 Time Trial,Gold Medal
+Ireland,IRL,DUNLEVY Katie-George,Cycling Road,CRD,Women's B Time Trial,Gold Medal
+Germany,GER,ZEYEN Annika,Cycling Road,CRD,Women's H1-3 Time Trial,Gold Medal
+United States of America,USA,MORELLI Shawn,Cycling Road,CRD,Women's C4 Time Trial,Gold Medal
+United States of America,USA,MASTERS Oksana,Cycling Road,CRD,Women's H4-5 Time Trial,Gold Medal
+Great Britain,GBR,STOREY Sarah,Cycling Road,CRD,Women's C5 Time Trial,Gold Medal
+People's Republic of China,CHN,LI Zhangyu,Cycling Track,CTR,Men's C1-3 1000m Time Trial,Gold Medal
+Great Britain,GBR,FACHIE Neil,Cycling Track,CTR,Men's B 1000m Time Trial,Gold Medal
+Spain,ESP,CABELLO LLAMAS Alfonso,Cycling Track,CTR,Men's C4-5 1000m Time Trial,Gold Medal
+RPC,RPC,ASTASHOV Mikhail,Cycling Track,CTR,Men's C1 3000m Individual Pursuit,Gold Medal
+France,FRA,LEAUTE Alexandre,Cycling Track,CTR,Men's C2 3000m Individual Pursuit,Gold Medal
+Great Britain,GBR,van GASS Jaco,Cycling Track,CTR,Men's C3 3000m Individual Pursuit,Gold Medal
+Netherlands,NED,BANGMA Tristan,Cycling Track,CTR,Men's B 4000m Individual Pursuit,Gold Medal
+Slovakia,SVK,METELKA Jozef,Cycling Track,CTR,Men's C4 4000m Individual Pursuit,Gold Medal
+France,FRA,FOULON Dorian,Cycling Track,CTR,Men's C5 4000m Individual Pursuit,Gold Medal
+Great Britain,GBR,COX Kadeena,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Gold Medal
+Great Britain,GBR,CUNDY Jody,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Gold Medal
+Great Britain,GBR,van GASS Jaco,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Gold Medal
+Australia,AUS,REID Amanda,Cycling Track,CTR,Women's C1-3 500m Time Trial,Gold Medal
+Great Britain,GBR,COX Kadeena,Cycling Track,CTR,Women's C4-5 500m Time Trial,Gold Medal
+Netherlands,NED,KLAASSEN Larissa,Cycling Track,CTR,Women's B 1000m Time Trial,Gold Medal
+Australia,AUS,GRECO Paige,Cycling Track,CTR,Women's C1-3 3000m Individual Pursuit,Gold Medal
+Great Britain,GBR,FACHIE Lora,Cycling Track,CTR,Women's B 3000m Individual Pursuit,Gold Medal
+Australia,AUS,PETRICOLA Emily,Cycling Track,CTR,Women's C4 3000m Individual Pursuit,Gold Medal
+Great Britain,GBR,DAME STOREY Sarah,Cycling Track,CTR,Women's C5 3000m Individual Pursuit,Gold Medal
+United States of America,USA,TRUNNELL Roxanne,Equestrian,EQU,Individual Test - Grade I,Gold Medal
+Great Britain,GBR,PEARSON Lee,Equestrian,EQU,Individual Test - Grade II,Gold Medal
+Denmark,DEN,JORGENSEN Tobias Thorning,Equestrian,EQU,Individual Test - Grade III,Gold Medal
+Netherlands,NED,VOETS Sanne,Equestrian,EQU,Individual Test - Grade IV,Gold Medal
+Belgium,BEL,GEORGE Michele,Equestrian,EQU,Individual Test - Grade V,Gold Medal
+United States of America,USA,TRUNNELL Roxanne,Equestrian,EQU,Individual Freestyle Test - Grade I,Gold Medal
+Great Britain,GBR,PEARSON Lee,Equestrian,EQU,Individual Freestyle Test - Grade II,Gold Medal
+Denmark,DEN,JORGENSEN Tobias Thorning,Equestrian,EQU,Individual Freestyle Test - Grade III,Gold Medal
+Netherlands,NED,VOETS Sanne,Equestrian,EQU,Individual Freestyle Test - Grade IV,Gold Medal
+Belgium,BEL,GEORGE Michele,Equestrian,EQU,Individual Freestyle Test - Grade V,Gold Medal
+Great Britain,GBR,BAKER Natasha,Equestrian,EQU,Team Test to Music,Gold Medal
+Great Britain,GBR,PEARSON Lee,Equestrian,EQU,Team Test to Music,Gold Medal
+Great Britain,GBR,WELLS Sophie,Equestrian,EQU,Team Test to Music,Gold Medal
+Brazil,BRA,ALVES Ricardo,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,da COSTA COELHO BUMUSSA Matheus,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,da PAIXAO BARROS Gledson,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,da SILVA Tiago,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,GONCALVES Jeferson,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,GONCALVES Luan,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,MENDES Raimundo,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,RAMOS Damiao,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,REIS Cassio,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,VIEIRA SOARES Jardiel,Football 5-a-side,FB5,Men,Gold Medal
+Brazil,BRA,da SILVA Emerson,Goalball,GBL,Men,Gold Medal
+Brazil,BRA,de MELO Alex,Goalball,GBL,Men,Gold Medal
+Brazil,BRA,FERREIRA de OLIVEIRA Jose Roberto,Goalball,GBL,Men,Gold Medal
+Brazil,BRA,MARQUES Romario,Goalball,GBL,Men,Gold Medal
+Brazil,BRA,MORENO Leomon,Goalball,GBL,Men,Gold Medal
+Brazil,BRA,SOUSA Josemarcio,Goalball,GBL,Men,Gold Medal
+Turkey,TUR,ALTUNOLUK Sevda,Goalball,GBL,Women,Gold Medal
+Turkey,TUR,ALTUNOLUK Sevtap,Goalball,GBL,Women,Gold Medal
+Turkey,TUR,CELIK Kader,Goalball,GBL,Women,Gold Medal
+Turkey,TUR,GULER Fatma Gul,Goalball,GBL,Women,Gold Medal
+Turkey,TUR,KAPLAN Seydanur,Goalball,GBL,Women,Gold Medal
+Turkey,TUR,YILMAZ Reyhan,Goalball,GBL,Women,Gold Medal
+Great Britain,GBR,SKELLEY Christopher,Judo,JUD,Men -100 kg,Gold Medal
+Azerbaijan,AZE,SHIRINLI Vugar,Judo,JUD,Men -60 kg,Gold Medal
+Uzbekistan,UZB,KURANBAEV Uchkun,Judo,JUD,Men -66 kg,Gold Medal
+Uzbekistan,UZB,SAYIDOV Feruz,Judo,JUD,Men -73 kg,Gold Medal
+Azerbaijan,AZE,RAHIMLI Huseyn,Judo,JUD,Men -81 kg,Gold Medal
+Islamic Republic of Iran,IRI,NOURI Vahid,Judo,JUD,Men -90 kg,Gold Medal
+Islamic Republic of Iran,IRI,KHEIROLLAHZADEH Mohammadreza,Judo,JUD,Men +100 kg,Gold Medal
+Azerbaijan,AZE,HAJIYEVA Shahana,Judo,JUD,Women -48 kg,Gold Medal
+Algeria,ALG,ABDELLAOUI Cherine,Judo,JUD,Women -52 kg,Gold Medal
+Azerbaijan,AZE,VALIYEVA Sevda,Judo,JUD,Women -57 kg,Gold Medal
+Azerbaijan,AZE,HUSEYNOVA Khanim,Judo,JUD,Women -63 kg,Gold Medal
+Brazil,BRA,MALDONADO Alana,Judo,JUD,Women -70 kg,Gold Medal
+Azerbaijan,AZE,KARIMOVA Dursadaf,Judo,JUD,Women +70 kg,Gold Medal
+Mongolia,MGL,ENKHBAYAR Sodnompiljee,Powerlifting,PWL,Men's -107 kg,Gold Medal
+Jordan,JOR,QARADA Omar Sami Hamadeh,Powerlifting,PWL,Men's -49 kg,Gold Medal
+Kazakhstan,KAZ,DEGTYAREV David,Powerlifting,PWL,Men's -54 kg,Gold Medal
+People's Republic of China,CHN,QI Yongkai,Powerlifting,PWL,Men's -59 kg,Gold Medal
+People's Republic of China,CHN,LIU Lei,Powerlifting,PWL,Men's -65 kg,Gold Medal
+Malaysia,MAS,GUSTIN Bonnie Bunyau,Powerlifting,PWL,Men's -72 kg,Gold Medal
+Islamic Republic of Iran,IRI,ROSTAMI Roohallah,Powerlifting,PWL,Men's -80 kg,Gold Medal
+Jordan,JOR,KHATTAB Abdelkareem Mohmmad Ahmad,Powerlifting,PWL,Men's -88 kg,Gold Medal
+People's Republic of China,CHN,YAN Panpan,Powerlifting,PWL,Men's -97 kg,Gold Medal
+Jordan,JOR,ELSHEBLI Jamil,Powerlifting,PWL,Men's +107 kg,Gold Medal
+People's Republic of China,CHN,GUO Lingling,Powerlifting,PWL,Women's -41 kg,Gold Medal
+Nigeria,NGR,TIJANI Latifat,Powerlifting,PWL,Women's -45 kg,Gold Medal
+People's Republic of China,CHN,HU Dandan,Powerlifting,PWL,Women's -50 kg,Gold Medal
+Ukraine,UKR,SHEVCHUK Mariana,Powerlifting,PWL,Women's -55 kg,Gold Medal
+Mexico,MEX,PEREZ Amalia,Powerlifting,PWL,Women's -61 kg,Gold Medal
+People's Republic of China,CHN,TAN Yujiao,Powerlifting,PWL,Women's -67 kg,Gold Medal
+Brazil,BRA,D'ANDREA Mariana,Powerlifting,PWL,Women's -73 kg,Gold Medal
+Nigeria,NGR,OMOLAYO Bose,Powerlifting,PWL,Women's -79 kg,Gold Medal
+Nigeria,NGR,OLUWAFEMIAYO Folashade,Powerlifting,PWL,Women's -86 kg,Gold Medal
+People's Republic of China,CHN,DENG Xuemei,Powerlifting,PWL,Women's +86 kg,Gold Medal
+Ukraine,UKR,POLIANSKYI Roman,Rowing,ROW,PR1 Men's Single Sculls - PR1M1x,Gold Medal
+Norway,NOR,SKARSTEIN Birgit Lovise Roekkum,Rowing,ROW,PR1 Women's Single Sculls - PR1W1x,Gold Medal
+Great Britain,GBR,BUTTRICK Ellen,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Gold Medal
+Great Britain,GBR,FOX James,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Gold Medal
+Great Britain,GBR,KENNEDY Erin,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Gold Medal
+Great Britain,GBR,RAKAUSKAITE Giedre,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Gold Medal
+Great Britain,GBR,STANHOPE Oliver,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Gold Medal
+Great Britain,GBR,ROWLES Lauren,Rowing,ROW,PR2 Mixed Double Sculls - PR2Mix2x,Gold Medal
+Great Britain,GBR,WHITELEY Laurence,Rowing,ROW,PR2 Mixed Double Sculls - PR2Mix2x,Gold Medal
+People's Republic of China,CHN,YANG Chao,Shooting,SHO,P1 - Men's 10m Air Pistol SH1,Gold Medal
+People's Republic of China,CHN,DONG Chao,Shooting,SHO,R1 - Men's 10m Air Rifle Standing SH1,Gold Medal
+United Arab Emirates,UAE,ALARYANI Abdulla Sultan,Shooting,SHO,R7 - Men's 50m Rifle 3 Positions SH1,Gold Medal
+Germany,GER,HILTROP Natascha,Shooting,SHO,R3 - Mixed 10m Air Rifle Prone SH1,Gold Medal
+Serbia,SRB,RISTIC Dragan,Shooting,SHO,R5 - Mixed 10m Air Rifle Prone SH2,Gold Medal
+Sweden,SWE,JONSSON Philip,Shooting,SHO,R4 - Mixed 10m Air Rifle Standing SH2,Gold Medal
+People's Republic of China,CHN,HUANG Xing,Shooting,SHO,P3 - Mixed 25m Pistol SH1,Gold Medal
+India,IND,NARWAL Manish,Shooting,SHO,P4 - Mixed 50m Pistol SH1,Gold Medal
+Slovakia,SVK,VADOVICOVA Veronika,Shooting,SHO,R6 - Mixed 50m Rifle Prone SH1,Gold Medal
+Serbia,SRB,RISTIC Dragan,Shooting,SHO,R9 - Mixed 50m Rifle Prone SH2,Gold Medal
+Islamic Republic of Iran,IRI,JAVANMARDI Sareh,Shooting,SHO,P2 - Women's 10m Air Pistol SH1,Gold Medal
+India,IND,LEKHARA Avani,Shooting,SHO,R2 - Women's 10m Air Rifle Standing SH1,Gold Medal
+People's Republic of China,CHN,ZHANG Cuiping,Shooting,SHO,R8 - Women's 50m Rifle 3 Positions SH1,Gold Medal
+Islamic Republic of Iran,IRI,ALI POUR Meisam,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,ALIPOURIAN Davoud,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,BABADI Mahdi,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,BIGDELI Sadegh,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,GOLESTANI Hossein,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,HOSSEINI JED Seyed Mohammad Hossein,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,LASHKARISANAMI Majid,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,MEHRAVAN Mehrzad,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,MEHRZADSELAKJANI Morteza,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,NEMATI Mohammad,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,RAMEZANI GERAKOEI Morteza,Sitting Volleyball,VBS,Men,Gold Medal
+Islamic Republic of Iran,IRI,SALEHIHAJIKOLAEI Ramezan,Sitting Volleyball,VBS,Men,Gold Medal
+United States of America,USA,DOSTY Whitney,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,ERICKSON Heather,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,FLOOD Annie,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,HOLLOWAY Kathryn,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,MACLAY Kaleo,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,MATTHEWS Monique,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,MILLAGE Nichole,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,SCHIECK Emma,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,SHIFFLETT Alexis,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,WEBSTER Lora,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,WILLIAMS Jillian,Sitting Volleyball,VBS,Women,Gold Medal
+United States of America,USA,ZUMMO Bethany,Sitting Volleyball,VBS,Women,Gold Medal
+Israel,ISR,SHALABI Iyad,Swimming,SWM,Men's 100m Backstroke - S1,Gold Medal
+Chile,CHI,ABARZA Alberto,Swimming,SWM,Men's 100m Backstroke - S2,Gold Medal
+People's Republic of China,CHN,JIA Hongguang,Swimming,SWM,Men's 100m Backstroke - S6,Gold Medal
+Ukraine,UKR,TRUSOV Andrii,Swimming,SWM,Men's 100m Backstroke - S7,Gold Medal
+United States of America,USA,GRISWOLD Robert,Swimming,SWM,Men's 100m Backstroke - S8,Gold Medal
+RPC,RPC,MOZGOVOI Bogdan,Swimming,SWM,Men's 100m Backstroke - S9,Gold Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 100m Backstroke - S10,Gold Medal
+Ukraine,UKR,SERBIN Mykhailo,Swimming,SWM,Men's 100m Backstroke - S11,Gold Medal
+Azerbaijan,AZE,SALEI Raman,Swimming,SWM,Men's 100m Backstroke - S12,Gold Medal
+Belarus,BLR,BOKI Ihar,Swimming,SWM,Men's 100m Backstroke - S13,Gold Medal
+Australia,AUS,HANCE Benjamin James,Swimming,SWM,Men's 100m Backstroke - S14,Gold Medal
+United States of America,USA,GRISWOLD Robert,Swimming,SWM,Men's 100m Butterfly - S8,Gold Medal
+Australia,AUS,MARTIN William,Swimming,SWM,Men's 100m Butterfly - S9,Gold Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 100m Butterfly - S10,Gold Medal
+Japan,JPN,KIMURA Keiichi,Swimming,SWM,Men's 100m Butterfly - S11,Gold Medal
+Azerbaijan,AZE,SALEI Raman,Swimming,SWM,Men's 100m Butterfly - S12,Gold Medal
+Belarus,BLR,BOKI Ihar,Swimming,SWM,Men's 100m Butterfly - S13,Gold Medal
+Brazil,BRA,BANDEIRA Gabriel,Swimming,SWM,Men's 100m Butterfly - S14,Gold Medal
+RPC,RPC,CHERNIAEV Dmitrii,Swimming,SWM,Men's 100m Breaststroke - SB4,Gold Medal
+RPC,RPC,GRANICHKA Andrei,Swimming,SWM,Men's 100m Breaststroke - SB5,Gold Medal
+Ukraine,UKR,BOHODAIKO Yevhenii,Swimming,SWM,Men's 100m Breaststroke - SB6,Gold Medal
+Colombia,COL,SERRANO ZARATE Carlos Daniel,Swimming,SWM,Men's 100m Breaststroke - SB7,Gold Medal
+RPC,RPC,KALINA Andrei,Swimming,SWM,Men's 100m Breaststroke - SB8,Gold Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 100m Breaststroke - SB9,Gold Medal
+Netherlands,NED,DORSMAN Rogier,Swimming,SWM,Men's 100m Breaststroke - SB11,Gold Medal
+Azerbaijan,AZE,ISRAFILOV Vali,Swimming,SWM,Men's 100m Breaststroke - SB12,Gold Medal
+Germany,GER,ENGEL Taliso,Swimming,SWM,Men's 100m Breaststroke - SB13,Gold Medal
+Japan,JPN,YAMAGUCHI Naohide,Swimming,SWM,Men's 100m Breaststroke - SB14,Gold Medal
+Japan,JPN,SUZUKI Takayuki,Swimming,SWM,Men's 100m Freestyle - S4,Gold Medal
+Italy,ITA,BOCCIARDO Francesco,Swimming,SWM,Men's 100m Freestyle - S5,Gold Medal
+Italy,ITA,FANTIN Antonio,Swimming,SWM,Men's 100m Freestyle - S6,Gold Medal
+Australia,AUS,POPHAM Ben,Swimming,SWM,Men's 100m Freestyle - S8,Gold Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 100m Freestyle - S10,Gold Medal
+Azerbaijan,AZE,SALEI Raman,Swimming,SWM,Men's 100m Freestyle - S12,Gold Medal
+Mexico,MEX,HERNANDEZ HERNANDEZ Jesus,Swimming,SWM,Men's 150m Individual Medley - SM3,Gold Medal
+RPC,RPC,ZHDANOV Roman,Swimming,SWM,Men's 150m Individual Medley - SM4,Gold Medal
+Brazil,BRA,dos SANTOS ARAUJO Gabriel Geraldo,Swimming,SWM,Men's 200m Freestyle - S2,Gold Medal
+Ukraine,UKR,OSTAPCHENKO Denys,Swimming,SWM,Men's 200m Freestyle - S3,Gold Medal
+Israel,ISR,DADAON Ami Omer,Swimming,SWM,Men's 200m Freestyle - S4,Gold Medal
+Italy,ITA,BOCCIARDO Francesco,Swimming,SWM,Men's 200m Freestyle - S5,Gold Medal
+Great Britain,GBR,DUNN Reece,Swimming,SWM,Men's 200m Freestyle - S14,Gold Medal
+Colombia,COL,CRISPIN CORZO Nelson,Swimming,SWM,Men's 200m Individual Medley - SM6,Gold Medal
+Israel,ISR,MALYAR Mark,Swimming,SWM,Men's 200m Individual Medley - SM7,Gold Medal
+Ukraine,UKR,DUBROV Denys,Swimming,SWM,Men's 200m Individual Medley - SM8,Gold Medal
+RPC,RPC,KALINA Andrei,Swimming,SWM,Men's 200m Individual Medley - SM9,Gold Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 200m Individual Medley - SM10,Gold Medal
+Netherlands,NED,DORSMAN Rogier,Swimming,SWM,Men's 200m Individual Medley - SM11,Gold Medal
+Belarus,BLR,BOKI Ihar,Swimming,SWM,Men's 200m Individual Medley - SM13,Gold Medal
+Great Britain,GBR,DUNN Reece,Swimming,SWM,Men's 200m Individual Medley - SM14,Gold Medal
+Brazil,BRA,GLOCK Talisson Henrique,Swimming,SWM,Men's 400m Freestyle - S6,Gold Medal
+Israel,ISR,MALYAR Mark,Swimming,SWM,Men's 400m Freestyle - S7,Gold Medal
+RPC,RPC,NIKOLAEV Andrei,Swimming,SWM,Men's 400m Freestyle - S8,Gold Medal
+Australia,AUS,MARTIN William,Swimming,SWM,Men's 400m Freestyle - S9,Gold Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 400m Freestyle - S10,Gold Medal
+Netherlands,NED,DORSMAN Rogier,Swimming,SWM,Men's 400m Freestyle - S11,Gold Medal
+Belarus,BLR,BOKI Ihar,Swimming,SWM,Men's 400m Freestyle - S13,Gold Medal
+Australia,AUS,CROTHERS Rowan,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Gold Medal
+Australia,AUS,LEVY Matthew,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Gold Medal
+Australia,AUS,MARTIN William,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Gold Medal
+Australia,AUS,POPHAM Ben,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Gold Medal
+RPC,RPC,GLADKOV Andrei,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,GRIGORYEV Dmitry,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,KALINA Andrei,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,MOZGOVOI Bogdan,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,NIKOLAEV Andrei,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,SKALIUKH Alexander,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,SMIRNOV Daniil,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+RPC,RPC,TARASOV Denis,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Gold Medal
+Israel,ISR,SHALABI Iyad,Swimming,SWM,Men's 50m Backstroke - S1,Gold Medal
+Brazil,BRA,dos SANTOS ARAUJO Gabriel Geraldo,Swimming,SWM,Men's 50m Backstroke - S2,Gold Medal
+People's Republic of China,CHN,ZOU Liankang,Swimming,SWM,Men's 50m Backstroke - S3,Gold Medal
+RPC,RPC,ZHDANOV Roman,Swimming,SWM,Men's 50m Backstroke - S4,Gold Medal
+People's Republic of China,CHN,ZHENG Tao,Swimming,SWM,Men's 50m Backstroke - S5,Gold Medal
+People's Republic of China,CHN,ZHENG Tao,Swimming,SWM,Men's 50m Butterfly - S5,Gold Medal
+People's Republic of China,CHN,WANG Jingang,Swimming,SWM,Men's 50m Butterfly - S6,Gold Medal
+United States of America,USA,AUSTIN Evan,Swimming,SWM,Men's 50m Butterfly - S7,Gold Medal
+Mexico,MEX,CASTORENA Arnulfo,Swimming,SWM,Men's 50m Breaststroke - SB2,Gold Medal
+RPC,RPC,ZHDANOV Roman,Swimming,SWM,Men's 50m Breaststroke - SB3,Gold Medal
+Mexico,MEX,LOPEZ DIAZ Diego,Swimming,SWM,Men's 50m Freestyle - S3,Gold Medal
+Israel,ISR,DADAON Ami Omer,Swimming,SWM,Men's 50m Freestyle - S4,Gold Medal
+People's Republic of China,CHN,ZHENG Tao,Swimming,SWM,Men's 50m Freestyle - S5,Gold Medal
+Ukraine,UKR,TRUSOV Andrii,Swimming,SWM,Men's 50m Freestyle - S7,Gold Medal
+Italy,ITA,BARLAAM Simone,Swimming,SWM,Men's 50m Freestyle - S9,Gold Medal
+Australia,AUS,CROTHERS Rowan,Swimming,SWM,Men's 50m Freestyle - S10,Gold Medal
+Brazil,BRA,BELARMINO PEREIRA Wendell,Swimming,SWM,Men's 50m Freestyle - S11,Gold Medal
+Belarus,BLR,BOKI Ihar,Swimming,SWM,Men's 50m Freestyle - S13,Gold Medal
+Singapore,SGP,YIP Pin Xiu,Swimming,SWM,Women's 100m Backstroke - S2,Gold Medal
+United States of America,USA,MARKS Elizabeth,Swimming,SWM,Women's 100m Backstroke - S6,Gold Medal
+United States of America,USA,WEGGEMANN Mallory,Swimming,SWM,Women's 100m Backstroke - S7,Gold Medal
+New Zealand,NZL,NEIUFI Tupou,Swimming,SWM,Women's 100m Backstroke - S8,Gold Medal
+United States of America,USA,ASPDEN Hannah,Swimming,SWM,Women's 100m Backstroke - S9,Gold Medal
+Hungary,HUN,PAP Bianka,Swimming,SWM,Women's 100m Backstroke - S10,Gold Medal
+People's Republic of China,CHN,CAI Liwen,Swimming,SWM,Women's 100m Backstroke - S11,Gold Medal
+Great Britain,GBR,RUSSELL Hannah,Swimming,SWM,Women's 100m Backstroke - S12,Gold Medal
+United States of America,USA,PERGOLINI Gia,Swimming,SWM,Women's 100m Backstroke - S13,Gold Medal
+Great Britain,GBR,FIRTH Bethany,Swimming,SWM,Women's 100m Backstroke - S14,Gold Medal
+United States of America,USA,LONG Jessica,Swimming,SWM,Women's 100m Butterfly - S8,Gold Medal
+Hungary,HUN,KONKOLY Zsofia,Swimming,SWM,Women's 100m Butterfly - S9,Gold Medal
+United States of America,USA,JENKINS Mikaela,Swimming,SWM,Women's 100m Butterfly - S10,Gold Medal
+Italy,ITA,GILLI Carlotta,Swimming,SWM,Women's 100m Butterfly - S13,Gold Medal
+RPC,RPC,SHABALINA Valeriia,Swimming,SWM,Women's 100m Butterfly - S14,Gold Medal
+Hungary,HUN,ILLES Fanni,Swimming,SWM,Women's 100m Breaststroke - SB4,Gold Medal
+Ukraine,UKR,MERESHKO Yelyzaveta,Swimming,SWM,Women's 100m Breaststroke - SB5,Gold Medal
+Great Britain,GBR,SUMMERS-NEWTON Maisie,Swimming,SWM,Women's 100m Breaststroke - SB6,Gold Medal
+RPC,RPC,PAVLOVA Mariia,Swimming,SWM,Women's 100m Breaststroke - SB7,Gold Medal
+Ireland,IRL,KEANE Ellen,Swimming,SWM,Women's 100m Breaststroke - SB8,Gold Medal
+Netherlands,NED,ZIJDERVELD Chantalle,Swimming,SWM,Women's 100m Breaststroke - SB9,Gold Medal
+Cyprus,CYP,PELENDRITOU Karolina,Swimming,SWM,Women's 100m Breaststroke - SB11,Gold Medal
+Brazil,BRA,GOMES SANTIAGO Maria Carolina,Swimming,SWM,Women's 100m Breaststroke - SB12,Gold Medal
+Germany,GER,KRAWZOW Elena,Swimming,SWM,Women's 100m Breaststroke - SB13,Gold Medal
+Spain,ESP,ALONSO MORALES Michelle,Swimming,SWM,Women's 100m Breaststroke - SB14,Gold Medal
+Italy,ITA,TRIMI Arjola,Swimming,SWM,Women's 100m Freestyle - S3,Gold Medal
+Great Britain,GBR,KEARNEY Tully,Swimming,SWM,Women's 100m Freestyle - S5,Gold Medal
+Italy,ITA,TERZI Giulia,Swimming,SWM,Women's 100m Freestyle - S7,Gold Medal
+New Zealand,NZL,PASCOE Sophie,Swimming,SWM,Women's 100m Freestyle - S9,Gold Medal
+Canada,CAN,RIVARD Aurelie,Swimming,SWM,Women's 100m Freestyle - S10,Gold Medal
+People's Republic of China,CHN,LI Guizhi,Swimming,SWM,Women's 100m Freestyle - S11,Gold Medal
+Brazil,BRA,GOMES SANTIAGO Maria Carolina,Swimming,SWM,Women's 100n Freestyle - S12,Gold Medal
+People's Republic of China,CHN,LIU Yu,Swimming,SWM,Women's 150m Individual Medley - SM4,Gold Medal
+People's Republic of China,CHN,ZHANG Li,Swimming,SWM,Women's 200m Freestyle - S5,Gold Medal
+RPC,RPC,SHABALINA Valeriia,Swimming,SWM,Women's 200m Freestyle - S14,Gold Medal
+People's Republic of China,CHN,LU Dong,Swimming,SWM,Women's 200m Individual Medley - SM5,Gold Medal
+Great Britain,GBR,SUMMERS-NEWTON Maisie,Swimming,SWM,Women's 200m Individual Medley - SM6,Gold Medal
+United States of America,USA,WEGGEMANN Mallory,Swimming,SWM,Women's 200m Individual Medley - SM7,Gold Medal
+United States of America,USA,LONG Jessica,Swimming,SWM,Women's 200m Individual Medley - SM8,Gold Medal
+New Zealand,NZL,PASCOE Sophie,Swimming,SWM,Women's 200m Individual Medley - SM9,Gold Medal
+Netherlands,NED,ZIJDERVELD Chantalle,Swimming,SWM,Women's 200m Individual Medley - SM10,Gold Medal
+People's Republic of China,CHN,MA Jia,Swimming,SWM,Women's 200m Individual Medley - SM11,Gold Medal
+Italy,ITA,GILLI Carlotta,Swimming,SWM,Women's 200m Individual Medley - SM13,Gold Medal
+RPC,RPC,SHABALINA Valeriia,Swimming,SWM,Women's 200m Individual Medley - SM14,Gold Medal
+People's Republic of China,CHN,JIANG Yuyan,Swimming,SWM,Women's 400m Freestyle - S6,Gold Medal
+United States of America,USA,COAN McKenzie,Swimming,SWM,Women's 400m Freestyle - S7,Gold Medal
+United States of America,USA,STICKNEY Morgan,Swimming,SWM,Women's 400m Freestyle - S8,Gold Medal
+Australia,AUS,PATTERSON Lakeisha,Swimming,SWM,Women's 400m Freestyle - S9,Gold Medal
+Canada,CAN,RIVARD Aurelie,Swimming,SWM,Women's 400m Freestyle - S10,Gold Medal
+United States of America,USA,PAGONIS Anastasia,Swimming,SWM,Women's 400m Freestyle - S11,Gold Medal
+Ukraine,UKR,STETSENKO Anna,Swimming,SWM,Women's 400m Freestyle - S13,Gold Medal
+Italy,ITA,BIANCO Vittoria,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Gold Medal
+Italy,ITA,PALAZZO Xenia Francesca,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Gold Medal
+Italy,ITA,SCORTECHINI Alessia,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Gold Medal
+Italy,ITA,TERZI Giulia,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Gold Medal
+United States of America,USA,ASPDEN Hannah,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Gold Medal
+United States of America,USA,JENKINS Mikaela,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Gold Medal
+United States of America,USA,LONG Jessica,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Gold Medal
+United States of America,USA,STICKNEY Morgan,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Gold Medal
+Singapore,SGP,YIP Pin Xiu,Swimming,SWM,Women's 50m Backstroke - S2,Gold Medal
+Italy,ITA,TRIMI Arjola,Swimming,SWM,Women's 50m Backstroke - S3,Gold Medal
+People's Republic of China,CHN,LIU Yu,Swimming,SWM,Women's 50m Backstroke - S4,Gold Medal
+People's Republic of China,CHN,LU Dong,Swimming,SWM,Women's 50m Backstroke - S5,Gold Medal
+People's Republic of China,CHN,LU Dong,Swimming,SWM,Women's 50m Butterfly - S5,Gold Medal
+People's Republic of China,CHN,JIANG Yuyan,Swimming,SWM,Women's 50m Butterfly - S6,Gold Medal
+Canada,CAN,DORRIS Danielle,Swimming,SWM,Women's 50m Butterfly - S7,Gold Medal
+Spain,ESP,FERNANDEZ INFANTE Marta,Swimming,SWM,Women's 50m Breaststroke - SB3,Gold Medal
+Australia,AUS,WATSON Rachael,Swimming,SWM,Women's 50m Freestyle - S4,Gold Medal
+Ukraine,UKR,MERESHKO Yelyzaveta,Swimming,SWM,Women's 50m Freestyle - S6,Gold Medal
+RPC,RPC,ISHCHIULOVA Viktoriia,Swimming,SWM,Women's 50m Freestyle - S8,Gold Medal
+RPC,RPC,GONTAR Anastasiia,Swimming,SWM,Women's 50m Freestyle - S10,Gold Medal
+People's Republic of China,CHN,MA Jia,Swimming,SWM,Women's 50m Freestyle - S11,Gold Medal
+Brazil,BRA,GOMES SANTIAGO Maria Carolina,Swimming,SWM,Women's 50m Freestyle - S13,Gold Medal
+RPC,RPC,GARIPOV Ilnur,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Gold Medal
+RPC,RPC,KRIVSHINA Anna,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Gold Medal
+RPC,RPC,PIKALOVA Daria,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Gold Medal
+RPC,RPC,SOTNIKOV Vladimir,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Gold Medal
+Great Britain,GBR,APPLEGATE Jessica-Jane,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Gold Medal
+Great Britain,GBR,CATCHPOLE Jordan,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Gold Medal
+Great Britain,GBR,DUNN Reece,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Gold Medal
+Great Britain,GBR,FIRTH Bethany,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Gold Medal
+People's Republic of China,CHN,JIA Hongguang,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,LU Dong,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,WANG Lichao,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,YAO Cuan,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,YUAN Weiyi,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,ZHANG Li,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,ZHENG Tao,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+People's Republic of China,CHN,ZHOU Yanfei,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Gold Medal
+Republic of Korea,KOR,JOO Young Dae,Table Tennis,TTE,Men's Singles - Class 1,Gold Medal
+France,FRA,LAMIRAULT Fabien,Table Tennis,TTE,Men's Singles - Class 2,Gold Medal
+People's Republic of China,CHN,FENG Panfeng,Table Tennis,TTE,Men's Singles - Class 3,Gold Medal
+Turkey,TUR,OZTURK Abdullah,Table Tennis,TTE,Men's Singles - Class 4,Gold Medal
+Germany,GER,BAUS Valentin,Table Tennis,TTE,Men's Singles - Class 5,Gold Medal
+United States of America,USA,SEIDENFELD Ian,Table Tennis,TTE,Men's Singles - Class 6,Gold Medal
+People's Republic of China,CHN,YAN Shuo,Table Tennis,TTE,Men's Singles - Class 7,Gold Medal
+People's Republic of China,CHN,ZHAO Shuai,Table Tennis,TTE,Men's Singles - Class 8,Gold Medal
+Belgium,BEL,DEVOS Laurens,Table Tennis,TTE,Men's Singles - Class 9,Gold Medal
+Poland,POL,CHOJNOWSKI Patryk,Table Tennis,TTE,Men's Singles - Class 10,Gold Medal
+Hungary,HUN,PALOS Peter,Table Tennis,TTE,Men's Singles - Class 11,Gold Medal
+France,FRA,LAMIRAULT Fabien,Table Tennis,TTE,Men's Team - Classes 1-2,Gold Medal
+France,FRA,MOLLIENS Stephane,Table Tennis,TTE,Men's Team - Classes 1-2,Gold Medal
+People's Republic of China,CHN,FENG Panfeng,Table Tennis,TTE,Men's Team - Class 3,Gold Medal
+People's Republic of China,CHN,ZHAI Xiang,Table Tennis,TTE,Men's Team - Class 3,Gold Medal
+People's Republic of China,CHN,ZHAO Ping,Table Tennis,TTE,Men's Team - Class 3,Gold Medal
+People's Republic of China,CHN,CAO Ningning,Table Tennis,TTE,Men's Team - Class 4-5,Gold Medal
+People's Republic of China,CHN,GUO Xingyuan,Table Tennis,TTE,Men's Team - Class 4-5,Gold Medal
+People's Republic of China,CHN,ZHANG Yan,Table Tennis,TTE,Men's Team - Class 4-5,Gold Medal
+People's Republic of China,CHN,CHEN Chao,Table Tennis,TTE,Men's Team - Classes 6-7,Gold Medal
+People's Republic of China,CHN,LIAO Keli,Table Tennis,TTE,Men's Team - Classes 6-7,Gold Medal
+People's Republic of China,CHN,YAN Shuo,Table Tennis,TTE,Men's Team - Classes 6-7,Gold Medal
+People's Republic of China,CHN,PENG Weinan,Table Tennis,TTE,Men's Team - Class 8,Gold Medal
+People's Republic of China,CHN,YE Chao Qun,Table Tennis,TTE,Men's Team - Class 8,Gold Medal
+People's Republic of China,CHN,ZHAO Shuai,Table Tennis,TTE,Men's Team - Class 8,Gold Medal
+People's Republic of China,CHN,LIAN Hao,Table Tennis,TTE,Men's Team - Class 9-10,Gold Medal
+People's Republic of China,CHN,ZHAO Yi Qing,Table Tennis,TTE,Men's Team - Class 9-10,Gold Medal
+People's Republic of China,CHN,LIU Jing,Table Tennis,TTE,Women's Singles - Classes 1-2,Gold Medal
+People's Republic of China,CHN,XUE Juan,Table Tennis,TTE,Women's Singles - Class 3,Gold Medal
+People's Republic of China,CHN,ZHOU Ying,Table Tennis,TTE,Women's Singles - Class 4,Gold Medal
+People's Republic of China,CHN,ZHANG Bian,Table Tennis,TTE,Women's Singles - Class 5,Gold Medal
+Ukraine,UKR,LYTOVCHENKO Maryna,Table Tennis,TTE,Women's Singles - Class 6,Gold Medal
+Netherlands,NED,van ZON Kelly,Table Tennis,TTE,Women's Singles - Class 7,Gold Medal
+People's Republic of China,CHN,MAO Jingdian,Table Tennis,TTE,Women's Singles - Class 8,Gold Medal
+Australia,AUS,LEI Li Na,Table Tennis,TTE,Women's Singles - Class 9,Gold Medal
+Australia,AUS,YANG Qian,Table Tennis,TTE,Women's Singles - Class 10,Gold Medal
+RPC,RPC,PROKOFEVA Elena,Table Tennis,TTE,Women's Singles - Class 11,Gold Medal
+People's Republic of China,CHN,LI Qian,Table Tennis,TTE,Women's Team - Classes 1-3,Gold Medal
+People's Republic of China,CHN,LIU Jing,Table Tennis,TTE,Women's Team - Classes 1-3,Gold Medal
+People's Republic of China,CHN,XUE Juan,Table Tennis,TTE,Women's Team - Classes 1-3,Gold Medal
+People's Republic of China,CHN,ZHANG Bian,Table Tennis,TTE,Women's Team - Classes 4-5,Gold Medal
+People's Republic of China,CHN,ZHANG Miao,Table Tennis,TTE,Women's Team - Classes 4-5,Gold Medal
+People's Republic of China,CHN,ZHOU Ying,Table Tennis,TTE,Women's Team - Classes 4-5,Gold Medal
+People's Republic of China,CHN,HUANG Wenjuan,Table Tennis,TTE,Women's Team - Classes 6-8,Gold Medal
+People's Republic of China,CHN,MAO Jingdian,Table Tennis,TTE,Women's Team - Classes 6-8,Gold Medal
+People's Republic of China,CHN,WANG Rui,Table Tennis,TTE,Women's Team - Classes 6-8,Gold Medal
+Poland,POL,PARTYKA Natalia,Table Tennis,TTE,Women's Team - Classes 9-10,Gold Medal
+Poland,POL,PEK Karolina,Table Tennis,TTE,Women's Team - Classes 9-10,Gold Medal
+Brazil,BRA,SODARIO TORQUATO Nathan Cesar,Taekwondo,TKW,Men K44 -61kg,Gold Medal
+Mexico,MEX,GARCIA LOPEZ Juan Diego,Taekwondo,TKW,Men K44 -75kg,Gold Medal
+Islamic Republic of Iran,IRI,AZIZIAGHDAM Asghar,Taekwondo,TKW,Men K44 +75kg,Gold Medal
+Peru,PER,ESPINOZA CARRANZA Leonor,Taekwondo,TKW,Women K44 -49kg,Gold Medal
+Denmark,DEN,GJESSING Lisa,Taekwondo,TKW,Women K44 -58kg,Gold Medal
+Uzbekistan,UZB,NAIMOVA Guljonoy,Taekwondo,TKW,Women K44 +58kg,Gold Medal
+Netherlands,NED,PLAT Jetze,Triathlon,TRI,Men's PTWC,Gold Medal
+United States of America,USA,SNYDER Brad,Triathlon,TRI,Men's PTVI,Gold Medal
+France,FRA,HANQUINQUANT Alexis,Triathlon,TRI,Men's PTS4,Gold Medal
+Germany,GER,SCHULZ Martin,Triathlon,TRI,Men's PTS5,Gold Medal
+United States of America,USA,SEELY Allysa,Triathlon,TRI,Women's PTS2,Gold Medal
+United States of America,USA,GRETSCH Kendall,Triathlon,TRI,Women's PTWC,Gold Medal
+Spain,ESP,RODRIGUEZ Susana,Triathlon,TRI,Women's PTVI,Gold Medal
+Great Britain,GBR,STEADMAN Lauren,Triathlon,TRI,Women's PTS5,Gold Medal
+United States of America,USA,BELL Brian,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,BOIE John,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,HINZE Nate,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,JENIFER Trevon,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,LESPERANCE Matt,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,NEISWENDER Ryan,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,PAYE Michael,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,SANCHEZ Jorge,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,SCOTT Matt,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,SERIO Steve,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,TUREK Joshua,Wheelchair Basketball,WBK,Men,Gold Medal
+United States of America,USA,WILLIAMS Jacob,Wheelchair Basketball,WBK,Men,Gold Medal
+Netherlands,NED,ARTS Ilse,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,BEIJER Mariska,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,de ROOIJ Carina,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,FRELINK Lindsay,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,KORVER Cher,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,KRAMER Bo,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,PRONK Saskia,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,TAGGENBROCK Anouk,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,van der SPRONG Julia,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,van HEES Sylvana,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,VISSER Jitske,Wheelchair Basketball,WBK,Women,Gold Medal
+Netherlands,NED,WIMMENHOEVE Xena,Wheelchair Basketball,WBK,Women,Gold Medal
+Great Britain,GBR,GILLIVER Piers,Wheelchair Fencing,WFE,Men's Épée Individual - Category A,Gold Medal
+RPC,RPC,KUZYUKOV Alexander,Wheelchair Fencing,WFE,Men's Épée Individual - Category B,Gold Medal
+People's Republic of China,CHN,SUN Gang,Wheelchair Fencing,WFE,Men's Foil Individual - Category A,Gold Medal
+People's Republic of China,CHN,FENG Yanke,Wheelchair Fencing,WFE,Men's Foil Individual - Category B,Gold Medal
+People's Republic of China,CHN,LI Hao,Wheelchair Fencing,WFE,Men's Sabre Individual - Category A,Gold Medal
+People's Republic of China,CHN,FENG Yanke,Wheelchair Fencing,WFE,Men's Sabre Individual - Category B,Gold Medal
+RPC,RPC,KUZYUKOV Alexander,Wheelchair Fencing,WFE,Men's Épée Team,Gold Medal
+RPC,RPC,SHABUROV Maxim,Wheelchair Fencing,WFE,Men's Épée Team,Gold Medal
+RPC,RPC,YUSUPOV Artur,Wheelchair Fencing,WFE,Men's Épée Team,Gold Medal
+People's Republic of China,CHN,HU Daoliang,Wheelchair Fencing,WFE,Men's Foil Team,Gold Medal
+People's Republic of China,CHN,LI Hao,Wheelchair Fencing,WFE,Men's Foil Team,Gold Medal
+People's Republic of China,CHN,SUN Gang,Wheelchair Fencing,WFE,Men's Foil Team,Gold Medal
+Hungary,HUN,VERES Amarilla,Wheelchair Fencing,WFE,Women's Épée Individual - Category A,Gold Medal
+People's Republic of China,CHN,TAN Shumei,Wheelchair Fencing,WFE,Women's Épée Individual - Category B,Gold Medal
+People's Republic of China,CHN,GU Haiyan,Wheelchair Fencing,WFE,Women's Foil Individual - Category A,Gold Medal
+Italy,ITA,VIO Beatrice Maria,Wheelchair Fencing,WFE,Women's Foil Individual - Category B,Gold Medal
+People's Republic of China,CHN,BIAN Jing,Wheelchair Fencing,WFE,Women's Sabre Individual - Category A,Gold Medal
+People's Republic of China,CHN,TAN Shumei,Wheelchair Fencing,WFE,Women's Sabre Individual - Category B,Gold Medal
+People's Republic of China,CHN,BIAN Jing,Wheelchair Fencing,WFE,Women's Épée Team,Gold Medal
+People's Republic of China,CHN,RONG Jing,Wheelchair Fencing,WFE,Women's Épée Team,Gold Medal
+People's Republic of China,CHN,TAN Shumei,Wheelchair Fencing,WFE,Women's Épée Team,Gold Medal
+People's Republic of China,CHN,GU Haiyan,Wheelchair Fencing,WFE,Women's Foil Team,Gold Medal
+People's Republic of China,CHN,RONG Jing,Wheelchair Fencing,WFE,Women's Foil Team,Gold Medal
+People's Republic of China,CHN,ZHOU Jingjing,Wheelchair Fencing,WFE,Women's Foil Team,Gold Medal
+Great Britain,GBR,BHUTA Ayaz,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,COGGAN Jonathan,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,COWLING Ryan,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,CUMMINS Nicholas,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,GRIMES Kylie,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,PHIPPS Aaron,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,ROBERTS Jim,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,ROBINSON Stuart,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,RYAN Chris,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,SMITH Jack,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,STEAD Jamie,Wheelchair Rugby,WRU,Mixed,Gold Medal
+Great Britain,GBR,WALKER Gavin,Wheelchair Rugby,WRU,Mixed,Gold Medal
+France,FRA,HOUDET Stephane,Wheelchair Tennis,WTE,Men's Doubles,Gold Medal
+France,FRA,PEIFER Nicolas,Wheelchair Tennis,WTE,Men's Doubles,Gold Medal
+Japan,JPN,KUNIEDA Shingo,Wheelchair Tennis,WTE,Men's Singles,Gold Medal
+Netherlands,NED,SCHRODER Sam,Wheelchair Tennis,WTE,Quad Doubles,Gold Medal
+Netherlands,NED,VINK Niels,Wheelchair Tennis,WTE,Quad Doubles,Gold Medal
+Australia,AUS,ALCOTT Dylan,Wheelchair Tennis,WTE,Quad Singles,Gold Medal
+Netherlands,NED,de GROOT Diede,Wheelchair Tennis,WTE,Women's Doubles,Gold Medal
+Netherlands,NED,van KOOT Aniek,Wheelchair Tennis,WTE,Women's Doubles,Gold Medal
+Netherlands,NED,de GROOT Diede,Wheelchair Tennis,WTE,Women's Singles,Gold Medal
+Turkey,TUR,TURKMENOGLU Nihat,Archery,ARC,Men's Individual - W1,Silver Medal
+Islamic Republic of Iran,IRI,BIABANI Ramezan,Archery,ARC,Men's Individual Compound - Open,Silver Medal
+People's Republic of China,CHN,ZHAO Lixue,Archery,ARC,Men's Individual Recurve - Open,Silver Medal
+Czech Republic,CZE,MUSILOVA Sarka,Archery,ARC,Women's Individual - W1,Silver Medal
+Chile,CHI,ZUNIGA VARELA Mariana,Archery,ARC,Women's Individual Compound - Open,Silver Medal
+Italy,ITA,PETRILLI Vincenza,Archery,ARC,Women's Individual Recurve - Open,Silver Medal
+Czech Republic,CZE,DRAHONINSKY David,Archery,ARC,Mixed Team - W1,Silver Medal
+Czech Republic,CZE,MUSILOVA Sarka,Archery,ARC,Mixed Team - W1,Silver Medal
+Turkey,TUR,CURE Oznur,Archery,ARC,Mixed Team Compound - Open,Silver Medal
+Turkey,TUR,KORKMAZ Bulent,Archery,ARC,Mixed Team Compound - Open,Silver Medal
+Italy,ITA,MIJNO Elisabetta,Archery,ARC,Mixed Team Recurve - Open,Silver Medal
+Italy,ITA,TRAVISANI Stefano,Archery,ARC,Mixed Team Recurve - Open,Silver Medal
+France,FRA,ADOLPHE Timothee,Athletics,ATH,Men's 100m - T11,Silver Medal
+United States of America,USA,MALONE Noah,Athletics,ATH,Men's 100m - T12,Silver Medal
+Algeria,ALG,ATHMANI Skander Djamil,Athletics,ATH,Men's 100m - T13,Silver Medal
+Kuwait,KUW,ALMUTAIRI Ahmad,Athletics,ATH,Men's 100m - T33,Silver Medal
+Australia,AUS,McCRACKEN Rheed,Athletics,ATH,Men's 100m - T34,Silver Medal
+Ukraine,UKR,TSVIETOV Ihor,Athletics,ATH,Men's 100m - T35,Silver Medal
+Australia,AUS,TURNER James,Athletics,ATH,Men's 100m - T36,Silver Medal
+RPC,RPC,VDOVIN Andrei,Athletics,ATH,Men's 100m - T37,Silver Medal
+People's Republic of China,CHN,ZHU Dening,Athletics,ATH,Men's 100m - T38,Silver Medal
+Poland,POL,DERUS Michal,Athletics,ATH,Men's 100m - T47,Silver Medal
+Finland,FIN,PIISPANEN Toni,Athletics,ATH,Men's 100m - T51,Silver Medal
+Japan,JPN,OYA Yuki,Athletics,ATH,Men's 100m - T52,Silver Medal
+Canada,CAN,LAKATOS Brent,Athletics,ATH,Men's 100m - T53,Silver Medal
+Finland,FIN,TAHTI Leo Pekka,Athletics,ATH,Men's 100m - T54,Silver Medal
+Brazil,BRA,GONCALVES RODRIGUES Vinicius,Athletics,ATH,Men's 100m - T63,Silver Medal
+Costa Rica,CRC,GUITY GUITY Sherman Isidro,Athletics,ATH,Men's 100m - T64,Silver Medal
+Japan,JPN,WADA Shinya,Athletics,ATH,Men's 1500m - T11,Silver Medal
+Tunisia,TUN,JEBABLI Rouay,Athletics,ATH,Men's 1500m - T13,Silver Medal
+RPC,RPC,RABOTNITSKII Alexandr,Athletics,ATH,Men's 1500m - T20,Silver Medal
+Algeria,ALG,KRAI Abdelkrim,Athletics,ATH,Men's 1500m - T38,Silver Medal
+Bulgaria,BUL,STOYANOV Hristiyan,Athletics,ATH,Men's 1500m - T46,Silver Medal
+United States of America,USA,MARTIN Raymond,Athletics,ATH,Men's 1500m - T52,Silver Medal
+Thailand,THA,WAHORAM Prawat,Athletics,ATH,Men's 1500m - T54,Silver Medal
+Ukraine,UKR,TSVIETOV Ihor,Athletics,ATH,Men's 200m - T35,Silver Medal
+RPC,RPC,VDOVIN Andrei,Athletics,ATH,Men's 200m - T37,Silver Medal
+Belgium,BEL,GENYN Peter,Athletics,ATH,Men's 200m - T51,Silver Medal
+Great Britain,GBR,WHITEHEAD Richard,Athletics,ATH,Men's 200m - T61,Silver Medal
+Germany,GER,STRENG Felix,Athletics,ATH,Men's 200m - T64,Silver Medal
+Namibia,NAM,SHIKONGO Ananias,Athletics,ATH,Men's 400m - T11,Silver Medal
+United States of America,USA,MALONE Noah,Athletics,ATH,Men's 400m - T12,Silver Medal
+Morocco,MAR,AMGUOUN Mohamed,Athletics,ATH,Men's 400m - T13,Silver Medal
+Venezuela,VEN,RODRIGUEZ BOLIVAR Luis Felipe,Athletics,ATH,Men's 400m - T20,Silver Medal
+RPC,RPC,SHVETSOV Evgenii,Athletics,ATH,Men's 400m - T36,Silver Medal
+United States of America,USA,MAYHUGH Nick,Athletics,ATH,Men's 400m - T37,Silver Medal
+Tunisia,TUN,CHIDA Mohamed Farhat,Athletics,ATH,Men's 400m - T38,Silver Medal
+Brazil,BRA,de MORAES Thomaz Ruan,Athletics,ATH,Men's 400m - T47,Silver Medal
+United States of America,USA,MARTIN Raymond,Athletics,ATH,Men's 400m - T52,Silver Medal
+Canada,CAN,LAKATOS Brent,Athletics,ATH,Men's 400m - T53,Silver Medal
+Thailand,THA,PAENG-NUEA Athiwat,Athletics,ATH,Men's 400m - T54,Silver Medal
+Netherlands,NED,HENDRIKS Olivier,Athletics,ATH,Men's 400m - T62,Silver Medal
+Japan,JPN,KARASAWA Kenya,Athletics,ATH,Men's 5000m - T11,Silver Medal
+Australia,AUS,CLIFFORD Jaryd,Athletics,ATH,Men's 5000m - T13,Silver Medal
+Canada,CAN,LAKATOS Brent,Athletics,ATH,Men's 5000m - T54,Silver Medal
+United Arab Emirates,UAE,ALHAMMADI Mohamed,Athletics,ATH,Men's 800m - T34,Silver Medal
+Canada,CAN,LAKATOS Brent,Athletics,ATH,Men's 800m - T53,Silver Medal
+People's Republic of China,CHN,DAI Yunqiang,Athletics,ATH,Men's 800m - T54,Silver Medal
+Greece,GRE,KONSTANTINIDIS Athanasios,Athletics,ATH,Men's Club Throw - F32,Silver Medal
+Serbia,SRB,DIMITRIJEVIC Zeljko,Athletics,ATH,Men's Club Throw - F51,Silver Medal
+Islamic Republic of Iran,IRI,OLAD Mahdi,Athletics,ATH,Men's Discus Throw - F11,Silver Medal
+Ukraine,UKR,ZHABNYAK Mykola,Athletics,ATH,Men's Discus Throw - F37,Silver Medal
+Croatia,CRO,SANDOR Velimir,Athletics,ATH,Men's Discus Throw - F52,Silver Medal
+India,IND,KATHUNIYA Yogesh,Athletics,ATH,Men's Discus Throw - F56,Silver Medal
+Croatia,CRO,KATANUSIC Ivan,Athletics,ATH,Men's Discus Throw - F64,Silver Medal
+India,IND,NISHAD KUMAR,Athletics,ATH,Men's High Jump - T47,Silver Medal
+United States of America,USA,WISE Dallas,Athletics,ATH,Men's High Jump - T47,Silver Medal
+India,IND,THANGAVELU Mariyappan,Athletics,ATH,Men's High Jump - T63,Silver Medal
+India,IND,PRAVEEN KUMAR,Athletics,ATH,Men's High Jump - T64,Silver Medal
+Islamic Republic of Iran,IRI,PIROUJ Ali,Athletics,ATH,Men's Javelin Throw - F13,Silver Medal
+Colombia,COL,VALENCIA Mauricio,Athletics,ATH,Men's Javelin Throw - F34,Silver Medal
+Ukraine,UKR,BILYI Vladyslav,Athletics,ATH,Men's Javelin Throw - F38,Silver Medal
+Islamic Republic of Iran,IRI,BEIT SAYAH Sadegh,Athletics,ATH,Men's Javelin Throw - F41,Silver Medal
+India,IND,DEVENDRA,Athletics,ATH,Men's Javelin Throw - F46,Silver Medal
+RPC,RPC,KUZNETSOV Aleksei,Athletics,ATH,Men's Javelin Throw - F54,Silver Medal
+Islamic Republic of Iran,IRI,PAPI Amanolah,Athletics,ATH,Men's Javelin Throw - F57,Silver Medal
+Australia,AUS,BURIAN Michal,Athletics,ATH,Men's Javelin Throw - F64,Silver Medal
+United States of America,USA,GILLETTE Lex,Athletics,ATH,Men's Long Jump - T11,Silver Medal
+Cuba,CUB,SAVON PINEDA Leinier,Athletics,ATH,Men's Long Jump - T12,Silver Medal
+Spain,ESP,CANO BLANCO Ivan Jose,Athletics,ATH,Men's Long Jump - T13,Silver Medal
+Greece,GRE,PRODROMOU Athanasios,Athletics,ATH,Men's Long Jump - T20,Silver Medal
+New Zealand,NZL,STEDMAN William,Athletics,ATH,Men's Long Jump - T36,Silver Medal
+Argentina,ARG,IMPELLIZZERI Brian Lionel,Athletics,ATH,Men's Long Jump - T37,Silver Medal
+People's Republic of China,CHN,ZHONG Huanghao,Athletics,ATH,Men's Long Jump - T38,Silver Medal
+United States of America,USA,TOWNSEND Roderick,Athletics,ATH,Men's Long Jump - T47,Silver Medal
+Germany,GER,SCHAEFER Leon,Athletics,ATH,Men's Long Jump - T63,Silver Medal
+France,FRA,PAVADE Dimitri,Athletics,ATH,Men's Long Jump - T64,Silver Medal
+Australia,AUS,CLIFFORD Jaryd,Athletics,ATH,Men's Marathon - T12,Silver Medal
+Brazil,BRA,PIRES da SILVA Alex Douglas,Athletics,ATH,Men's Marathon - T46,Silver Medal
+People's Republic of China,CHN,ZHANG Yong,Athletics,ATH,Men's Marathon - T54,Silver Medal
+Brazil,BRA,da SILVA Alessandro Rodrigo,Athletics,ATH,Men's Shot Put - F11,Silver Medal
+Ukraine,UKR,DANYLIUK Roman,Athletics,ATH,Men's Shot Put - F12,Silver Medal
+Ukraine,UKR,YAROVYI Oleksandr,Athletics,ATH,Men's Shot Put - F20,Silver Medal
+RPC,RPC,CHURKIN Aleksei,Athletics,ATH,Men's Shot Put - F32,Silver Medal
+Algeria,ALG,KARDJENA Kamel,Athletics,ATH,Men's Shot Put - F33,Silver Medal
+Morocco,MAR,NOUIRI Azeddine,Athletics,ATH,Men's Shot Put - F34,Silver Medal
+Argentina,ARG,URRA Hernan Emanuel,Athletics,ATH,Men's Shot Put - F35,Silver Medal
+Tunisia,TUN,GUENICHI Yassine,Athletics,ATH,Men's Shot Put - F36,Silver Medal
+Tunisia,TUN,BEN MOSLAH Ahmed,Athletics,ATH,Men's Shot Put - F37,Silver Medal
+Iraq,IRQ,TNAIASH Garrah,Athletics,ATH,Men's Shot Put - F40,Silver Medal
+United States of America,USA,LANDRY Hagan,Athletics,ATH,Men's Shot Put - F41,Silver Medal
+RPC,RPC,PROKHOROV Nikita,Athletics,ATH,Men's Shot Put - F46,Silver Medal
+Islamic Republic of Iran,IRI,MOKHTARI HEMAMI Alireza,Athletics,ATH,Men's Shot Put - F53,Silver Medal
+Bulgaria,BUL,RUZHDI Ruzhdi,Athletics,ATH,Men's Shot Put - F55,Silver Medal
+Brazil,BRA,BORGES Marco Aurelio,Athletics,ATH,Men's Shot Put - F57,Silver Medal
+Islamic Republic of Iran,IRI,MOHAMMADIAN Sajad,Athletics,ATH,Men's Shot Put - F63,Silver Medal
+People's Republic of China,CHN,LIU Cuiqing,Athletics,ATH,Women's 100m - T11,Silver Medal
+Ukraine,UKR,BOTURCHUK Oksana,Athletics,ATH,Women's 100m - T12,Silver Medal
+Azerbaijan,AZE,VALIYEVA Lamiya,Athletics,ATH,Women's 100m - T13,Silver Medal
+Great Britain,GBR,ADENEGAN Kare,Athletics,ATH,Women's 100m - T34,Silver Medal
+Australia,AUS,HOLT Isis,Athletics,ATH,Women's 100m - T35,Silver Medal
+RPC,RPC,IVANOVA Elena,Athletics,ATH,Women's 100m - T36,Silver Medal
+United States of America,USA,ROBERTS Jaleen,Athletics,ATH,Women's 100m - T37,Silver Medal
+Colombia,COL,JIMENEZ SANCHEZ Darian Faisury,Athletics,ATH,Women's 100m - T38,Silver Medal
+United States of America,USA,MASON Brittni,Athletics,ATH,Women's 100m - T47,Silver Medal
+People's Republic of China,CHN,ZHOU Hongzhuan,Athletics,ATH,Women's 100m - T53,Silver Medal
+Finland,FIN,KOTAJA Amanda,Athletics,ATH,Women's 100m - T54,Silver Medal
+Italy,ITA,CAIRONI Martina,Athletics,ATH,Women's 100m - T63,Silver Medal
+Germany,GER,BENSUSAN Irmgard,Athletics,ATH,Women's 100m - T64,Silver Medal
+South Africa,RSA,COETZEE Louzanne,Athletics,ATH,Women's 1500m - T11,Silver Medal
+United States of America,USA,CORSO Liza,Athletics,ATH,Women's 1500m - T13,Silver Medal
+Ukraine,UKR,DANYLINA Liudmyla,Athletics,ATH,Women's 1500m - T20,Silver Medal
+Switzerland,SUI,SCHAER Manuela,Athletics,ATH,Women's 1500m - T54,Silver Medal
+Brazil,BRA,SIMPLICIO da SILVA Thalita Vitoria,Athletics,ATH,Women's 200m - T11,Silver Medal
+Ukraine,UKR,BOTURCHUK Oksana,Athletics,ATH,Women's 200m - T12,Silver Medal
+Australia,AUS,HOLT Isis,Athletics,ATH,Women's 200m - T35,Silver Medal
+New Zealand,NZL,AITCHISON Danielle,Athletics,ATH,Women's 200m - T36,Silver Medal
+People's Republic of China,CHN,JIANG Fenfen,Athletics,ATH,Women's 200m - T37,Silver Medal
+United States of America,USA,MASON Brittni,Athletics,ATH,Women's 200m - T47,Silver Medal
+Germany,GER,BENSUSAN Irmgard,Athletics,ATH,Women's 200m - T64,Silver Medal
+Brazil,BRA,SIMPLICIO da SILVA Thalita Vitoria,Athletics,ATH,Women's 400m - T11,Silver Medal
+Ukraine,UKR,BOTURCHUK Oksana,Athletics,ATH,Women's 400m - T12,Silver Medal
+Spain,ESP,IGLESIAS FORNEIRO Adiaratou,Athletics,ATH,Women's 400m - T13,Silver Medal
+Ukraine,UKR,SHULIAR Yuliia,Athletics,ATH,Women's 400m - T20,Silver Medal
+Ukraine,UKR,KOBZAR Nataliia,Athletics,ATH,Women's 400m - T37,Silver Medal
+RPC,RPC,GONCHAROVA Margarita,Athletics,ATH,Women's 400m - T38,Silver Medal
+Venezuela,VEN,VERA ANDRADE Lisbeli Marina,Athletics,ATH,Women's 400m - T47,Silver Medal
+Great Britain,GBR,KINGHORN Samantha,Athletics,ATH,Women's 400m - T53,Silver Medal
+United States of America,USA,MADSEN Cheri,Athletics,ATH,Women's 400m - T54,Silver Medal
+Switzerland,SUI,SCHAER Manuela,Athletics,ATH,Women's 5000m - T54,Silver Medal
+Great Britain,GBR,ADENEGAN Kare,Athletics,ATH,Women's 800m - T34,Silver Medal
+People's Republic of China,CHN,ZHOU Hongzhuan,Athletics,ATH,Women's 800m - T53,Silver Medal
+United States of America,USA,McFADDEN Tatyana,Athletics,ATH,Women's 800m - T54,Silver Medal
+Ukraine,UKR,MOSKALENKO Anastasiia,Athletics,ATH,Women's Club Throw - F32,Silver Medal
+United States of America,USA,MITCHELL Cassie,Athletics,ATH,Women's Club Throw - F51,Silver Medal
+Italy,ITA,LEGNANTE Assunta,Athletics,ATH,Women's Discus Throw - F11,Silver Medal
+People's Republic of China,CHN,LI Yingli,Athletics,ATH,Women's Discus Throw - F38,Silver Medal
+Morocco,MAR,KARIM Youssra,Athletics,ATH,Women's Discus Throw - F41,Silver Medal
+Ukraine,UKR,LEBIEDIEVA Iana,Athletics,ATH,Women's Discus Throw - F53,Silver Medal
+Latvia,LAT,DADZITE Diana,Athletics,ATH,Women's Discus Throw - F55,Silver Medal
+Algeria,ALG,SAIFI Nassima,Athletics,ATH,Women's Discus Throw - F57,Silver Medal
+People's Republic of China,CHN,YANG Yue,Athletics,ATH,Women's Discus Throw - F64,Silver Medal
+People's Republic of China,CHN,ZHAO Yuping,Athletics,ATH,Women's Javelin Throw - F13,Silver Medal
+Germany,GER,HERRMANN Frances,Athletics,ATH,Women's Javelin Throw - F34,Silver Medal
+Netherlands,NED,ROORDA Noelle,Athletics,ATH,Women's Javelin Throw - F46,Silver Medal
+Uzbekistan,UZB,KURBANOVA Nurkhon,Athletics,ATH,Women's Javelin Throw - F54,Silver Medal
+Brazil,BRA,ROCHA MACHADO Raissa,Athletics,ATH,Women's Javelin Throw - F56,Silver Medal
+Uzbekistan,UZB,MIRZAYOROVA Asila,Athletics,ATH,Women's Long Jump - T11,Silver Medal
+Spain,ESP,MARTINEZ Sara,Athletics,ATH,Women's Long Jump - T12,Silver Medal
+RPC,RPC,RUCHKINA Aleksandra,Athletics,ATH,Women's Long Jump - T20,Silver Medal
+United States of America,USA,ROBERTS Jaleen,Athletics,ATH,Women's Long Jump - T37,Silver Medal
+RPC,RPC,GONCHAROVA Margarita,Athletics,ATH,Women's Long Jump - T38,Silver Medal
+RPC,RPC,MOGUCHAIA Aleksandra,Athletics,ATH,Women's Long Jump - T47,Silver Medal
+Italy,ITA,CAIRONI Martina,Athletics,ATH,Women's Long Jump - T63,Silver Medal
+France,FRA,le FUR Marie-Amelie,Athletics,ATH,Women's Long Jump - T64,Silver Medal
+RPC,RPC,PAUTOVA Elena,Athletics,ATH,Women's Marathon - T12,Silver Medal
+Switzerland,SUI,SCHAER Manuela,Athletics,ATH,Women's Marathon - T54,Silver Medal
+Italy,ITA,LEGNANTE Assunta,Athletics,ATH,Women's Shot Put - F12,Silver Medal
+Ukraine,UKR,MYSNYK Anastasiia,Athletics,ATH,Women's Shot Put - F20,Silver Medal
+Poland,POL,KOZAKOWSKA Roza,Athletics,ATH,Women's Shot Put - F32,Silver Medal
+Morocco,MAR,EL KASSIOUI Fouzia,Athletics,ATH,Women's Shot Put - F33,Silver Medal
+Poland,POL,KORNOBYS Lucyna,Athletics,ATH,Women's Shot Put - F34,Silver Medal
+Brazil,BRA,OLIVEIRA da NOBREGA Marivana,Athletics,ATH,Women's Shot Put - F35,Silver Medal
+Spain,ESP,MARTINEZ RICO Miriam,Athletics,ATH,Women's Shot Put - F36,Silver Medal
+People's Republic of China,CHN,MI Na,Athletics,ATH,Women's Shot Put - F37,Silver Medal
+Tunisia,TUN,BELHAJ SALEM Nourhein,Athletics,ATH,Women's Shot Put - F40,Silver Medal
+Colombia,COL,BUITRAGO ARIZA Mayerli,Athletics,ATH,Women's Shot Put - F41,Silver Medal
+Mexico,MEX,ZARZA GUADARRAMA Gloria,Athletics,ATH,Women's Shot Put - F54,Silver Medal
+People's Republic of China,CHN,XU Mian,Athletics,ATH,Women's Shot Put - F57,Silver Medal
+Great Britain,GBR,CLEGG Libby,Athletics,ATH,4x100m Universal Relay,Silver Medal
+Great Britain,GBR,MAGUIRE Nathan,Athletics,ATH,4x100m Universal Relay,Silver Medal
+Great Britain,GBR,PEACOCK Jonnie,Athletics,ATH,4x100m Universal Relay,Silver Medal
+Great Britain,GBR,SMITH Ali,Athletics,ATH,4x100m Universal Relay,Silver Medal
+Republic of Korea,KOR,KIM Jung Jun,Badminton,BDM,Men's Doubles WH,Silver Medal
+Republic of Korea,KOR,LEE Dong Seop,Badminton,BDM,Men's Doubles WH,Silver Medal
+Republic of Korea,KOR,LEE Sam Seop,Badminton,BDM,Men's Singles WH1,Silver Medal
+Republic of Korea,KOR,KIM Jung Jun,Badminton,BDM,Men's Singles WH2,Silver Medal
+Great Britain,GBR,BETHELL Daniel,Badminton,BDM,Men's Singles SL3,Silver Medal
+India,IND,YATHIRAJ Suhas,Badminton,BDM,Men's Singles SL4,Silver Medal
+Indonesia,INA,DHEVA Anrimusthi,Badminton,BDM,Men's Singles SU5,Silver Medal
+"Hong Kong, China",HKG,CHU Man Kai,Badminton,BDM,Men's Singles SH6,Silver Medal
+People's Republic of China,CHN,LIU Yutong,Badminton,BDM,Women's Doubles WH,Silver Medal
+People's Republic of China,CHN,YIN Menglu,Badminton,BDM,Women's Doubles WH,Silver Medal
+People's Republic of China,CHN,CHENG Hefang,Badminton,BDM,Women's Doubles SL3-SU5,Silver Medal
+People's Republic of China,CHN,MA Huihui,Badminton,BDM,Women's Doubles SL3-SU5,Silver Medal
+Thailand,THA,POOKKHAM Sujirat,Badminton,BDM,Women's Singles WH1,Silver Medal
+People's Republic of China,CHN,XU Tingting,Badminton,BDM,Women's Singles WH2,Silver Medal
+Indonesia,INA,LEANI RATRI Oktila,Badminton,BDM,Women's Singles SL4,Silver Medal
+Japan,JPN,SUZUKI Ayako,Badminton,BDM,Women's Singles SU5,Silver Medal
+France,FRA,MAZUR Lucas,Badminton,BDM,Mixed Doubles SL3-SU5,Silver Medal
+France,FRA,NOEL Faustine,Badminton,BDM,Mixed Doubles SL3-SU5,Silver Medal
+Malaysia,MAS,WEI LUN Chew,Boccia,BOC,Individual - BC1,Silver Medal
+Thailand,THA,VONGSA Watcharaphon,Boccia,BOC,Individual - BC2,Silver Medal
+Greece,GRE,POLYCHRONIDIS Grigorios,Boccia,BOC,Individual - BC3,Silver Medal
+Thailand,THA,LARPYEN Pornchok,Boccia,BOC,Individual - BC4,Silver Medal
+Japan,JPN,KAWAMOTO Keisuke,Boccia,BOC,Pairs - BC3,Silver Medal
+Japan,JPN,TAKAHASHI Kazuki,Boccia,BOC,Pairs - BC3,Silver Medal
+Japan,JPN,TANAKA Keiko,Boccia,BOC,Pairs - BC3,Silver Medal
+"Hong Kong, China",HKG,LAU Wai Yan Vivian,Boccia,BOC,Pairs - BC4,Silver Medal
+"Hong Kong, China",HKG,LEUNG Yuk Wing,Boccia,BOC,Pairs - BC4,Silver Medal
+"Hong Kong, China",HKG,WONG Kwan Hang,Boccia,BOC,Pairs - BC4,Silver Medal
+People's Republic of China,CHN,LAN Zhijian,Boccia,BOC,Team - BC1/BC2,Silver Medal
+People's Republic of China,CHN,YAN Zhiqiang,Boccia,BOC,Team - BC1/BC2,Silver Medal
+People's Republic of China,CHN,ZHANG Qi,Boccia,BOC,Team - BC1/BC2,Silver Medal
+Brazil,BRA,CARDOSO da SILVA Luis Carlos,Canoe Sprint,CSP,Men's Kayak Single 200m - KL1,Silver Medal
+Ukraine,UKR,SYNIUK Mykola,Canoe Sprint,CSP,Men's Kayak Single 200m - KL2,Silver Medal
+RPC,RPC,KRYLOV Leonid,Canoe Sprint,CSP,Men's Kayak Single 200m - KL3,Silver Medal
+United States of America,USA,HAXTON Steven,Canoe Sprint,CSP,Men's Va'a Single 200m - VL2,Silver Medal
+Brazil,BRA,VIEIRA de PAULA Giovane,Canoe Sprint,CSP,Men's Va'a Single 200m - VL3,Silver Medal
+Ukraine,UKR,MAZHULA Maryna,Canoe Sprint,CSP,Women's Kayak Single 200m - KL1,Silver Medal
+Great Britain,GBR,WIGGS Emma,Canoe Sprint,CSP,Women's Kayak Single 200m - KL2,Silver Medal
+France,FRA,BARBOSA Nelia,Canoe Sprint,CSP,Women's Kayak Single 200m - KL3,Silver Medal
+Australia,AUS,SEIPEL Susan,Canoe Sprint,CSP,Women's Va'a Single 200m - VL2,Silver Medal
+Italy,ITA,MAZZONE Luca,Cycling Road,CRD,Men's H1-2 Road Race,Silver Medal
+Belgium,BEL,CELEN Tim,Cycling Road,CRD,Men's T1-2 Road Race,Silver Medal
+Switzerland,SUI,FREI Heinz,Cycling Road,CRD,Men's H3 Road Race,Silver Medal
+Great Britain,GBR,GRAHAM Finlay,Cycling Road,CRD,Men's C1-3 Road Race,Silver Medal
+Netherlands,NED,BANGMA Tristan,Cycling Road,CRD,Men's B Road Race,Silver Medal
+Austria,AUT,FRUEHWIRTH Thomas,Cycling Road,CRD,Men's H4 Road Race,Silver Medal
+France,FRA,VERGNAUD Loic,Cycling Road,CRD,Men's H5 Road Race,Silver Medal
+Ukraine,UKR,DEMENTYEV Yehor,Cycling Road,CRD,Men's C4-5 Road Race,Silver Medal
+United States of America,USA,KEITH Aaron,Cycling Road,CRD,Men's C1 Time Trial,Silver Medal
+Italy,ITA,CORNEGLIANI Fabrizio,Cycling Road,CRD,Men's H1 Time Trial,Silver Medal
+Belgium,BEL,VROMANT Ewoud,Cycling Road,CRD,Men's C2 Time Trial,Silver Medal
+Italy,ITA,MAZZONE Luca,Cycling Road,CRD,Men's H2 Time Trial,Silver Medal
+Italy,ITA,FARRONI Giorgio,Cycling Road,CRD,Men's T1-2 Time Trial,Silver Medal
+Germany,GER,WARIAS Steffen,Cycling Road,CRD,Men's C3 Time Trial,Silver Medal
+Germany,GER,MERKLEIN Vico,Cycling Road,CRD,Men's H3 Time Trial,Silver Medal
+Netherlands,NED,ter SCHURE Vincent,Cycling Road,CRD,Men's B Time Trial,Silver Medal
+Slovakia,SVK,METELKA Jozef,Cycling Road,CRD,Men's C4 Time Trial,Silver Medal
+Austria,AUT,FRUEHWIRTH Thomas,Cycling Road,CRD,Men's H4 Time Trial,Silver Medal
+Ukraine,UKR,DEMENTYEV Yehor,Cycling Road,CRD,Men's C5 Time Trial,Silver Medal
+France,FRA,VERGNAUD Loic,Cycling Road,CRD,Men's H5 Time Trial,Silver Medal
+France,FRA,JOUANNY Florian,Cycling Road,CRD,Mixed H1-5 Team Relay,Silver Medal
+France,FRA,TARSIM Riadh,Cycling Road,CRD,Mixed H1-5 Team Relay,Silver Medal
+France,FRA,VERGNAUD Loic,Cycling Road,CRD,Mixed H1-5 Team Relay,Silver Medal
+Germany,GER,DREOCK KAESER Angelika,Cycling Road,CRD,Women's T1-2 Road Race,Silver Medal
+Sweden,SWE,BECK Anna,Cycling Road,CRD,Women's C1-3 Road Race,Silver Medal
+Great Britain,GBR,UNWIN Sophie,Cycling Road,CRD,Women's B Road Race,Silver Medal
+Germany,GER,ZEYEN Annika,Cycling Road,CRD,Women's H1-4 Road Race,Silver Medal
+People's Republic of China,CHN,SUN Bianbian,Cycling Road,CRD,Women's H5 Road Race,Silver Medal
+Great Britain,GBR,LANE-WRIGHT Crystal,Cycling Road,CRD,Women's C4-5 Road Race,Silver Medal
+Australia,AUS,COOKE Carol,Cycling Road,CRD,Women's T1-2 Time Trial,Silver Medal
+Sweden,SWE,BECK Anna,Cycling Road,CRD,Women's C1-3 Time Trial,Silver Medal
+Great Britain,GBR,FACHIE Lora,Cycling Road,CRD,Women's B Time Trial,Silver Medal
+Italy,ITA,PORCELLATO Francesca,Cycling Road,CRD,Women's H1-3 Time Trial,Silver Medal
+Australia,AUS,PETRICOLA Emily,Cycling Road,CRD,Women's C4 Time Trial,Silver Medal
+People's Republic of China,CHN,SUN Bianbian,Cycling Road,CRD,Women's H4-5 Time Trial,Silver Medal
+Great Britain,GBR,LANE-WRIGHT Crystal,Cycling Road,CRD,Women's C5 Time Trial,Silver Medal
+France,FRA,LEAUTE Alexandre,Cycling Track,CTR,Men's C1-3 1000m Time Trial,Silver Medal
+Great Britain,GBR,BALL James,Cycling Track,CTR,Men's B 1000m Time Trial,Silver Medal
+Great Britain,GBR,CUNDY Jody,Cycling Track,CTR,Men's C4-5 1000m Time Trial,Silver Medal
+Canada,CAN,CHERNOVE Tristen,Cycling Track,CTR,Men's C1 3000m Individual Pursuit,Silver Medal
+Australia,AUS,HICKS Darren,Cycling Track,CTR,Men's C2 3000m Individual Pursuit,Silver Medal
+Great Britain,GBR,GRAHAM Finlay,Cycling Track,CTR,Men's C3 3000m Individual Pursuit,Silver Medal
+Great Britain,GBR,BATE Stephen,Cycling Track,CTR,Men's B 4000m Individual Pursuit,Silver Medal
+Romania,ROU,NOVAK Carol-Eduard,Cycling Track,CTR,Men's C4 4000m Individual Pursuit,Silver Medal
+Australia,AUS,DONOHOE Alistair,Cycling Track,CTR,Men's C5 4000m Individual Pursuit,Silver Medal
+People's Republic of China,CHN,LAI Shanzhang,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Silver Medal
+People's Republic of China,CHN,LI Zhangyu,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Silver Medal
+People's Republic of China,CHN,WU Guoqing,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Silver Medal
+Netherlands,NED,NORBRUIS Alyda,Cycling Track,CTR,Women's C1-3 500m Time Trial,Silver Medal
+Canada,CAN,O'BRIEN Kate,Cycling Track,CTR,Women's C4-5 500m Time Trial,Silver Medal
+Great Britain,GBR,McGLYNN OBE Aileen,Cycling Track,CTR,Women's B 1000m Time Trial,Silver Medal
+People's Republic of China,CHN,WANG Xiaomei,Cycling Track,CTR,Women's C1-3 3000m Individual Pursuit,Silver Medal
+Ireland,IRL,DUNLEVY Katie-George,Cycling Track,CTR,Women's B 3000m Individual Pursuit,Silver Medal
+United States of America,USA,MORELLI Shawn,Cycling Track,CTR,Women's C4 3000m Individual Pursuit,Silver Medal
+Great Britain,GBR,LANE-WRIGHT Crystal,Cycling Track,CTR,Women's C5 3000m Individual Pursuit,Silver Medal
+Latvia,LAT,SNIKUS Rihards,Equestrian,EQU,Individual Test - Grade I,Silver Medal
+Austria,AUT,PUCH Pepo,Equestrian,EQU,Individual Test - Grade II,Silver Medal
+Great Britain,GBR,BAKER Natasha,Equestrian,EQU,Individual Test - Grade III,Silver Medal
+Brazil,BRA,RISKALLA Rodolpho,Equestrian,EQU,Individual Test - Grade IV,Silver Medal
+Great Britain,GBR,WELLS Sophie,Equestrian,EQU,Individual Test - Grade V,Silver Medal
+Latvia,LAT,SNIKUS Rihards,Equestrian,EQU,Individual Freestyle Test - Grade I,Silver Medal
+Austria,AUT,PUCH Pepo,Equestrian,EQU,Individual Freestyle Test - Grade II,Silver Medal
+Great Britain,GBR,BAKER Natasha,Equestrian,EQU,Individual Freestyle Test - Grade III,Silver Medal
+Sweden,SWE,ETZNER JAKOBSSON Louise,Equestrian,EQU,Individual Freestyle Test - Grade IV,Silver Medal
+Netherlands,NED,HOSMAR Frank,Equestrian,EQU,Individual Freestyle Test - Grade V,Silver Medal
+Netherlands,NED,HOSMAR Frank,Equestrian,EQU,Team Test to Music,Silver Medal
+Netherlands,NED,van der HORST Rixt,Equestrian,EQU,Team Test to Music,Silver Medal
+Netherlands,NED,VOETS Sanne,Equestrian,EQU,Team Test to Music,Silver Medal
+Argentina,ARG,ACCARDI Federico,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,DELDO GARCIA Angel,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,ESPINILLO Maximiliano,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,HEREDIA Nahuel,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,LENCINA Dario,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,MULECK German,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,PADILLA Froilan,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,PANIZZA Marcelo,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,PEREYRA Braian,Football 5-a-side,FB5,Men,Silver Medal
+Argentina,ARG,VELIZ Nicolas,Football 5-a-side,FB5,Men,Silver Medal
+People's Republic of China,CHN,CAI Changgui,Goalball,GBL,Men,Silver Medal
+People's Republic of China,CHN,CHEN Liangliang,Goalball,GBL,Men,Silver Medal
+People's Republic of China,CHN,HU Mingyao,Goalball,GBL,Men,Silver Medal
+People's Republic of China,CHN,LAI Liangyu,Goalball,GBL,Men,Silver Medal
+People's Republic of China,CHN,YANG Mingyuan,Goalball,GBL,Men,Silver Medal
+People's Republic of China,CHN,YU Qinquan,Goalball,GBL,Men,Silver Medal
+United States of America,USA,COOK Mindy,Goalball,GBL,Women,Silver Medal
+United States of America,USA,CZECHOWSKI Lisa,Goalball,GBL,Women,Silver Medal
+United States of America,USA,DENNIS Amanda,Goalball,GBL,Women,Silver Medal
+United States of America,USA,HUKING Marybai,Goalball,GBL,Women,Silver Medal
+United States of America,USA,MASON Eliana,Goalball,GBL,Women,Silver Medal
+United States of America,USA,MILLER Asya,Goalball,GBL,Women,Silver Medal
+United States of America,USA,GOODRICH Ben,Judo,JUD,Men -100 kg,Silver Medal
+Kazakhstan,KAZ,SARIYEV Anuar,Judo,JUD,Men -60 kg,Silver Medal
+Spain,ESP,IBANEZ BANON Sergio,Judo,JUD,Men -66 kg,Silver Medal
+Kazakhstan,KAZ,DAULET Temirzhan,Judo,JUD,Men -73 kg,Silver Medal
+Uzbekistan,UZB,KAROMATOV Davurkhon,Judo,JUD,Men -81 kg,Silver Medal
+Great Britain,GBR,STEWART Elliot,Judo,JUD,Men -90 kg,Silver Medal
+Georgia,GEO,CHIKOIDZE Revaz,Judo,JUD,Men +100 kg,Silver Medal
+France,FRA,MARTINET Sandrine,Judo,JUD,Women -48 kg,Silver Medal
+Canada,CAN,GAGNE Priscilla,Judo,JUD,Women -52 kg,Silver Medal
+Uzbekistan,UZB,SAMANDAROVA Parvina,Judo,JUD,Women -57 kg,Silver Medal
+Ukraine,UKR,HUSIEVA Iryna,Judo,JUD,Women -63 kg,Silver Medal
+Georgia,GEO,KALDANI Ina,Judo,JUD,Women -70 kg,Silver Medal
+Kazakhstan,KAZ,BAIBATINA Zarina,Judo,JUD,Women +70 kg,Silver Medal
+Malaysia,MAS,JONG Yee Khie,Powerlifting,PWL,Men's -107 kg,Silver Medal
+Vietnam,VIE,le van Cong,Powerlifting,PWL,Men's -49 kg,Silver Medal
+France,FRA,BOURLON Axel,Powerlifting,PWL,Men's -54 kg,Silver Medal
+Egypt,EGY,OSMAN Sherif,Powerlifting,PWL,Men's -59 kg,Silver Medal
+Islamic Republic of Iran,IRI,JAFARI ARANGEH Amir,Powerlifting,PWL,Men's -65 kg,Silver Medal
+Egypt,EGY,ATTIA Mahmoud,Powerlifting,PWL,Men's -72 kg,Silver Medal
+People's Republic of China,CHN,GU Xiaofei,Powerlifting,PWL,Men's -80 kg,Silver Medal
+People's Republic of China,CHN,YE Jixiong,Powerlifting,PWL,Men's -88 kg,Silver Medal
+Islamic Republic of Iran,IRI,SOLHIPOURAVANJI Seyedhamed,Powerlifting,PWL,Men's -97 kg,Silver Medal
+Islamic Republic of Iran,IRI,POURMIRZAEI Mansour,Powerlifting,PWL,Men's +107 kg,Silver Medal
+Indonesia,INA,WIDIASIH Ni Nengah,Powerlifting,PWL,Women's -41 kg,Silver Medal
+People's Republic of China,CHN,CUI Zhe,Powerlifting,PWL,Women's -45 kg,Silver Medal
+Egypt,EGY,AHMED Rehab,Powerlifting,PWL,Women's -50 kg,Silver Medal
+People's Republic of China,CHN,XIAO Cuijuan,Powerlifting,PWL,Women's -55 kg,Silver Medal
+Uzbekistan,UZB,KUZIEVA Ruza,Powerlifting,PWL,Women's -61 kg,Silver Medal
+Egypt,EGY,OMAR Fatma,Powerlifting,PWL,Women's -67 kg,Silver Medal
+People's Republic of China,CHN,XU Lili,Powerlifting,PWL,Women's -73 kg,Silver Medal
+Ukraine,UKR,OLIINYK Nataliia,Powerlifting,PWL,Women's -79 kg,Silver Medal
+People's Republic of China,CHN,ZHENG Feifei,Powerlifting,PWL,Women's -86 kg,Silver Medal
+Nigeria,NGR,OBIJI Loveline,Powerlifting,PWL,Women's +86 kg,Silver Medal
+Australia,AUS,HORRIE Erik,Rowing,ROW,PR1 Men's Single Sculls - PR1M1x,Silver Medal
+Israel,ISR,SAMUEL Moran,Rowing,ROW,PR1 Women's Single Sculls - PR1W1x,Silver Medal
+United States of America,USA,HANSEN Danielle,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Silver Medal
+United States of America,USA,NORDIN Charley,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Silver Medal
+United States of America,USA,PETRIK Karen,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Silver Medal
+United States of America,USA,REILLY Allie,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Silver Medal
+United States of America,USA,TANGUAY John,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Silver Medal
+Netherlands,NED,de KONING Corne,Rowing,ROW,PR2 Mixed Double Sculls - PR2Mix2x,Silver Medal
+Netherlands,NED,van der MEER Annika,Rowing,ROW,PR2 Mixed Double Sculls - PR2Mix2x,Silver Medal
+People's Republic of China,CHN,HUANG Xing,Shooting,SHO,P1 - Men's 10m Air Pistol SH1,Silver Medal
+Ukraine,UKR,DOROSHENKO Andrii,Shooting,SHO,R1 - Men's 10m Air Rifle Standing SH1,Silver Medal
+Serbia,SRB,SURANJI Laslo,Shooting,SHO,R7 - Men's 50m Rifle 3 Positions SH1,Silver Medal
+Republic of Korea,KOR,PARK Jinho,Shooting,SHO,R3 - Mixed 10m Air Rifle Prone SH1,Silver Medal
+Ukraine,UKR,KOVALCHUK Vasyl,Shooting,SHO,R5 - Mixed 10m Air Rifle Prone SH2,Silver Medal
+Slovenia,SLO,TIRSEK Francek Gorazd,Shooting,SHO,R4 - Mixed 10m Air Rifle Standing SH2,Silver Medal
+Poland,POL,SOWINSKI Szymon,Shooting,SHO,P3 - Mixed 25m Pistol SH1,Silver Medal
+India,IND,SINGHRAJ,Shooting,SHO,P4 - Mixed 50m Pistol SH1,Silver Medal
+Sweden,SWE,NORMANN Anna,Shooting,SHO,R6 - Mixed 50m Rifle Prone SH1,Silver Medal
+Serbia,SRB,SAVANOVIC Zdravko,Shooting,SHO,R9 - Mixed 50m Rifle Prone SH2,Silver Medal
+Turkey,TUR,PEHLIVANLAR Aysegul,Shooting,SHO,P2 - Women's 10m Air Pistol SH1,Silver Medal
+People's Republic of China,CHN,ZHANG Cuiping,Shooting,SHO,R2 - Women's 10m Air Rifle Standing SH1,Silver Medal
+Germany,GER,HILTROP Natascha,Shooting,SHO,R8 - Women's 50m Rifle 3 Positions SH1,Silver Medal
+RPC,RPC,BAICHIK Aleksandr,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,KRUPIN Anatolii,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,LAVRINOVICH Andrei,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,MILENIN Viktor,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,PANKRATOV Vladimir,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,POZDEEV Sergei,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,REZNICHENKO Aleksandr,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,SAVICHEV Aleksandr,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,SHESTAKOV Denis,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,VOLKOV Aleksei,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,VOLOSNIKOV Evgenii,Sitting Volleyball,VBS,Men,Silver Medal
+RPC,RPC,ZINNATULLIN Ilnar,Sitting Volleyball,VBS,Men,Silver Medal
+People's Republic of China,CHN,GAO Wenwen,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,GONG Bin,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,HU Huizi,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,LYU Hongqin,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,QIU Junfei,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,TANG Xuemei,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,WANG Li,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,WANG Yanan,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,XU Yixiao,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,ZHANG Lijun,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,ZHANG Xufei,Sitting Volleyball,VBS,Women,Silver Medal
+People's Republic of China,CHN,ZHAO Meiling,Sitting Volleyball,VBS,Women,Silver Medal
+Ukraine,UKR,KOL Anton,Swimming,SWM,Men's 100m Backstroke - S1,Silver Medal
+Brazil,BRA,dos SANTOS ARAUJO Gabriel Geraldo,Swimming,SWM,Men's 100m Backstroke - S2,Silver Medal
+Argentina,ARG,de ANDRADE Matias,Swimming,SWM,Men's 100m Backstroke - S6,Silver Medal
+Argentina,ARG,CARLOMAGNO Pipo,Swimming,SWM,Men's 100m Backstroke - S7,Silver Medal
+Spain,ESP,LLOPIS SANZ Inigo,Swimming,SWM,Men's 100m Backstroke - S8,Silver Medal
+Belarus,BLR,SHCHALKANAU Yahor,Swimming,SWM,Men's 100m Backstroke - S9,Silver Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 100m Backstroke - S10,Silver Medal
+Ukraine,UKR,SMYRNOV Viktor,Swimming,SWM,Men's 100m Backstroke - S11,Silver Medal
+Ukraine,UKR,KLIPPERT Sergii,Swimming,SWM,Men's 100m Backstroke - S12,Silver Medal
+Canada,CAN,TURBIDE Nicolas Guy,Swimming,SWM,Men's 100m Backstroke - S13,Silver Medal
+RPC,RPC,EMELIANTSEV Viacheslav,Swimming,SWM,Men's 100m Backstroke - S14,Silver Medal
+People's Republic of China,CHN,YANG Feng,Swimming,SWM,Men's 100m Butterfly - S8,Silver Medal
+Italy,ITA,BARLAAM Simone,Swimming,SWM,Men's 100m Butterfly - S9,Silver Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 100m Butterfly - S10,Silver Medal
+Japan,JPN,TOMITA Uchu,Swimming,SWM,Men's 100m Butterfly - S11,Silver Medal
+Great Britain,GBR,CLEGG Stephen,Swimming,SWM,Men's 100m Butterfly - S12,Silver Medal
+Ukraine,UKR,VIRCHENKO Oleksii,Swimming,SWM,Men's 100m Butterfly - S13,Silver Medal
+Great Britain,GBR,DUNN Reece,Swimming,SWM,Men's 100m Butterfly - S14,Silver Medal
+Colombia,COL,FUENTES GARCIA Moises,Swimming,SWM,Men's 100m Breaststroke - SB4,Silver Medal
+Spain,ESP,PONCE BERTRAN Antoni,Swimming,SWM,Men's 100m Breaststroke - SB5,Silver Medal
+Colombia,COL,CRISPIN CORZO Nelson,Swimming,SWM,Men's 100m Breaststroke - SB6,Silver Medal
+RPC,RPC,EFROSININ Egor,Swimming,SWM,Men's 100m Breaststroke - SB7,Silver Medal
+Spain,ESP,SALGUERO GALISTEO Oscar,Swimming,SWM,Men's 100m Breaststroke - SB8,Silver Medal
+RPC,RPC,ISAEV Artem,Swimming,SWM,Men's 100m Breaststroke - SB9,Silver Medal
+Japan,JPN,KIMURA Keiichi,Swimming,SWM,Men's 100m Breaststroke - SB11,Silver Medal
+Ukraine,UKR,FEDYNA Oleksii,Swimming,SWM,Men's 100m Breaststroke - SB12,Silver Medal
+United States of America,USA,ABRAHAMS David Henry,Swimming,SWM,Men's 100m Breaststroke - SB13,Silver Medal
+Australia,AUS,MICHEL Jake,Swimming,SWM,Men's 100m Breaststroke - SB14,Silver Medal
+Italy,ITA,BEGGIATO Luigi,Swimming,SWM,Men's 100m Freestyle - S4,Silver Medal
+People's Republic of China,CHN,WANG Lichao,Swimming,SWM,Men's 100m Freestyle - S5,Silver Medal
+Colombia,COL,CRISPIN CORZO Nelson,Swimming,SWM,Men's 100m Freestyle - S6,Silver Medal
+RPC,RPC,NIKOLAEV Andrei,Swimming,SWM,Men's 100m Freestyle - S8,Silver Medal
+Australia,AUS,CROTHERS Rowan,Swimming,SWM,Men's 100m Freestyle - S10,Silver Medal
+Ukraine,UKR,VERAKSA Maksym,Swimming,SWM,Men's 100m Freestyle - S12,Silver Medal
+Australia,AUS,KELLY Ahmed,Swimming,SWM,Men's 150m Individual Medley - SM3,Silver Medal
+Israel,ISR,DADAON Ami Omer,Swimming,SWM,Men's 150m Individual Medley - SM4,Silver Medal
+Chile,CHI,ABARZA Alberto,Swimming,SWM,Men's 200m Freestyle - S2,Silver Medal
+Mexico,MEX,LOPEZ DIAZ Diego,Swimming,SWM,Men's 200m Freestyle - S3,Silver Medal
+Japan,JPN,SUZUKI Takayuki,Swimming,SWM,Men's 200m Freestyle - S4,Silver Medal
+Spain,ESP,PONCE BERTRAN Antoni,Swimming,SWM,Men's 200m Freestyle - S5,Silver Medal
+Brazil,BRA,BANDEIRA Gabriel,Swimming,SWM,Men's 200m Freestyle - S14,Silver Medal
+RPC,RPC,GRANICHKA Andrei,Swimming,SWM,Men's 200m Individual Medley - SM6,Silver Medal
+Ukraine,UKR,TRUSOV Andrii,Swimming,SWM,Men's 200m Individual Medley - SM7,Silver Medal
+People's Republic of China,CHN,XU Haijiao,Swimming,SWM,Men's 200m Individual Medley - SM8,Silver Medal
+Australia,AUS,HODGE Timothy,Swimming,SWM,Men's 200m Individual Medley - SM9,Silver Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 200m Individual Medley - SM10,Silver Medal
+Ukraine,UKR,SERBIN Mykhailo,Swimming,SWM,Men's 200m Individual Medley - SM11,Silver Medal
+France,FRA,PORTAL Alex,Swimming,SWM,Men's 200m Individual Medley - SM13,Silver Medal
+Brazil,BRA,BANDEIRA Gabriel,Swimming,SWM,Men's 200m Individual Medley - SM14,Silver Medal
+Italy,ITA,FANTIN Antonio,Swimming,SWM,Men's 400m Freestyle - S6,Silver Medal
+Ukraine,UKR,TRUSOV Andrii,Swimming,SWM,Men's 400m Freestyle - S7,Silver Medal
+Italy,ITA,AMODEO Alberto,Swimming,SWM,Men's 400m Freestyle - S8,Silver Medal
+France,FRA,DIDIER Ugo,Swimming,SWM,Men's 400m Freestyle - S9,Silver Medal
+Netherlands,NED,TAKKEN Bas,Swimming,SWM,Men's 400m Freestyle - S10,Silver Medal
+Japan,JPN,TOMITA Uchu,Swimming,SWM,Men's 400m Freestyle - S11,Silver Medal
+Ukraine,UKR,GARASHCHENKO Kyrylo,Swimming,SWM,Men's 400m Freestyle - S13,Silver Medal
+Italy,ITA,BARLAAM Simone,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Silver Medal
+Italy,ITA,CIULLI Simone,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Silver Medal
+Italy,ITA,FANTIN Antonio,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Silver Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Silver Medal
+Australia,AUS,COCHRANE Blake,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Silver Medal
+Australia,AUS,DISKEN Timothy,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Silver Medal
+Australia,AUS,HODGE Timothy,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Silver Medal
+Australia,AUS,MARTIN William,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Silver Medal
+Australia,AUS,POPHAM Ben,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Silver Medal
+Ukraine,UKR,KOL Anton,Swimming,SWM,Men's 50m Backstroke - S1,Silver Medal
+Chile,CHI,ABARZA Alberto,Swimming,SWM,Men's 50m Backstroke - S2,Silver Medal
+Ukraine,UKR,OSTAPCHENKO Denys,Swimming,SWM,Men's 50m Backstroke - S3,Silver Medal
+Czech Republic,CZE,PETRACEK Arnost,Swimming,SWM,Men's 50m Backstroke - S4,Silver Medal
+People's Republic of China,CHN,RUAN Jingsong,Swimming,SWM,Men's 50m Backstroke - S5,Silver Medal
+People's Republic of China,CHN,WANG Lichao,Swimming,SWM,Men's 50m Butterfly - S5,Silver Medal
+People's Republic of China,CHN,JIA Hongguang,Swimming,SWM,Men's 50m Butterfly - S6,Silver Medal
+Ukraine,UKR,TRUSOV Andrii,Swimming,SWM,Men's 50m Butterfly - S7,Silver Medal
+Australia,AUS,PATTERSON Grant,Swimming,SWM,Men's 50m Breaststroke - SB2,Silver Medal
+Spain,ESP,LUQUE Miguel,Swimming,SWM,Men's 50m Breaststroke - SB3,Silver Medal
+People's Republic of China,CHN,ZOU Liankang,Swimming,SWM,Men's 50m Freestyle - S3,Silver Medal
+Japan,JPN,SUZUKI Takayuki,Swimming,SWM,Men's 50m Freestyle - S4,Silver Medal
+People's Republic of China,CHN,YUAN Weiyi,Swimming,SWM,Men's 50m Freestyle - S5,Silver Medal
+Colombia,COL,SERRANO ZARATE Carlos Daniel,Swimming,SWM,Men's 50m Freestyle - S7,Silver Medal
+RPC,RPC,TARASOV Denis,Swimming,SWM,Men's 50m Freestyle - S9,Silver Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 50m Freestyle - S10,Silver Medal
+People's Republic of China,CHN,HUA Dongdong,Swimming,SWM,Men's 50m Freestyle - S11,Silver Medal
+Ukraine,UKR,YAREMENKO Illia,Swimming,SWM,Men's 50m Freestyle - S13,Silver Medal
+Japan,JPN,YAMADA Miyuki,Swimming,SWM,Women's 100m Backstroke - S2,Silver Medal
+People's Republic of China,CHN,JIANG Yuyan,Swimming,SWM,Women's 100m Backstroke - S6,Silver Medal
+Canada,CAN,DORRIS Danielle,Swimming,SWM,Women's 100m Backstroke - S7,Silver Medal
+Ukraine,UKR,DENYSENKO Kateryna,Swimming,SWM,Women's 100m Backstroke - S8,Silver Medal
+Spain,ESP,MARQUES SOTO Nuria,Swimming,SWM,Women's 100m Backstroke - S9,Silver Medal
+Canada,CAN,RIVARD Aurelie,Swimming,SWM,Women's 100m Backstroke - S10,Silver Medal
+People's Republic of China,CHN,WANG Xinyi,Swimming,SWM,Women's 100m Backstroke - S11,Silver Medal
+RPC,RPC,PIKALOVA Daria,Swimming,SWM,Women's 100m Backstroke - S12,Silver Medal
+Italy,ITA,GILLI Carlotta,Swimming,SWM,Women's 100m Backstroke - S13,Silver Medal
+RPC,RPC,SHABALINA Valeriia,Swimming,SWM,Women's 100m Backstroke - S14,Silver Medal
+RPC,RPC,ISHCHIULOVA Viktoriia,Swimming,SWM,Women's 100m Butterfly - S8,Silver Medal
+United States of America,USA,SMITH Elizabeth,Swimming,SWM,Women's 100m Butterfly - S9,Silver Medal
+Australia,AUS,GREENWOOD Jasmine,Swimming,SWM,Women's 100m Butterfly - S10,Silver Medal
+Italy,ITA,BERRA Alessia,Swimming,SWM,Women's 100m Butterfly - S13,Silver Medal
+Australia,AUS,LEONHARDT Paige,Swimming,SWM,Women's 100m Butterfly - S14,Silver Medal
+Italy,ITA,GHIRETTI Giulia,Swimming,SWM,Women's 100m Breaststroke - SB4,Silver Medal
+Great Britain,GBR,HARVEY Grace,Swimming,SWM,Women's 100m Breaststroke - SB5,Silver Medal
+People's Republic of China,CHN,LIU Daomin,Swimming,SWM,Women's 100m Breaststroke - SB6,Silver Medal
+United States of America,USA,LONG Jessica,Swimming,SWM,Women's 100m Breaststroke - SB7,Silver Medal
+New Zealand,NZL,PASCOE Sophie,Swimming,SWM,Women's 100m Breaststroke - SB8,Silver Medal
+Netherlands,NED,KRUGER Lisa,Swimming,SWM,Women's 100m Breaststroke - SB9,Silver Medal
+People's Republic of China,CHN,MA Jia,Swimming,SWM,Women's 100m Breaststroke - SB11,Silver Medal
+RPC,RPC,LUKIANENKO Daria,Swimming,SWM,Women's 100m Breaststroke - SB12,Silver Medal
+Great Britain,GBR,REDFERN Rebecca,Swimming,SWM,Women's 100m Breaststroke - SB13,Silver Medal
+Great Britain,GBR,FIDDES Louise,Swimming,SWM,Women's 100m Breaststroke - SB14,Silver Medal
+United States of America,USA,SMITH Leanne,Swimming,SWM,Women's 100m Freestyle - S3,Silver Medal
+People's Republic of China,CHN,ZHANG Li,Swimming,SWM,Women's 100m Freestyle - S5,Silver Medal
+United States of America,USA,COAN McKenzie,Swimming,SWM,Women's 100m Freestyle - S7,Silver Medal
+Spain,ESP,GASCON Sarai,Swimming,SWM,Women's 100m Freestyle - S9,Silver Medal
+Netherlands,NED,ZIJDERVELD Chantalle,Swimming,SWM,Women's 100m Freestyle - S10,Silver Medal
+Netherlands,NED,BRUINSMA Liesette,Swimming,SWM,Women's 100m Freestyle - S11,Silver Medal
+RPC,RPC,PIKALOVA Daria,Swimming,SWM,Women's 100n Freestyle - S12,Silver Medal
+People's Republic of China,CHN,ZHOU Yanfei,Swimming,SWM,Women's 150m Individual Medley - SM4,Silver Medal
+Great Britain,GBR,KEARNEY Tully,Swimming,SWM,Women's 200m Freestyle - S5,Silver Medal
+Great Britain,GBR,FIRTH Bethany,Swimming,SWM,Women's 200m Freestyle - S14,Silver Medal
+People's Republic of China,CHN,CHENG Jiao,Swimming,SWM,Women's 200m Individual Medley - SM5,Silver Medal
+Ukraine,UKR,MERESHKO Yelyzaveta,Swimming,SWM,Women's 200m Individual Medley - SM6,Silver Medal
+United States of America,USA,LETTENBERGER Ahalya,Swimming,SWM,Women's 200m Individual Medley - SM7,Silver Medal
+Italy,ITA,PALAZZO Xenia Francesca,Swimming,SWM,Women's 200m Individual Medley - SM8,Silver Medal
+Hungary,HUN,KONKOLY Zsofia,Swimming,SWM,Women's 200m Individual Medley - SM9,Silver Medal
+Hungary,HUN,PAP Bianka,Swimming,SWM,Women's 200m Individual Medley - SM10,Silver Medal
+People's Republic of China,CHN,CAI Liwen,Swimming,SWM,Women's 200m Individual Medley - SM11,Silver Medal
+United States of America,USA,YOUNG Colleen,Swimming,SWM,Women's 200m Individual Medley - SM13,Silver Medal
+Great Britain,GBR,FIRTH Bethany,Swimming,SWM,Women's 200m Individual Medley - SM14,Silver Medal
+Ukraine,UKR,MERESHKO Yelyzaveta,Swimming,SWM,Women's 400m Freestyle - S6,Silver Medal
+Italy,ITA,TERZI Giulia,Swimming,SWM,Women's 400m Freestyle - S7,Silver Medal
+United States of America,USA,LONG Jessica,Swimming,SWM,Women's 400m Freestyle - S8,Silver Medal
+Hungary,HUN,KONKOLY Zsofia,Swimming,SWM,Women's 400m Freestyle - S9,Silver Medal
+Hungary,HUN,PAP Bianka,Swimming,SWM,Women's 400m Freestyle - S10,Silver Medal
+Netherlands,NED,BRUINSMA Liesette,Swimming,SWM,Women's 400m Freestyle - S11,Silver Medal
+Italy,ITA,GILLI Carlotta,Swimming,SWM,Women's 400m Freestyle - S13,Silver Medal
+Australia,AUS,BEECROFT Emily,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Silver Medal
+Australia,AUS,COLE Ellie,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Silver Medal
+Australia,AUS,McCONNELL Ashleigh,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Silver Medal
+Australia,AUS,VINCENT Isabella,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Silver Medal
+RPC,RPC,GONTAR Anastasiia,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Silver Medal
+RPC,RPC,ISHCHIULOVA Viktoriia,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Silver Medal
+RPC,RPC,PALIAN Ani,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Silver Medal
+RPC,RPC,SIDORENKO Elizaveta,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Silver Medal
+Japan,JPN,YAMADA Miyuki,Swimming,SWM,Women's 50m Backstroke - S2,Silver Medal
+Great Britain,GBR,CHALLIS Ellie,Swimming,SWM,Women's 50m Backstroke - S3,Silver Medal
+People's Republic of China,CHN,ZHOU Yanfei,Swimming,SWM,Women's 50m Backstroke - S4,Silver Medal
+Spain,ESP,PERALES Teresa,Swimming,SWM,Women's 50m Backstroke - S5,Silver Medal
+Spain,ESP,FERNANDEZ INFANTE Marta,Swimming,SWM,Women's 50m Butterfly - S5,Silver Medal
+Ireland,IRL,TURNER Nicole,Swimming,SWM,Women's 50m Butterfly - S6,Silver Medal
+United States of America,USA,WEGGEMANN Mallory,Swimming,SWM,Women's 50m Butterfly - S7,Silver Medal
+RPC,RPC,BUTKOVA Nataliia,Swimming,SWM,Women's 50m Breaststroke - SB3,Silver Medal
+Italy,ITA,TRIMI Arjola,Swimming,SWM,Women's 50m Freestyle - S4,Silver Medal
+United States of America,USA,MARKS Elizabeth,Swimming,SWM,Women's 50m Freestyle - S6,Silver Medal
+Brazil,BRA,JERONIMO de ARAUJO Cecilia Kethlen,Swimming,SWM,Women's 50m Freestyle - S8,Silver Medal
+Netherlands,NED,ZIJDERVELD Chantalle,Swimming,SWM,Women's 50m Freestyle - S10,Silver Medal
+People's Republic of China,CHN,LI Guizhi,Swimming,SWM,Women's 50m Freestyle - S11,Silver Medal
+RPC,RPC,KRIVSHINA Anna,Swimming,SWM,Women's 50m Freestyle - S13,Silver Medal
+Brazil,BRA,BELARMINO PEREIRA Wendell,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Silver Medal
+Brazil,BRA,da SILVA SOUSA Lucilene,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Silver Medal
+Brazil,BRA,GOMES SANTIAGO Maria Carolina,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Silver Medal
+Brazil,BRA,MATERA Douglas,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Silver Medal
+Australia,AUS,BETAR Ricky,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Silver Medal
+Australia,AUS,HANCE Benjamin James,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Silver Medal
+Australia,AUS,McTERNAN Madeleine,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Silver Medal
+Australia,AUS,STORM Ruby,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Silver Medal
+Italy,ITA,BEGGIATO Luigi,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Silver Medal
+Italy,ITA,BOCCIARDO Francesco,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Silver Medal
+Italy,ITA,FANTIN Antonio,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Silver Medal
+Italy,ITA,TALAMONA Arianna,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Silver Medal
+Italy,ITA,TERZI Giulia,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Silver Medal
+Italy,ITA,TRIMI Arjola,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Silver Medal
+Republic of Korea,KOR,KIM Hyeon Uk,Table Tennis,TTE,Men's Singles - Class 1,Silver Medal
+Poland,POL,CZUPER Rafal,Table Tennis,TTE,Men's Singles - Class 2,Silver Medal
+Germany,GER,SCHMIDBERGER Thomas,Table Tennis,TTE,Men's Singles - Class 3,Silver Medal
+Republic of Korea,KOR,KIM Young-Gun,Table Tennis,TTE,Men's Singles - Class 4,Silver Medal
+People's Republic of China,CHN,CAO Ningning,Table Tennis,TTE,Men's Singles - Class 5,Silver Medal
+Denmark,DEN,ROSENMEIER Peter,Table Tennis,TTE,Men's Singles - Class 6,Silver Medal
+Great Britain,GBR,BAYLEY William,Table Tennis,TTE,Men's Singles - Class 7,Silver Medal
+Ukraine,UKR,DIDUKH Viktor,Table Tennis,TTE,Men's Singles - Class 8,Silver Medal
+Australia,AUS,MA Lin,Table Tennis,TTE,Men's Singles - Class 9,Silver Medal
+France,FRA,BOHEAS Mateo,Table Tennis,TTE,Men's Singles - Class 10,Silver Medal
+Australia,AUS,von EINEM Samuel Philip,Table Tennis,TTE,Men's Singles - Class 11,Silver Medal
+Republic of Korea,KOR,CHA Soo Yong,Table Tennis,TTE,Men's Team - Classes 1-2,Silver Medal
+Republic of Korea,KOR,KIM Hyeon Uk,Table Tennis,TTE,Men's Team - Classes 1-2,Silver Medal
+Republic of Korea,KOR,PARK Jin Cheol,Table Tennis,TTE,Men's Team - Classes 1-2,Silver Medal
+Germany,GER,BRUECHLE Thomas,Table Tennis,TTE,Men's Team - Class 3,Silver Medal
+Germany,GER,SCHMIDBERGER Thomas,Table Tennis,TTE,Men's Team - Class 3,Silver Medal
+Republic of Korea,KOR,BAEK Youngbok,Table Tennis,TTE,Men's Team - Class 4-5,Silver Medal
+Republic of Korea,KOR,KIM Jung-Gil,Table Tennis,TTE,Men's Team - Class 4-5,Silver Medal
+Republic of Korea,KOR,KIM Young-Gun,Table Tennis,TTE,Men's Team - Class 4-5,Silver Medal
+Great Britain,GBR,BAYLEY William,Table Tennis,TTE,Men's Team - Classes 6-7,Silver Medal
+Great Britain,GBR,KARABARDAK Paul,Table Tennis,TTE,Men's Team - Classes 6-7,Silver Medal
+Ukraine,UKR,DIDUKH Viktor,Table Tennis,TTE,Men's Team - Class 8,Silver Medal
+Ukraine,UKR,NIKOLENKO Maksym,Table Tennis,TTE,Men's Team - Class 8,Silver Medal
+Australia,AUS,COUGHLAN Joel,Table Tennis,TTE,Men's Team - Class 9-10,Silver Medal
+Australia,AUS,MA Lin,Table Tennis,TTE,Men's Team - Class 9-10,Silver Medal
+Australia,AUS,PELLISSIER Nathan,Table Tennis,TTE,Men's Team - Class 9-10,Silver Medal
+Republic of Korea,KOR,SEO Su Yeon,Table Tennis,TTE,Women's Singles - Classes 1-2,Silver Medal
+Slovakia,SVK,KANOVA Alena,Table Tennis,TTE,Women's Singles - Class 3,Silver Medal
+India,IND,PATEL Bhavinaben Hasmukhbhai,Table Tennis,TTE,Women's Singles - Class 4,Silver Medal
+People's Republic of China,CHN,PAN Jiamin,Table Tennis,TTE,Women's Singles - Class 5,Silver Medal
+RPC,RPC,ALIEVA Maliak,Table Tennis,TTE,Women's Singles - Class 6,Silver Medal
+RPC,RPC,SAFONOVA Viktoriia,Table Tennis,TTE,Women's Singles - Class 7,Silver Medal
+People's Republic of China,CHN,HUANG Wenjuan,Table Tennis,TTE,Women's Singles - Class 8,Silver Medal
+People's Republic of China,CHN,XIONG Guiyan,Table Tennis,TTE,Women's Singles - Class 9,Silver Medal
+Brazil,BRA,COSTA ALEXANDRE Bruna,Table Tennis,TTE,Women's Singles - Class 10,Silver Medal
+France,FRA,FERNEY Lea,Table Tennis,TTE,Women's Singles - Class 11,Silver Medal
+Republic of Korea,KOR,LEE Mi Gyu,Table Tennis,TTE,Women's Team - Classes 1-3,Silver Medal
+Republic of Korea,KOR,SEO Su Yeon,Table Tennis,TTE,Women's Team - Classes 1-3,Silver Medal
+Republic of Korea,KOR,YOON Jiyu,Table Tennis,TTE,Women's Team - Classes 1-3,Silver Medal
+Sweden,SWE,AHLQUIST Anna Carin,Table Tennis,TTE,Women's Team - Classes 4-5,Silver Medal
+Sweden,SWE,LUNDBACK Ingela,Table Tennis,TTE,Women's Team - Classes 4-5,Silver Medal
+Netherlands,NED,van HOOF Frederique,Table Tennis,TTE,Women's Team - Classes 6-8,Silver Medal
+Netherlands,NED,van ZON Kelly,Table Tennis,TTE,Women's Team - Classes 6-8,Silver Medal
+Australia,AUS,LEI Li Na,Table Tennis,TTE,Women's Team - Classes 9-10,Silver Medal
+Australia,AUS,TAPPER Melissa,Table Tennis,TTE,Women's Team - Classes 9-10,Silver Medal
+Australia,AUS,YANG Qian,Table Tennis,TTE,Women's Team - Classes 9-10,Silver Medal
+Egypt,EGY,ELZAYAT Mohamed,Taekwondo,TKW,Men K44 -61kg,Silver Medal
+Islamic Republic of Iran,IRI,POURRAHNAMAAHMADGOURABI Mahdi,Taekwondo,TKW,Men K44 -75kg,Silver Medal
+Croatia,CRO,MIKULIC Ivan,Taekwondo,TKW,Men K44 +75kg,Silver Medal
+Turkey,TUR,CAVDAR Meryem,Taekwondo,TKW,Women K44 -49kg,Silver Medal
+Great Britain,GBR,MUNRO Beth,Taekwondo,TKW,Women K44 -58kg,Silver Medal
+Brazil,BRA,BEZERRA de MENEZES Debora,Taekwondo,TKW,Women K44 +58kg,Silver Medal
+Austria,AUT,BRUNGRABER Florian,Triathlon,TRI,Men's PTWC,Silver Medal
+Spain,ESP,CATALA LAPARRA Hector,Triathlon,TRI,Men's PTVI,Silver Medal
+Japan,JPN,UDA Hideki,Triathlon,TRI,Men's PTS4,Silver Medal
+Great Britain,GBR,PEASGOOD George,Triathlon,TRI,Men's PTS5,Silver Medal
+United States of America,USA,DANZ Hailey,Triathlon,TRI,Women's PTS2,Silver Medal
+Australia,AUS,PARKER Lauren,Triathlon,TRI,Women's PTWC,Silver Medal
+Italy,ITA,BARBARO Anna,Triathlon,TRI,Women's PTVI,Silver Medal
+United States of America,USA,NORMAN Grace,Triathlon,TRI,Women's PTS5,Silver Medal
+Japan,JPN,AKAISHI Ryuga,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,AKITA Kei,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,CHOKAI Renshi,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,FUJIMOTO Reo,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,FUJISAWA Kiyoshi,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,FURUSAWA Takuya,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,IWAI Takayoshi,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,KAWAHARA Rin,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,KOZAI Hiroaki,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,MIYAJIMA Tetsuya,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,TAKAMATSU Yoshinobu,Wheelchair Basketball,WBK,Men,Silver Medal
+Japan,JPN,TOYOSHIMA Akira,Wheelchair Basketball,WBK,Men,Silver Medal
+People's Republic of China,CHN,CHEN Meier,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,CHEN Wenli,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,CHEN Xuejing,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,DAI Jiameng,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,DENG Mingzhu,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,HUANG Xiaolian,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,LEI Tianjiao,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,LIN Suiling,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,LYU Guidi,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,YANG Yan,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,ZHANG Tonglei,Wheelchair Basketball,WBK,Women,Silver Medal
+People's Republic of China,CHN,ZHANG Xuemei,Wheelchair Basketball,WBK,Women,Silver Medal
+RPC,RPC,SHABUROV Maxim,Wheelchair Fencing,WFE,Men's Épée Individual - Category A,Silver Medal
+Brazil,BRA,GUISSONE Jovane,Wheelchair Fencing,WFE,Men's Épée Individual - Category B,Silver Medal
+Hungary,HUN,OSVATH Richard,Wheelchair Fencing,WFE,Men's Foil Individual - Category A,Silver Medal
+People's Republic of China,CHN,HU Daoliang,Wheelchair Fencing,WFE,Men's Foil Individual - Category B,Silver Medal
+Ukraine,UKR,MANKO Artem,Wheelchair Fencing,WFE,Men's Sabre Individual - Category A,Silver Medal
+Poland,POL,CASTRO Adrian,Wheelchair Fencing,WFE,Men's Sabre Individual - Category B,Silver Medal
+People's Republic of China,CHN,HU Daoliang,Wheelchair Fencing,WFE,Men's Épée Team,Silver Medal
+People's Republic of China,CHN,SUN Gang,Wheelchair Fencing,WFE,Men's Épée Team,Silver Medal
+People's Republic of China,CHN,TIAN Jianquan,Wheelchair Fencing,WFE,Men's Épée Team,Silver Medal
+Great Britain,GBR,COUTYA Dimitri,Wheelchair Fencing,WFE,Men's Foil Team,Silver Medal
+Great Britain,GBR,GILLIVER Piers,Wheelchair Fencing,WFE,Men's Foil Team,Silver Medal
+Great Britain,GBR,LAM-WATSON Oliver,Wheelchair Fencing,WFE,Men's Foil Team,Silver Medal
+People's Republic of China,CHN,RONG Jing,Wheelchair Fencing,WFE,Women's Épée Individual - Category A,Silver Medal
+RPC,RPC,BOYKOVA Viktoria,Wheelchair Fencing,WFE,Women's Épée Individual - Category B,Silver Medal
+Ukraine,UKR,MORKVYCH Nataliia,Wheelchair Fencing,WFE,Women's Foil Individual - Category A,Silver Medal
+People's Republic of China,CHN,ZHOU Jingjing,Wheelchair Fencing,WFE,Women's Foil Individual - Category B,Silver Medal
+Georgia,GEO,TIBILASHVILI Nino,Wheelchair Fencing,WFE,Women's Sabre Individual - Category A,Silver Medal
+Ukraine,UKR,FEDOTA Olena,Wheelchair Fencing,WFE,Women's Sabre Individual - Category B,Silver Medal
+Ukraine,UKR,BREUS Yevheniia,Wheelchair Fencing,WFE,Women's Épée Team,Silver Medal
+Ukraine,UKR,FEDOTA Olena,Wheelchair Fencing,WFE,Women's Épée Team,Silver Medal
+Ukraine,UKR,MANDRYK Nataliia,Wheelchair Fencing,WFE,Women's Épée Team,Silver Medal
+Italy,ITA,MOGOS Ionela Andreea,Wheelchair Fencing,WFE,Women's Foil Team,Silver Medal
+Italy,ITA,TRIGILIA Loredana,Wheelchair Fencing,WFE,Women's Foil Team,Silver Medal
+Italy,ITA,VIO Beatrice Maria,Wheelchair Fencing,WFE,Women's Foil Team,Silver Medal
+United States of America,USA,AOKI Charles,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,BUTLER Jeff,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,COHN Chad,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,DELAGRAVE Joseph,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,FREDETTE Lee,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,HENNAGIR Ray,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,JACKSON Joe,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,MELTON Charles,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,NEWBY Eric,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,PUDERBAUGH Kory,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,SCATURRO Adam,Wheelchair Rugby,WRU,Mixed,Silver Medal
+United States of America,USA,WHEELER Joshua,Wheelchair Rugby,WRU,Mixed,Silver Medal
+Great Britain,GBR,HEWETT Alfie,Wheelchair Tennis,WTE,Men's Doubles,Silver Medal
+Great Britain,GBR,REID Gordon,Wheelchair Tennis,WTE,Men's Doubles,Silver Medal
+Netherlands,NED,EGBERINK Tom,Wheelchair Tennis,WTE,Men's Singles,Silver Medal
+Australia,AUS,ALCOTT Dylan,Wheelchair Tennis,WTE,Quad Doubles,Silver Medal
+Australia,AUS,DAVIDSON Heath,Wheelchair Tennis,WTE,Quad Doubles,Silver Medal
+Netherlands,NED,SCHRODER Sam,Wheelchair Tennis,WTE,Quad Singles,Silver Medal
+Great Britain,GBR,SHUKER Lucy,Wheelchair Tennis,WTE,Women's Doubles,Silver Medal
+Great Britain,GBR,WHILEY Jordanne,Wheelchair Tennis,WTE,Women's Doubles,Silver Medal
+Japan,JPN,KAMIJI Yui,Wheelchair Tennis,WTE,Women's Singles,Silver Medal
+Turkey,TUR,HEKIMOGLU Bahattin,Archery,ARC,Men's Individual - W1,Bronze Medal
+People's Republic of China,CHN,AI Xinliang,Archery,ARC,Men's Individual Compound - Open,Bronze Medal
+India,IND,SINGH Harvinder,Archery,ARC,Men's Individual Recurve - Open,Bronze Medal
+Great Britain,GBR,RUMARY Victoria,Archery,ARC,Women's Individual - W1,Bronze Medal
+Italy,ITA,VIRGILIO Maria Andrea,Archery,ARC,Women's Individual Compound - Open,Bronze Medal
+People's Republic of China,CHN,WU Chunyan,Archery,ARC,Women's Individual Recurve - Open,Bronze Medal
+RPC,RPC,KRUTOVA Elena,Archery,ARC,Mixed Team - W1,Bronze Medal
+RPC,RPC,LEONOV Aleksei,Archery,ARC,Mixed Team - W1,Bronze Medal
+RPC,RPC,ARTAKHINOVA Stepanida,Archery,ARC,Mixed Team Compound - Open,Bronze Medal
+RPC,RPC,SHIGAEV Bair,Archery,ARC,Mixed Team Compound - Open,Bronze Medal
+People's Republic of China,CHN,WU Chunyan,Archery,ARC,Mixed Team Recurve - Open,Bronze Medal
+People's Republic of China,CHN,ZHAO Lixue,Archery,ARC,Mixed Team Recurve - Open,Bronze Medal
+People's Republic of China,CHN,DI Dongdong,Athletics,ATH,Men's 100m - T11,Bronze Medal
+RPC,RPC,TARASOV Roman,Athletics,ATH,Men's 100m - T12,Bronze Medal
+Colombia,COL,MINA APONZA Jean Carlos,Athletics,ATH,Men's 100m - T13,Bronze Medal
+Great Britain,GBR,JENKINS Harri,Athletics,ATH,Men's 100m - T33,Bronze Medal
+United Arab Emirates,UAE,ALHAMMADI Mohamed,Athletics,ATH,Men's 100m - T34,Bronze Medal
+RPC,RPC,KALASHIAN Artem,Athletics,ATH,Men's 100m - T35,Bronze Medal
+Argentina,ARG,CHAVEZ Alexis Sebastian,Athletics,ATH,Men's 100m - T36,Bronze Medal
+Indonesia,INA,PURNOMO Saptoyoga,Athletics,ATH,Men's 100m - T37,Bronze Medal
+Australia,AUS,O'HANLON Evan,Athletics,ATH,Men's 100m - T38,Bronze Medal
+Brazil,BRA,JUNIOR Washington,Athletics,ATH,Men's 100m - T47,Bronze Medal
+Belgium,BEL,HABSCH Roger,Athletics,ATH,Men's 100m - T51,Bronze Medal
+Mexico,MEX,PEREZ JUAREZ Leonardo de Jesus,Athletics,ATH,Men's 100m - T52,Bronze Medal
+Saudi Arabia,KSA,ALQURASHI Adbulrahman,Athletics,ATH,Men's 100m - T53,Bronze Medal
+Mexico,MEX,CERVANTES GARCIA Juan Pablo,Athletics,ATH,Men's 100m - T54,Bronze Medal
+Germany,GER,SCHAEFER Leon,Athletics,ATH,Men's 100m - T63,Bronze Medal
+Germany,GER,FLOORS Johannes,Athletics,ATH,Men's 100m - T64,Bronze Medal
+Great Britain,GBR,PEACOCK Jonnie,Athletics,ATH,Men's 100m - T64,Bronze Medal
+RPC,RPC,RUDAKOV Fedor,Athletics,ATH,Men's 1500m - T11,Bronze Medal
+Australia,AUS,CLIFFORD Jaryd,Athletics,ATH,Men's 1500m - T13,Bronze Medal
+Italy,ITA,DIENG Ndiaga,Athletics,ATH,Men's 1500m - T20,Bronze Medal
+Australia,AUS,KENZIE Deon,Athletics,ATH,Men's 1500m - T38,Bronze Medal
+Uganda,UGA,EMONG David,Athletics,ATH,Men's 1500m - T46,Bronze Medal
+Japan,JPN,UEYONABARU Hirokazu,Athletics,ATH,Men's 1500m - T52,Bronze Medal
+Thailand,THA,KHONGRAK Putharet,Athletics,ATH,Men's 1500m - T54,Bronze Medal
+RPC,RPC,KALASHIAN Artem,Athletics,ATH,Men's 200m - T35,Bronze Medal
+Brazil,BRA,GOMES de MENDONCA Ricardo,Athletics,ATH,Men's 200m - T37,Bronze Medal
+Belgium,BEL,HABSCH Roger,Athletics,ATH,Men's 200m - T51,Bronze Medal
+Germany,GER,LACIN Ali,Athletics,ATH,Men's 200m - T61,Bronze Medal
+United States of America,USA,WALLACE Jarryd,Athletics,ATH,Men's 200m - T64,Bronze Medal
+France,FRA,MAKUNDA Gauthier,Athletics,ATH,Men's 400m - T11,Bronze Medal
+Tunisia,TUN,JEBABLI Rouay,Athletics,ATH,Men's 400m - T12,Bronze Medal
+Namibia,NAM,NAMBALA Johannes,Athletics,ATH,Men's 400m - T13,Bronze Medal
+Great Britain,GBR,BLANGO Columba,Athletics,ATH,Men's 400m - T20,Bronze Medal
+New Zealand,NZL,STEDMAN William,Athletics,ATH,Men's 400m - T36,Bronze Medal
+RPC,RPC,KOBESOV Chermen,Athletics,ATH,Men's 400m - T37,Bronze Medal
+Canada,CAN,GINGRAS Zachary,Athletics,ATH,Men's 400m - T38,Bronze Medal
+Brazil,BRA,FERREIRA dos SANTOS Petrucio,Athletics,ATH,Men's 400m - T47,Bronze Medal
+Japan,JPN,UEYONABARU Hirokazu,Athletics,ATH,Men's 400m - T52,Bronze Medal
+RPC,RPC,GRITSENKO Vitalii,Athletics,ATH,Men's 400m - T53,Bronze Medal
+People's Republic of China,CHN,DAI Yunqiang,Athletics,ATH,Men's 400m - T54,Bronze Medal
+United States of America,USA,WOODHALL Hunter,Athletics,ATH,Men's 400m - T62,Bronze Medal
+Japan,JPN,WADA Shinya,Athletics,ATH,Men's 5000m - T11,Bronze Medal
+RPC,RPC,KOSTIN Aleksandr,Athletics,ATH,Men's 5000m - T13,Bronze Medal
+Thailand,THA,KHONGRAK Putharet,Athletics,ATH,Men's 5000m - T54,Bronze Medal
+People's Republic of China,CHN,WANG Yang,Athletics,ATH,Men's 800m - T34,Bronze Medal
+France,FRA,FAIRBANK Pierre,Athletics,ATH,Men's 800m - T53,Bronze Medal
+Thailand,THA,KONJEN Saichon,Athletics,ATH,Men's 800m - T54,Bronze Medal
+Algeria,ALG,FERHAH Walid,Athletics,ATH,Men's Club Throw - F32,Bronze Medal
+Slovakia,SVK,KUREJA Marian,Athletics,ATH,Men's Club Throw - F51,Bronze Medal
+Italy,ITA,TAPIA Oney,Athletics,ATH,Men's Discus Throw - F11,Bronze Medal
+Brazil,BRA,TEIXEIRA de SOUZA SILVA Joao Victor,Athletics,ATH,Men's Discus Throw - F37,Bronze Medal
+Latvia,LAT,APINIS Aigars,Athletics,ATH,Men's Discus Throw - F52,Bronze Medal
+Cuba,CUB,DIAZ ALDANA Leonardo,Athletics,ATH,Men's Discus Throw - F56,Bronze Medal
+Great Britain,GBR,GREAVES Dan,Athletics,ATH,Men's Discus Throw - F64,Bronze Medal
+India,IND,KUMAR Sharad,Athletics,ATH,Men's High Jump - T63,Bronze Medal
+Poland,POL,LEPIATO Maciej,Athletics,ATH,Men's High Jump - T64,Bronze Medal
+Spain,ESP,CABRERA LLACER Hector,Athletics,ATH,Men's Javelin Throw - F13,Bronze Medal
+Colombia,COL,MENESES MEDINA Diego Fernando,Athletics,ATH,Men's Javelin Throw - F34,Bronze Medal
+Colombia,COL,LUCUMI VILLEGAS Luis Fernando,Athletics,ATH,Men's Javelin Throw - F38,Bronze Medal
+Iraq,IRQ,NUKHAILAWI Wildan,Athletics,ATH,Men's Javelin Throw - F41,Bronze Medal
+India,IND,GURJAR Sundar Singh,Athletics,ATH,Men's Javelin Throw - F46,Bronze Medal
+United States of America,USA,PHONGSAVANH Justin,Athletics,ATH,Men's Javelin Throw - F54,Bronze Medal
+Brazil,BRA,LINS NOBRE Cicero Valdiran,Athletics,ATH,Men's Javelin Throw - F57,Bronze Medal
+Sri Lanka,SRI,KODITHUWAKKU Dulan,Athletics,ATH,Men's Javelin Throw - F64,Bronze Medal
+France,FRA,PALLIER Ronan,Athletics,ATH,Men's Long Jump - T11,Bronze Medal
+Azerbaijan,AZE,NAJAFZADE Said,Athletics,ATH,Men's Long Jump - T12,Bronze Medal
+United States of America,USA,JEAN-PAUL Isaac,Athletics,ATH,Men's Long Jump - T13,Bronze Medal
+Australia,AUS,HUM Nicholas,Athletics,ATH,Men's Long Jump - T20,Bronze Medal
+Ukraine,UKR,PAVLYK Roman,Athletics,ATH,Men's Long Jump - T36,Bronze Medal
+Brazil,BRA,EVANGELISTA CARDOSO Mateus,Athletics,ATH,Men's Long Jump - T37,Bronze Medal
+Colombia,COL,LEMOS RIVAS Jose Gregorio,Athletics,ATH,Men's Long Jump - T38,Bronze Medal
+RPC,RPC,KOTUKOV Nikita,Athletics,ATH,Men's Long Jump - T47,Bronze Medal
+Denmark,DEN,WAGNER Daniel,Athletics,ATH,Men's Long Jump - T63,Bronze Medal
+United States of America,USA,MERRILL Trenten,Athletics,ATH,Men's Long Jump - T64,Bronze Medal
+Japan,JPN,HORIKOSHI Tadashi,Athletics,ATH,Men's Marathon - T12,Bronze Medal
+Japan,JPN,NAGATA Tsutomu,Athletics,ATH,Men's Marathon - T46,Bronze Medal
+United States of America,USA,ROMANCHUK Daniel,Athletics,ATH,Men's Marathon - T54,Bronze Medal
+Italy,ITA,TAPIA Oney,Athletics,ATH,Men's Shot Put - F11,Bronze Medal
+Uzbekistan,UZB,SULTONOV Elbek,Athletics,ATH,Men's Shot Put - F12,Bronze Medal
+Greece,GRE,NIKOLAIDIS Efstratios,Athletics,ATH,Men's Shot Put - F20,Bronze Medal
+Oman,OMA,AL MASHAYKHI Mohammed,Athletics,ATH,Men's Shot Put - F32,Bronze Medal
+Croatia,CRO,CERNI Deni,Athletics,ATH,Men's Shot Put - F33,Bronze Medal
+Qatar,QAT,FIQI Abdulrahman Abdulqadir,Athletics,ATH,Men's Shot Put - F34,Bronze Medal
+People's Republic of China,CHN,FU Xinhan,Athletics,ATH,Men's Shot Put - F35,Bronze Medal
+Germany,GER,DIETZ Sebastian,Athletics,ATH,Men's Shot Put - F36,Bronze Medal
+Brazil,BRA,TEIXEIRA de SOUZA SILVA Joao Victor,Athletics,ATH,Men's Shot Put - F37,Bronze Medal
+Portugal,POR,MONTEIRO Miguel,Athletics,ATH,Men's Shot Put - F40,Bronze Medal
+Germany,GER,KAPPEL Niko,Athletics,ATH,Men's Shot Put - F41,Bronze Medal
+United States of America,USA,CINNAMO Joshua,Athletics,ATH,Men's Shot Put - F46,Bronze Medal
+Czech Republic,CZE,KISY Ales,Athletics,ATH,Men's Shot Put - F53,Bronze Medal
+Poland,POL,STOLTMAN Lech,Athletics,ATH,Men's Shot Put - F55,Bronze Medal
+Brazil,BRA,PAULINO dos SANTOS Thiago,Athletics,ATH,Men's Shot Put - F57,Bronze Medal
+Kuwait,KUW,SOROUR Faisal,Athletics,ATH,Men's Shot Put - F63,Bronze Medal
+People's Republic of China,CHN,LIANG Yanfen,Athletics,ATH,Women's 100m - T12,Bronze Medal
+United States of America,USA,CROSBY Kym,Athletics,ATH,Women's 100m - T13,Bronze Medal
+Australia,AUS,LAMBIRD Robyn,Athletics,ATH,Women's 100m - T34,Bronze Medal
+Great Britain,GBR,LYLE Maria,Athletics,ATH,Women's 100m - T35,Bronze Medal
+New Zealand,NZL,AITCHISON Danielle,Athletics,ATH,Women's 100m - T36,Bronze Medal
+People's Republic of China,CHN,JIANG Fenfen,Athletics,ATH,Women's 100m - T37,Bronze Medal
+Germany,GER,AVE Lindy,Athletics,ATH,Women's 100m - T38,Bronze Medal
+United States of America,USA,YOUNG Deja,Athletics,ATH,Women's 100m - T47,Bronze Medal
+Great Britain,GBR,KINGHORN Samantha,Athletics,ATH,Women's 100m - T53,Bronze Medal
+United States of America,USA,MADSEN Cheri,Athletics,ATH,Women's 100m - T54,Bronze Medal
+Italy,ITA,CONTRAFATTO Monica Graziana,Athletics,ATH,Women's 100m - T63,Bronze Medal
+Canada,CAN,PAPACONSTANTINOU Marissa,Athletics,ATH,Women's 100m - T64,Bronze Medal
+Kenya,KEN,KOECH Nancy Chelangat,Athletics,ATH,Women's 1500m - T11,Bronze Medal
+Tunisia,TUN,BOUSAID Somaya,Athletics,ATH,Women's 1500m - T13,Bronze Medal
+Great Britain,GBR,TAUNTON Hannah,Athletics,ATH,Women's 1500m - T20,Bronze Medal
+Australia,AUS,de ROZARIO Madison,Athletics,ATH,Women's 1500m - T54,Bronze Medal
+Brazil,BRA,GEBER dos SANTOS Jerusa,Athletics,ATH,Women's 200m - T11,Bronze Medal
+RPC,RPC,KULINICH-SOROKINA Anna,Athletics,ATH,Women's 200m - T12,Bronze Medal
+Great Britain,GBR,LYLE Maria,Athletics,ATH,Women's 200m - T35,Bronze Medal
+Argentina,ARG,MARTINEZ Yanina Andrea,Athletics,ATH,Women's 200m - T36,Bronze Medal
+France,FRA,FRANCOIS-ELIE Mandy,Athletics,ATH,Women's 200m - T37,Bronze Medal
+Poland,POL,JEROMIN Alicja,Athletics,ATH,Women's 200m - T47,Bronze Medal
+Netherlands,NED,ALKEMADE Kimberly,Athletics,ATH,Women's 200m - T64,Bronze Medal
+Colombia,COL,PABON MAMIAN Angie Lizeth,Athletics,ATH,Women's 400m - T11,Bronze Medal
+Venezuela,VEN,PEREZ LOPEZ Alejandra Paola,Athletics,ATH,Women's 400m - T12,Bronze Medal
+United States of America,USA,CROSBY Kym,Athletics,ATH,Women's 400m - T13,Bronze Medal
+Brazil,BRA,FELIX BARBOSA da SILVA Jardenia,Athletics,ATH,Women's 400m - T20,Bronze Medal
+South Africa,RSA,JAMES Sheryl,Athletics,ATH,Women's 400m - T37,Bronze Medal
+Colombia,COL,JIMENEZ SANCHEZ Darian Faisury,Athletics,ATH,Women's 400m - T38,Bronze Medal
+RPC,RPC,SOLOVEVA Anastasiia,Athletics,ATH,Women's 400m - T47,Bronze Medal
+People's Republic of China,CHN,ZHOU Hongzhuan,Athletics,ATH,Women's 400m - T53,Bronze Medal
+People's Republic of China,CHN,ZHOU Zhaoqian,Athletics,ATH,Women's 400m - T54,Bronze Medal
+United States of America,USA,McFADDEN Tatyana,Athletics,ATH,Women's 5000m - T54,Bronze Medal
+United States of America,USA,HALKO Alexa,Athletics,ATH,Women's 800m - T34,Bronze Medal
+Switzerland,SUI,DEBRUNNER Catherine,Athletics,ATH,Women's 800m - T53,Bronze Medal
+United States of America,USA,SCARONI Susannah,Athletics,ATH,Women's 800m - T54,Bronze Medal
+Algeria,ALG,GASMI Mounia,Athletics,ATH,Women's Club Throw - F32,Bronze Medal
+RPC,RPC,GORLOVA Elena,Athletics,ATH,Women's Club Throw - F51,Bronze Medal
+Colombia,COL,RESTREPO MUNOZ Yesenia Maria,Athletics,ATH,Women's Discus Throw - F11,Bronze Medal
+Mexico,MEX,CASTRO CASTRO Rosa Carolina,Athletics,ATH,Women's Discus Throw - F38,Bronze Medal
+Morocco,MAR,EL GARAA Hayat,Athletics,ATH,Women's Discus Throw - F41,Bronze Medal
+Ukraine,UKR,OVSII Zoia,Athletics,ATH,Women's Discus Throw - F53,Bronze Medal
+Mexico,MEX,GUERRERO CAZARES Rosa Maria,Athletics,ATH,Women's Discus Throw - F55,Bronze Medal
+Brazil,BRA,da SILVA Julyana Cristina,Athletics,ATH,Women's Discus Throw - F57,Bronze Medal
+Australia,AUS,EDMISTON Sarah,Athletics,ATH,Women's Discus Throw - F64,Bronze Medal
+Belarus,BLR,PIATRENKA Lizaveta,Athletics,ATH,Women's Javelin Throw - F13,Bronze Medal
+Finland,FIN,HEIKKINEN Marjaana,Athletics,ATH,Women's Javelin Throw - F34,Bronze Medal
+Great Britain,GBR,ARNOLD Hollie,Athletics,ATH,Women's Javelin Throw - F46,Bronze Medal
+People's Republic of China,CHN,YANG Liwan,Athletics,ATH,Women's Javelin Throw - F54,Bronze Medal
+Latvia,LAT,DADZITE Diana,Athletics,ATH,Women's Javelin Throw - F56,Bronze Medal
+Ukraine,UKR,PAVLENKO Yuliia,Athletics,ATH,Women's Long Jump - T11,Bronze Medal
+Algeria,ALG,HAMRI Lynda,Athletics,ATH,Women's Long Jump - T12,Bronze Medal
+Croatia,CRO,RISTOSKI Mikela,Athletics,ATH,Women's Long Jump - T20,Bronze Medal
+RPC,RPC,SAPOZHNIKOVA Anna,Athletics,ATH,Women's Long Jump - T37,Bronze Medal
+Great Britain,GBR,BREEN Olivia,Athletics,ATH,Women's Long Jump - T38,Bronze Medal
+Ecuador,ECU,RODRIGUEZ Kiara,Athletics,ATH,Women's Long Jump - T47,Bronze Medal
+Switzerland,SUI,KRATTER Elena,Athletics,ATH,Women's Long Jump - T63,Bronze Medal
+Netherlands,NED,van GANSEWINKEL Marlene,Athletics,ATH,Women's Long Jump - T64,Bronze Medal
+South Africa,RSA,COETZEE Louzanne,Athletics,ATH,Women's Marathon - T12,Bronze Medal
+Netherlands,NED,den BOER Nikita,Athletics,ATH,Women's Marathon - T54,Bronze Medal
+Mexico,MEX,VALENZUELA ALVAREZ Rebeca,Athletics,ATH,Women's Shot Put - F12,Bronze Medal
+Ecuador,ECU,MENDEZ Anais,Athletics,ATH,Women's Shot Put - F20,Bronze Medal
+RPC,RPC,GALAKTIONOVA Evgeniia,Athletics,ATH,Women's Shot Put - F32,Bronze Medal
+Australia,AUS,STRONG Maria,Athletics,ATH,Women's Shot Put - F33,Bronze Medal
+Morocco,MAR,AMOUDI Saida,Athletics,ATH,Women's Shot Put - F34,Bronze Medal
+Czech Republic,CZE,LUXOVA Anna,Athletics,ATH,Women's Shot Put - F35,Bronze Medal
+People's Republic of China,CHN,WU Qing,Athletics,ATH,Women's Shot Put - F36,Bronze Medal
+People's Republic of China,CHN,LI Yingli,Athletics,ATH,Women's Shot Put - F37,Bronze Medal
+Nigeria,NGR,ONYE Lauritta,Athletics,ATH,Women's Shot Put - F40,Bronze Medal
+Argentina,ARG,RUIZ DIAZ Antonella,Athletics,ATH,Women's Shot Put - F41,Bronze Medal
+Uzbekistan,UZB,KURBANOVA Nurkhon,Athletics,ATH,Women's Shot Put - F54,Bronze Medal
+Nigeria,NGR,IYIAZI Eucharia,Athletics,ATH,Women's Shot Put - F57,Bronze Medal
+Japan,JPN,OSHIMA Kengo,Athletics,ATH,4x100m Universal Relay,Bronze Medal
+Japan,JPN,SAWADA Uran,Athletics,ATH,4x100m Universal Relay,Bronze Medal
+Japan,JPN,SUZUKI Tomoki,Athletics,ATH,4x100m Universal Relay,Bronze Medal
+Japan,JPN,TAKAMATSU Yuka,Athletics,ATH,4x100m Universal Relay,Bronze Medal
+Japan,JPN,KAJIWARA Daiki,Badminton,BDM,Men's Doubles WH,Bronze Medal
+Japan,JPN,MURAYAMA Hiroshi,Badminton,BDM,Men's Doubles WH,Bronze Medal
+Republic of Korea,KOR,LEE Dong Seop,Badminton,BDM,Men's Singles WH1,Bronze Medal
+"Hong Kong, China",HKG,CHAN Ho Yuen,Badminton,BDM,Men's Singles WH2,Bronze Medal
+India,IND,SARKAR Manoj,Badminton,BDM,Men's Singles SL3,Bronze Medal
+Indonesia,INA,FREDY Setiawan,Badminton,BDM,Men's Singles SL4,Bronze Medal
+Indonesia,INA,SURYO Nugroho,Badminton,BDM,Men's Singles SU5,Bronze Medal
+Great Britain,GBR,COOMBS Krysten,Badminton,BDM,Men's Singles SH6,Bronze Medal
+Thailand,THA,POOKKHAM Sujirat,Badminton,BDM,Women's Doubles WH,Bronze Medal
+Thailand,THA,WETWITHAN Amnouy,Badminton,BDM,Women's Doubles WH,Bronze Medal
+Japan,JPN,ITO Noriko,Badminton,BDM,Women's Doubles SL3-SU5,Bronze Medal
+Japan,JPN,SUZUKI Ayako,Badminton,BDM,Women's Doubles SL3-SU5,Bronze Medal
+People's Republic of China,CHN,YIN Menglu,Badminton,BDM,Women's Singles WH1,Bronze Medal
+Japan,JPN,YAMAZAKI Yuma,Badminton,BDM,Women's Singles WH2,Bronze Medal
+People's Republic of China,CHN,MA Huihui,Badminton,BDM,Women's Singles SL4,Bronze Medal
+Japan,JPN,SUGINO Akiko,Badminton,BDM,Women's Singles SU5,Bronze Medal
+Japan,JPN,FUJIHARA Daisuke,Badminton,BDM,Mixed Doubles SL3-SU5,Bronze Medal
+Japan,JPN,SUGINO Akiko,Badminton,BDM,Mixed Doubles SL3-SU5,Bronze Medal
+Brazil,BRA,de OLIVEIRA Jose Carlos Chagas,Boccia,BOC,Individual - BC1,Bronze Medal
+Brazil,BRA,SANTOS Maciel,Boccia,BOC,Individual - BC2,Bronze Medal
+Australia,AUS,MICHEL Daniel,Boccia,BOC,Individual - BC3,Bronze Medal
+"Hong Kong, China",HKG,LEUNG Yuk Wing,Boccia,BOC,Individual - BC4,Bronze Medal
+Greece,GRE,NTENTA Anna,Boccia,BOC,Pairs - BC3,Bronze Medal
+Greece,GRE,POLYCHRONIDIS Grigorios,Boccia,BOC,Pairs - BC3,Bronze Medal
+Greece,GRE,PYRGIOTIS Anastasia,Boccia,BOC,Pairs - BC3,Bronze Medal
+RPC,RPC,ADONINA Daria,Boccia,BOC,Pairs - BC4,Bronze Medal
+RPC,RPC,FROLOV Ivan,Boccia,BOC,Pairs - BC4,Bronze Medal
+RPC,RPC,SAFIN Sergey,Boccia,BOC,Pairs - BC4,Bronze Medal
+Japan,JPN,FUJII Yuriko,Boccia,BOC,Team - BC1/BC2,Bronze Medal
+Japan,JPN,HIROSE Takayuki,Boccia,BOC,Team - BC1/BC2,Bronze Medal
+Japan,JPN,NAKAMURA Takumi,Boccia,BOC,Team - BC1/BC2,Bronze Medal
+Japan,JPN,SUGIMURA Hidetaka,Boccia,BOC,Team - BC1/BC2,Bronze Medal
+France,FRA,BOULLE Remy,Canoe Sprint,CSP,Men's Kayak Single 200m - KL1,Bronze Medal
+Italy,ITA,MANCARELLA Federico,Canoe Sprint,CSP,Men's Kayak Single 200m - KL2,Bronze Medal
+Great Britain,GBR,OLIVER Robert,Canoe Sprint,CSP,Men's Kayak Single 200m - KL3,Bronze Medal
+Portugal,POR,MOURAO Norberto,Canoe Sprint,CSP,Men's Va'a Single 200m - VL2,Bronze Medal
+Great Britain,GBR,WOOD Stuart,Canoe Sprint,CSP,Men's Va'a Single 200m - VL3,Bronze Medal
+Chile,CHI,WOLLERMANN Katherinne,Canoe Sprint,CSP,Women's Kayak Single 200m - KL1,Bronze Medal
+Hungary,HUN,VARGA Katalin,Canoe Sprint,CSP,Women's Kayak Single 200m - KL2,Bronze Medal
+Germany,GER,LABERER Felicia,Canoe Sprint,CSP,Women's Kayak Single 200m - KL3,Bronze Medal
+Great Britain,GBR,CHIPPINGTON Jeanette,Canoe Sprint,CSP,Women's Va'a Single 200m - VL2,Bronze Medal
+Spain,ESP,GARROTE MUNOZ Sergio,Cycling Road,CRD,Men's H1-2 Road Race,Bronze Medal
+Colombia,COL,BETANCOURT QUIROGA Juan Jose,Cycling Road,CRD,Men's T1-2 Road Race,Bronze Medal
+Austria,AUT,ABLINGER Walter,Cycling Road,CRD,Men's H3 Road Race,Bronze Medal
+France,FRA,LEAUTE Alexandre,Cycling Road,CRD,Men's C1-3 Road Race,Bronze Medal
+France,FRA,LLOVERAS Alexandre,Cycling Road,CRD,Men's B Road Race,Bronze Medal
+Austria,AUT,GRITSCH Alexander,Cycling Road,CRD,Men's H4 Road Race,Bronze Medal
+Netherlands,NED,de VRIES Tim,Cycling Road,CRD,Men's H5 Road Race,Bronze Medal
+Netherlands,NED,ABRAHAM GEBRU Daniel,Cycling Road,CRD,Men's C4-5 Road Race,Bronze Medal
+Germany,GER,TEUBER Michael,Cycling Road,CRD,Men's C1 Time Trial,Bronze Medal
+Belgium,BEL,HORDIES Maxime,Cycling Road,CRD,Men's H1 Time Trial,Bronze Medal
+France,FRA,LEAUTE Alexandre,Cycling Road,CRD,Men's C2 Time Trial,Bronze Medal
+France,FRA,JOUANNY Florian,Cycling Road,CRD,Men's H2 Time Trial,Bronze Medal
+Belgium,BEL,CELEN Tim,Cycling Road,CRD,Men's T1-2 Time Trial,Bronze Medal
+Germany,GER,SCHINDLER Matthias,Cycling Road,CRD,Men's C3 Time Trial,Bronze Medal
+Spain,ESP,GARCIA MARQUINA Luis Miguel,Cycling Road,CRD,Men's H3 Time Trial,Bronze Medal
+Spain,ESP,VENGE BALBOA Christian,Cycling Road,CRD,Men's B Time Trial,Bronze Medal
+Great Britain,GBR,PEASGOOD George,Cycling Road,CRD,Men's C4 Time Trial,Bronze Medal
+Austria,AUT,GRITSCH Alexander,Cycling Road,CRD,Men's H4 Time Trial,Bronze Medal
+Australia,AUS,DONOHOE Alistair,Cycling Road,CRD,Men's C5 Time Trial,Bronze Medal
+Ireland,IRL,O'REILLY Gary,Cycling Road,CRD,Men's H5 Time Trial,Bronze Medal
+United States of America,USA,DANA Alicia,Cycling Road,CRD,Mixed H1-5 Team Relay,Bronze Medal
+United States of America,USA,de los SANTOS Alfredo,Cycling Road,CRD,Mixed H1-5 Team Relay,Bronze Medal
+United States of America,USA,PINNEY Ryan,Cycling Road,CRD,Mixed H1-5 Team Relay,Bronze Medal
+United States of America,USA,WALSH Jill,Cycling Road,CRD,Women's T1-2 Road Race,Bronze Medal
+Australia,AUS,GRECO Paige,Cycling Road,CRD,Women's C1-3 Road Race,Bronze Medal
+Sweden,SWE,JANNERING Louise,Cycling Road,CRD,Women's B Road Race,Bronze Medal
+United States of America,USA,DANA Alicia,Cycling Road,CRD,Women's H1-4 Road Race,Bronze Medal
+Italy,ITA,AERE Katia,Cycling Road,CRD,Women's H5 Road Race,Bronze Medal
+France,FRA,PATOUILLET Marie,Cycling Road,CRD,Women's C4-5 Road Race,Bronze Medal
+Germany,GER,DREOCK KAESER Angelika,Cycling Road,CRD,Women's T1-2 Time Trial,Bronze Medal
+Australia,AUS,GRECO Paige,Cycling Road,CRD,Women's C1-3 Time Trial,Bronze Medal
+Sweden,SWE,JANNERING Louise,Cycling Road,CRD,Women's B Time Trial,Bronze Medal
+Poland,POL,KALUZA Renata,Cycling Road,CRD,Women's H1-3 Time Trial,Bronze Medal
+Australia,AUS,LEMON Meg,Cycling Road,CRD,Women's C4 Time Trial,Bronze Medal
+Netherlands,NED,JANSEN Jennette,Cycling Road,CRD,Women's H4-5 Time Trial,Bronze Medal
+Germany,GER,BRACHTENDORF Kerstin,Cycling Road,CRD,Women's C5 Time Trial,Bronze Medal
+Great Britain,GBR,van GASS Jaco,Cycling Track,CTR,Men's C1-3 1000m Time Trial,Bronze Medal
+France,FRA,BEAUGILLET Raphael,Cycling Track,CTR,Men's B 1000m Time Trial,Bronze Medal
+Slovakia,SVK,METELKA Jozef,Cycling Track,CTR,Men's C4-5 1000m Time Trial,Bronze Medal
+People's Republic of China,CHN,LI Zhangyu,Cycling Track,CTR,Men's C1 3000m Individual Pursuit,Bronze Medal
+People's Republic of China,CHN,LIANG Guihua,Cycling Track,CTR,Men's C2 3000m Individual Pursuit,Bronze Medal
+Australia,AUS,NICHOLAS David,Cycling Track,CTR,Men's C3 3000m Individual Pursuit,Bronze Medal
+Poland,POL,POLAK Marcin,Cycling Track,CTR,Men's B 4000m Individual Pursuit,Bronze Medal
+Colombia,COL,DUENAS Diego German,Cycling Track,CTR,Men's C4 4000m Individual Pursuit,Bronze Medal
+Ukraine,UKR,DEMENTYEV Yehor,Cycling Track,CTR,Men's C5 4000m Individual Pursuit,Bronze Medal
+Spain,ESP,CABELLO LLAMAS Alfonso,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Bronze Medal
+Spain,ESP,JARAMILLO GALLARDO Pablo,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Bronze Medal
+Spain,ESP,TEN ARGILES Ricardo,Cycling Track,CTR,Mixed C1-5 750m Team Sprint,Bronze Medal
+People's Republic of China,CHN,QIAN Wangwei,Cycling Track,CTR,Women's C1-3 500m Time Trial,Bronze Medal
+Netherlands,NED,GROOT Caroline,Cycling Track,CTR,Women's C4-5 500m Time Trial,Bronze Medal
+Belgium,BEL,HOET Griet,Cycling Track,CTR,Women's B 1000m Time Trial,Bronze Medal
+Germany,GER,SCHINDLER Denise,Cycling Track,CTR,Women's C1-3 3000m Individual Pursuit,Bronze Medal
+Great Britain,GBR,UNWIN Sophie,Cycling Track,CTR,Women's B 3000m Individual Pursuit,Bronze Medal
+Canada,CAN,SHAW Keely,Cycling Track,CTR,Women's C4 3000m Individual Pursuit,Bronze Medal
+France,FRA,PATOUILLET Marie,Cycling Track,CTR,Women's C5 3000m Individual Pursuit,Bronze Medal
+Italy,ITA,MORGANTI Sara,Equestrian,EQU,Individual Test - Grade I,Bronze Medal
+Great Britain,GBR,WILSON Georgia,Equestrian,EQU,Individual Test - Grade II,Bronze Medal
+Netherlands,NED,van der HORST Rixt,Equestrian,EQU,Individual Test - Grade III,Bronze Medal
+Belgium,BEL,CLAEYS Manon,Equestrian,EQU,Individual Test - Grade IV,Bronze Medal
+Netherlands,NED,HOSMAR Frank,Equestrian,EQU,Individual Test - Grade V,Bronze Medal
+Italy,ITA,MORGANTI Sara,Equestrian,EQU,Individual Freestyle Test - Grade I,Bronze Medal
+Great Britain,GBR,WILSON Georgia,Equestrian,EQU,Individual Freestyle Test - Grade II,Bronze Medal
+Norway,NOR,LUBBE Ann Cathrin,Equestrian,EQU,Individual Freestyle Test - Grade III,Bronze Medal
+Belgium,BEL,CLAEYS Manon,Equestrian,EQU,Individual Freestyle Test - Grade IV,Bronze Medal
+Germany,GER,MISPELKAMP Regine,Equestrian,EQU,Individual Freestyle Test - Grade V,Bronze Medal
+United States of America,USA,HART Rebecca,Equestrian,EQU,Team Test to Music,Bronze Medal
+United States of America,USA,SHOEMAKER Kate,Equestrian,EQU,Team Test to Music,Bronze Medal
+United States of America,USA,TRUNNELL Roxanne,Equestrian,EQU,Team Test to Music,Bronze Medal
+Morocco,MAR,AIT AL HAKEM Abdellali,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,AIT BAJJA Elhabib,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,BARA Samir,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,BERKA Imad,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,BOUGHLAM Kamal,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,EL-MSELEK Said,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,GHILLI Houssam,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,HADIMI Ayoub,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,HATTAB Abderrazak,Football 5-a-side,FB5,Men,Bronze Medal
+Morocco,MAR,SNISLA Zouhair,Football 5-a-side,FB5,Men,Bronze Medal
+Lithuania,LTU,BRAZAUSKIS Mantas,Goalball,GBL,Men,Bronze Medal
+Lithuania,LTU,JONIKAITIS Arturas,Goalball,GBL,Men,Bronze Medal
+Lithuania,LTU,MONTVYDAS Nerijus,Goalball,GBL,Men,Bronze Medal
+Lithuania,LTU,PAVLIUKIANEC Genrik,Goalball,GBL,Men,Bronze Medal
+Lithuania,LTU,PAZARAUSKAS Justas,Goalball,GBL,Men,Bronze Medal
+Lithuania,LTU,ZIBOLIS Marius,Goalball,GBL,Men,Bronze Medal
+Japan,JPN,HAGIWARA Norika,Goalball,GBL,Women,Bronze Medal
+Japan,JPN,KAKEHATA Eiko,Goalball,GBL,Women,Bronze Medal
+Japan,JPN,TAKAHASHI Rieko,Goalball,GBL,Women,Bronze Medal
+Japan,JPN,TEMMA Yuki,Goalball,GBL,Women,Bronze Medal
+Japan,JPN,URATA Rie,Goalball,GBL,Women,Bronze Medal
+Japan,JPN,WAKASUGI Haruka,Goalball,GBL,Women,Bronze Medal
+RPC,RPC,SHEVCHENKO Anatolii,Judo,JUD,Men -100 kg,Bronze Medal
+Uzbekistan,UZB,KHALILOV Sharif,Judo,JUD,Men -100 kg,Bronze Medal
+Romania,ROU,BOLOGA Alex,Judo,JUD,Men -60 kg,Bronze Medal
+Turkey,TUR,CIFTCI Recep,Judo,JUD,Men -60 kg,Bronze Medal
+Azerbaijan,AZE,ABASLI Namig,Judo,JUD,Men -66 kg,Bronze Medal
+Japan,JPN,SETO Yujiro,Judo,JUD,Men -66 kg,Bronze Medal
+Lithuania,LTU,BAREIKIS Osvaldas,Judo,JUD,Men -73 kg,Bronze Medal
+Ukraine,UKR,MAHOMEDOV Rufat,Judo,JUD,Men -73 kg,Bronze Medal
+Mexico,MEX,AVILA SANCHEZ Eduardo Adrian,Judo,JUD,Men -81 kg,Bronze Medal
+Republic of Korea,KOR,LEE Jung Min,Judo,JUD,Men -81 kg,Bronze Medal
+France,FRA,LATCHOUMANAYA Helios,Judo,JUD,Men -90 kg,Bronze Medal
+Ukraine,UKR,NAZARENKO Oleksandr,Judo,JUD,Men -90 kg,Bronze Medal
+Azerbaijan,AZE,ZAKIYEV Ilham,Judo,JUD,Men +100 kg,Bronze Medal
+Republic of Korea,KOR,CHOI Gwang Geun,Judo,JUD,Men +100 kg,Bronze Medal
+RPC,RPC,POTAPOVA Viktoriia,Judo,JUD,Women -48 kg,Bronze Medal
+Ukraine,UKR,IVANYTSKA Yuliia,Judo,JUD,Women -48 kg,Bronze Medal
+RPC,RPC,STEPANIUK Alesia,Judo,JUD,Women -52 kg,Bronze Medal
+Ukraine,UKR,NIKOLAYCHYK Nataliya,Judo,JUD,Women -52 kg,Bronze Medal
+Brazil,BRA,ARAUJO Lucia,Judo,JUD,Women -57 kg,Bronze Medal
+Turkey,TUR,CELIK Zeynep,Judo,JUD,Women -57 kg,Bronze Medal
+People's Republic of China,CHN,WANG Yue,Judo,JUD,Women -63 kg,Bronze Medal
+Uzbekistan,UZB,SHERIPBOEVA Nafisa,Judo,JUD,Women -63 kg,Bronze Medal
+Japan,JPN,OGAWA Kazusa,Judo,JUD,Women -70 kg,Bronze Medal
+Mexico,MEX,RUVALCABA ALVAREZ Lenia Fabiola,Judo,JUD,Women -70 kg,Bronze Medal
+Brazil,BRA,EMMERICH Meg,Judo,JUD,Women +70 kg,Bronze Medal
+Italy,ITA,COSTA Carolina,Judo,JUD,Women +70 kg,Bronze Medal
+Islamic Republic of Iran,IRI,RAZI Saman,Powerlifting,PWL,Men's -107 kg,Bronze Medal
+Azerbaijan,AZE,MAMMADOV Parvin,Powerlifting,PWL,Men's -49 kg,Bronze Medal
+Greece,GRE,BAKOCHRISTOS Dimitrios,Powerlifting,PWL,Men's -54 kg,Bronze Medal
+El Salvador,ESA,ACEITUNO Herbert,Powerlifting,PWL,Men's -59 kg,Bronze Medal
+Algeria,ALG,BETTIR Hocine,Powerlifting,PWL,Men's -65 kg,Bronze Medal
+Great Britain,GBR,YULE Micky,Powerlifting,PWL,Men's -72 kg,Bronze Medal
+Egypt,EGY,ELELFAT Mohamed,Powerlifting,PWL,Men's -80 kg,Bronze Medal
+Egypt,EGY,ABDELHADY Hany,Powerlifting,PWL,Men's -88 kg,Bronze Medal
+Colombia,COL,TORRES Fabio,Powerlifting,PWL,Men's -97 kg,Bronze Medal
+Iraq,IRQ,AL-AGEELI Faris,Powerlifting,PWL,Men's +107 kg,Bronze Medal
+Venezuela,VEN,FUENTES MONASTERIO Clara Sarahy,Powerlifting,PWL,Women's -41 kg,Bronze Medal
+Poland,POL,KOZDRYK Justyna,Powerlifting,PWL,Women's -45 kg,Bronze Medal
+Great Britain,GBR,BROOME Olivia,Powerlifting,PWL,Women's -50 kg,Bronze Medal
+Turkey,TUR,DUMAN Besra,Powerlifting,PWL,Women's -55 kg,Bronze Medal
+Nigeria,NGR,EJIKE Lucy,Powerlifting,PWL,Women's -61 kg,Bronze Medal
+Nigeria,NGR,IBRAHIM Olaitan,Powerlifting,PWL,Women's -67 kg,Bronze Medal
+France,FRA,GHAZOUANI Souhad,Powerlifting,PWL,Women's -73 kg,Bronze Medal
+RPC,RPC,MURATOVA Vera,Powerlifting,PWL,Women's -79 kg,Bronze Medal
+Great Britain,GBR,SUGDEN Louise,Powerlifting,PWL,Women's -86 kg,Bronze Medal
+Poland,POL,ZIEBA Marzena,Powerlifting,PWL,Women's +86 kg,Bronze Medal
+Brazil,BRA,CAMPOS PEREIRA Rene,Rowing,ROW,PR1 Men's Single Sculls - PR1M1x,Bronze Medal
+France,FRA,BENOIT Nathalie,Rowing,ROW,PR1 Women's Single Sculls - PR1W1x,Bronze Medal
+France,FRA,BOULET Margot,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Bronze Medal
+France,FRA,JESEL Antoine,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Bronze Medal
+France,FRA,le BARREAU Robin,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Bronze Medal
+France,FRA,SAUZEAU Erika,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Bronze Medal
+France,FRA,TARANTO Remy,Rowing,ROW,PR3 Mixed Coxed Four - PR3Mix4+,Bronze Medal
+People's Republic of China,CHN,JIANG Jijian,Rowing,ROW,PR2 Mixed Double Sculls - PR2Mix2x,Bronze Medal
+People's Republic of China,CHN,LIU Shuang,Rowing,ROW,PR2 Mixed Double Sculls - PR2Mix2x,Bronze Medal
+India,IND,SINGHRAJ,Shooting,SHO,P1 - Men's 10m Air Pistol SH1,Bronze Medal
+Republic of Korea,KOR,PARK Jinho,Shooting,SHO,R1 - Men's 10m Air Rifle Standing SH1,Bronze Medal
+Republic of Korea,KOR,SHIM Youngjip,Shooting,SHO,R7 - Men's 50m Rifle 3 Positions SH1,Bronze Medal
+Ukraine,UKR,SHCHETNIK Iryna,Shooting,SHO,R3 - Mixed 10m Air Rifle Prone SH1,Bronze Medal
+Slovenia,SLO,TIRSEK Francek Gorazd,Shooting,SHO,R5 - Mixed 10m Air Rifle Prone SH2,Bronze Medal
+Italy,ITA,LIVERANI Andrea,Shooting,SHO,R4 - Mixed 10m Air Rifle Standing SH2,Bronze Medal
+Ukraine,UKR,DENYSIUK Oleksii,Shooting,SHO,P3 - Mixed 25m Pistol SH1,Bronze Medal
+RPC,RPC,MALYSHEV Sergey,Shooting,SHO,P4 - Mixed 50m Pistol SH1,Bronze Medal
+Spain,ESP,SAAVEDRA REINALDO Juan Antonio,Shooting,SHO,R6 - Mixed 50m Rifle Prone SH1,Bronze Medal
+Ukraine,UKR,KOVALCHUK Vasyl,Shooting,SHO,R9 - Mixed 50m Rifle Prone SH2,Bronze Medal
+Hungary,HUN,DAVID Krisztina,Shooting,SHO,P2 - Women's 10m Air Pistol SH1,Bronze Medal
+Ukraine,UKR,SHCHETNIK Iryna,Shooting,SHO,R2 - Women's 10m Air Rifle Standing SH1,Bronze Medal
+India,IND,LEKHARA Avani,Shooting,SHO,R8 - Women's 50m Rifle 3 Positions SH1,Bronze Medal
+Bosnia and Herzegovina,BIH,ALIBASIC Safet,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,BRKIC Jasmin,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,CANCAR Nizam,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,CRNOBRNJA Stevan,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,DELALIC Sabahudin,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,DURAN Mirzet,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,GODINJAK Ismet,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,HAMZIC Dzevad,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,JUSUFOVIC Ermin,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,MANKO Adnan,Sitting Volleyball,VBS,Men,Bronze Medal
+Bosnia and Herzegovina,BIH,MEDIC Asim,Sitting Volleyball,VBS,Men,Bronze Medal
+Brazil,BRA,da COSTA DIAS Gizele Maria,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,de ALMEIDA SILVA Nurya,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,de LIMA SILVA Nathalie Filomena,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,de OLIVEIRA DIAS Edwarda,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,de SOUZA SOARES Ana Luisa Aparecida,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,FREITAS BATISTA Jani,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,GUISSO FIORESE Luiza,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,JESUS da SILVA Adria,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,LEIRIA de CASTRO Camila,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,NASCIMENTO LIMA Bruna,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,PEREIRA Pamela,Sitting Volleyball,VBS,Women,Bronze Medal
+Brazil,BRA,RODRIGUES BATISTA Laiana,Sitting Volleyball,VBS,Women,Bronze Medal
+Italy,ITA,BETTELLA Francesco,Swimming,SWM,Men's 100m Backstroke - S1,Bronze Medal
+RPC,RPC,DANILENKO Vladimir,Swimming,SWM,Men's 100m Backstroke - S2,Bronze Medal
+Croatia,CRO,SINOVCIC Dino,Swimming,SWM,Men's 100m Backstroke - S6,Bronze Medal
+Israel,ISR,MALYAR Mark,Swimming,SWM,Men's 100m Backstroke - S7,Bronze Medal
+People's Republic of China,CHN,LIU Fengqi,Swimming,SWM,Men's 100m Backstroke - S8,Bronze Medal
+Australia,AUS,HODGE Timothy,Swimming,SWM,Men's 100m Backstroke - S9,Bronze Medal
+France,FRA,MARAIS Florent,Swimming,SWM,Men's 100m Backstroke - S10,Bronze Medal
+People's Republic of China,CHN,YANG Bozun,Swimming,SWM,Men's 100m Backstroke - S11,Bronze Medal
+Great Britain,GBR,CLEGG Stephen,Swimming,SWM,Men's 100m Backstroke - S12,Bronze Medal
+RPC,RPC,SOTNIKOV Vladimir,Swimming,SWM,Men's 100m Backstroke - S13,Bronze Medal
+Great Britain,GBR,DUNN Reece,Swimming,SWM,Men's 100m Backstroke - S14,Bronze Medal
+Ukraine,UKR,DUBROV Denys,Swimming,SWM,Men's 100m Butterfly - S8,Bronze Medal
+RPC,RPC,SKALIUKH Alexander,Swimming,SWM,Men's 100m Butterfly - S9,Bronze Medal
+Australia,AUS,PEARSE Col,Swimming,SWM,Men's 100m Butterfly - S10,Bronze Medal
+Brazil,BRA,BELARMINO PEREIRA Wendell,Swimming,SWM,Men's 100m Butterfly - S11,Bronze Medal
+RPC,RPC,MAKAROV Roman,Swimming,SWM,Men's 100m Butterfly - S12,Bronze Medal
+Uzbekistan,UZB,ASLANOV Islam,Swimming,SWM,Men's 100m Butterfly - S13,Bronze Medal
+Australia,AUS,HANCE Benjamin James,Swimming,SWM,Men's 100m Butterfly - S14,Bronze Medal
+Greece,GRE,TSAPATAKIS Antonios,Swimming,SWM,Men's 100m Breaststroke - SB4,Bronze Medal
+People's Republic of China,CHN,LI Junsheng,Swimming,SWM,Men's 100m Breaststroke - SB5,Bronze Medal
+Australia,AUS,LEVY Matthew,Swimming,SWM,Men's 100m Breaststroke - SB6,Bronze Medal
+Australia,AUS,COCHRANE Blake,Swimming,SWM,Men's 100m Breaststroke - SB7,Bronze Medal
+People's Republic of China,CHN,YANG Guanglong,Swimming,SWM,Men's 100m Breaststroke - SB8,Bronze Medal
+RPC,RPC,BARTASINSKII Dmitrii,Swimming,SWM,Men's 100m Breaststroke - SB9,Bronze Medal
+People's Republic of China,CHN,YANG Bozun,Swimming,SWM,Men's 100m Breaststroke - SB11,Bronze Medal
+RPC,RPC,SAIFUTDINOV Artur,Swimming,SWM,Men's 100m Breaststroke - SB12,Bronze Medal
+Kazakhstan,KAZ,ZHUMAGALI Nurdaulet,Swimming,SWM,Men's 100m Breaststroke - SB13,Bronze Medal
+Great Britain,GBR,QUIN Scott,Swimming,SWM,Men's 100m Breaststroke - SB14,Bronze Medal
+RPC,RPC,ZHDANOV Roman,Swimming,SWM,Men's 100m Freestyle - S4,Bronze Medal
+Brazil,BRA,de FARIA DIAS Daniel,Swimming,SWM,Men's 100m Freestyle - S5,Bronze Medal
+Brazil,BRA,GLOCK Talisson Henrique,Swimming,SWM,Men's 100m Freestyle - S6,Bronze Medal
+Greece,GRE,MICHALENTZAKIS Dimosthenis,Swimming,SWM,Men's 100m Freestyle - S8,Bronze Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 100m Freestyle - S10,Bronze Medal
+Great Britain,GBR,CLEGG Stephen,Swimming,SWM,Men's 100m Freestyle - S12,Bronze Medal
+Australia,AUS,PATTERSON Grant,Swimming,SWM,Men's 150m Individual Medley - SM3,Bronze Medal
+Japan,JPN,SUZUKI Takayuki,Swimming,SWM,Men's 150m Individual Medley - SM4,Bronze Medal
+RPC,RPC,DANILENKO Vladimir,Swimming,SWM,Men's 200m Freestyle - S2,Bronze Medal
+Mexico,MEX,HERNANDEZ HERNANDEZ Jesus,Swimming,SWM,Men's 200m Freestyle - S3,Bronze Medal
+RPC,RPC,ZHDANOV Roman,Swimming,SWM,Men's 200m Freestyle - S4,Bronze Medal
+Brazil,BRA,de FARIA DIAS Daniel,Swimming,SWM,Men's 200m Freestyle - S5,Bronze Medal
+RPC,RPC,EMELIANTSEV Viacheslav,Swimming,SWM,Men's 200m Freestyle - S14,Bronze Medal
+People's Republic of China,CHN,JIA Hongguang,Swimming,SWM,Men's 200m Individual Medley - SM6,Bronze Medal
+Colombia,COL,SERRANO ZARATE Carlos Daniel,Swimming,SWM,Men's 200m Individual Medley - SM7,Bronze Medal
+People's Republic of China,CHN,YANG Guanglong,Swimming,SWM,Men's 200m Individual Medley - SM8,Bronze Medal
+France,FRA,DIDIER Ugo,Swimming,SWM,Men's 200m Individual Medley - SM9,Bronze Medal
+Netherlands,NED,TAKKEN Bas,Swimming,SWM,Men's 200m Individual Medley - SM10,Bronze Medal
+Japan,JPN,TOMITA Uchu,Swimming,SWM,Men's 200m Individual Medley - SM11,Bronze Medal
+Netherlands,NED,van WANROOIJ Thomas,Swimming,SWM,Men's 200m Individual Medley - SM13,Bronze Medal
+Ukraine,UKR,KRAINYK Vasyl,Swimming,SWM,Men's 200m Individual Medley - SM14,Bronze Medal
+RPC,RPC,LENSKII Viacheslav,Swimming,SWM,Men's 400m Freestyle - S6,Bronze Medal
+United States of America,USA,AUSTIN Evan,Swimming,SWM,Men's 400m Freestyle - S7,Bronze Medal
+United States of America,USA,TORRES Matthew,Swimming,SWM,Men's 400m Freestyle - S8,Bronze Medal
+Australia,AUS,TUCKFIELD Alexander,Swimming,SWM,Men's 400m Freestyle - S9,Bronze Medal
+Australia,AUS,GALLAGHER Thomas,Swimming,SWM,Men's 400m Freestyle - S10,Bronze Medal
+People's Republic of China,CHN,HUA Dongdong,Swimming,SWM,Men's 400m Freestyle - S11,Bronze Medal
+France,FRA,PORTAL Alex,Swimming,SWM,Men's 400m Freestyle - S13,Bronze Medal
+Ukraine,UKR,BOZHYNSKYI Yurii,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Bronze Medal
+Ukraine,UKR,DUBROV Denys,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Bronze Medal
+Ukraine,UKR,KRYPAK Maksym,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Bronze Medal
+Ukraine,UKR,TRUSOV Andrii,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points,Bronze Medal
+Italy,ITA,BARLAAM Simone,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Bronze Medal
+Italy,ITA,BICELLI Federico,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Bronze Medal
+Italy,ITA,FANTIN Antonio,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Bronze Medal
+Italy,ITA,MENCIOTTI Riccardo,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Bronze Medal
+Italy,ITA,MORLACCHI Federico,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Bronze Medal
+Italy,ITA,RAIMONDI Stefano,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points,Bronze Medal
+Italy,ITA,BETTELLA Francesco,Swimming,SWM,Men's 50m Backstroke - S1,Bronze Medal
+RPC,RPC,DANILENKO Vladimir,Swimming,SWM,Men's 50m Backstroke - S2,Bronze Medal
+Mexico,MEX,LOPEZ DIAZ Diego,Swimming,SWM,Men's 50m Backstroke - S3,Bronze Medal
+Mexico,MEX,CAMACHO RAMIREZ Angel de Jesus,Swimming,SWM,Men's 50m Backstroke - S4,Bronze Medal
+People's Republic of China,CHN,WANG Lichao,Swimming,SWM,Men's 50m Backstroke - S5,Bronze Medal
+People's Republic of China,CHN,YUAN Weiyi,Swimming,SWM,Men's 50m Butterfly - S5,Bronze Medal
+Colombia,COL,CRISPIN CORZO Nelson,Swimming,SWM,Men's 50m Butterfly - S6,Bronze Medal
+Colombia,COL,SERRANO ZARATE Carlos Daniel,Swimming,SWM,Men's 50m Butterfly - S7,Bronze Medal
+Mexico,MEX,HERNANDEZ HERNANDEZ Jesus,Swimming,SWM,Men's 50m Breaststroke - SB2,Bronze Medal
+Japan,JPN,SUZUKI Takayuki,Swimming,SWM,Men's 50m Breaststroke - SB3,Bronze Medal
+Ukraine,UKR,OSTAPCHENKO Denys,Swimming,SWM,Men's 50m Freestyle - S3,Bronze Medal
+Italy,ITA,BEGGIATO Luigi,Swimming,SWM,Men's 50m Freestyle - S4,Bronze Medal
+People's Republic of China,CHN,WANG Lichao,Swimming,SWM,Men's 50m Freestyle - S5,Bronze Medal
+Ukraine,UKR,BOHODAIKO Yevhenii,Swimming,SWM,Men's 50m Freestyle - S7,Bronze Medal
+United States of America,USA,HILL Jamal,Swimming,SWM,Men's 50m Freestyle - S9,Bronze Medal
+Brazil,BRA,MELO RODRIGUES Phelipe Andrews,Swimming,SWM,Men's 50m Freestyle - S10,Bronze Medal
+Lithuania,LTU,MATAKAS Edgaras,Swimming,SWM,Men's 50m Freestyle - S11,Bronze Medal
+Ukraine,UKR,VERAKSA Maksym,Swimming,SWM,Men's 50m Freestyle - S13,Bronze Medal
+Mexico,MEX,RAMIREZ Fabiola,Swimming,SWM,Women's 100m Backstroke - S2,Bronze Medal
+Germany,GER,SCHOTT Verena,Swimming,SWM,Women's 100m Backstroke - S6,Bronze Medal
+United States of America,USA,GAFFNEY Julia,Swimming,SWM,Women's 100m Backstroke - S7,Bronze Medal
+United States of America,USA,LONG Jessica,Swimming,SWM,Women's 100m Backstroke - S8,Bronze Medal
+New Zealand,NZL,PASCOE Sophie,Swimming,SWM,Women's 100m Backstroke - S9,Bronze Medal
+Netherlands,NED,KRUGER Lisa,Swimming,SWM,Women's 100m Backstroke - S10,Bronze Medal
+People's Republic of China,CHN,LI Guizhi,Swimming,SWM,Women's 100m Backstroke - S11,Bronze Medal
+Brazil,BRA,GOMES SANTIAGO Maria Carolina,Swimming,SWM,Women's 100m Backstroke - S12,Bronze Medal
+Australia,AUS,DEDEKIND Katja,Swimming,SWM,Women's 100m Backstroke - S13,Bronze Medal
+Great Britain,GBR,APPLEGATE Jessica-Jane,Swimming,SWM,Women's 100m Backstroke - S14,Bronze Medal
+Colombia,COL,GONZALEZ RODRIGUEZ Laura Carolina,Swimming,SWM,Women's 100m Butterfly - S8,Bronze Medal
+Spain,ESP,GASCON Sarai,Swimming,SWM,Women's 100m Butterfly - S9,Bronze Medal
+Netherlands,NED,ZIJDERVELD Chantalle,Swimming,SWM,Women's 100m Butterfly - S10,Bronze Medal
+RPC,RPC,PIKALOVA Daria,Swimming,SWM,Women's 100m Butterfly - S13,Bronze Medal
+Australia,AUS,STORM Ruby,Swimming,SWM,Women's 100m Butterfly - S14,Bronze Medal
+People's Republic of China,CHN,YAO Cuan,Swimming,SWM,Women's 100m Breaststroke - SB4,Bronze Medal
+Germany,GER,SCHOTT Verena,Swimming,SWM,Women's 100m Breaststroke - SB5,Bronze Medal
+United States of America,USA,HERZOG Sophia,Swimming,SWM,Women's 100m Breaststroke - SB6,Bronze Medal
+Australia,AUS,THOMAS KANE Tiffany,Swimming,SWM,Women's 100m Breaststroke - SB7,Bronze Medal
+RPC,RPC,RAZETDINOVA Adelina,Swimming,SWM,Women's 100m Breaststroke - SB8,Bronze Medal
+Australia,AUS,STEPHENS Keira,Swimming,SWM,Women's 100m Breaststroke - SB9,Bronze Medal
+Ukraine,UKR,BEREZHNA Yana,Swimming,SWM,Women's 100m Breaststroke - SB11,Bronze Medal
+Ukraine,UKR,MATLO Yaryna,Swimming,SWM,Women's 100m Breaststroke - SB12,Bronze Medal
+United States of America,USA,YOUNG Colleen,Swimming,SWM,Women's 100m Breaststroke - SB13,Bronze Medal
+Brazil,BRA,BORGES CARNEIRO Beatriz,Swimming,SWM,Women's 100m Breaststroke - SB14,Bronze Medal
+RPC,RPC,SHISHOVA Iuliia,Swimming,SWM,Women's 100m Freestyle - S3,Bronze Medal
+Italy,ITA,BOGGIONI Monica,Swimming,SWM,Women's 100m Freestyle - S5,Bronze Medal
+People's Republic of China,CHN,JIANG Yuyan,Swimming,SWM,Women's 100m Freestyle - S7,Bronze Medal
+Ukraine,UKR,MERESHKO Yelyzaveta,Swimming,SWM,Women's 100m Freestyle - S7,Bronze Medal
+Brazil,BRA,RIBEIRO Mariana,Swimming,SWM,Women's 100m Freestyle - S9,Bronze Medal
+Netherlands,NED,KRUGER Lisa,Swimming,SWM,Women's 100m Freestyle - S10,Bronze Medal
+People's Republic of China,CHN,CAI Liwen,Swimming,SWM,Women's 100m Freestyle - S11,Bronze Medal
+Great Britain,GBR,RUSSELL Hannah,Swimming,SWM,Women's 100n Freestyle - S12,Bronze Medal
+RPC,RPC,BUTKOVA Nataliia,Swimming,SWM,Women's 150m Individual Medley - SM4,Bronze Medal
+Italy,ITA,BOGGIONI Monica,Swimming,SWM,Women's 200m Freestyle - S5,Bronze Medal
+Great Britain,GBR,APPLEGATE Jessica-Jane,Swimming,SWM,Women's 200m Freestyle - S14,Bronze Medal
+Italy,ITA,BOGGIONI Monica,Swimming,SWM,Women's 200m Individual Medley - SM5,Bronze Medal
+Germany,GER,SCHOTT Verena,Swimming,SWM,Women's 200m Individual Medley - SM6,Bronze Medal
+Australia,AUS,THOMAS KANE Tiffany,Swimming,SWM,Women's 200m Individual Medley - SM7,Bronze Medal
+RPC,RPC,PAVLOVA Mariia,Swimming,SWM,Women's 200m Individual Medley - SM8,Bronze Medal
+Spain,ESP,MARQUES SOTO Nuria,Swimming,SWM,Women's 200m Individual Medley - SM9,Bronze Medal
+Netherlands,NED,KRUGER Lisa,Swimming,SWM,Women's 200m Individual Medley - SM10,Bronze Medal
+United States of America,USA,PAGONIS Anastasia,Swimming,SWM,Women's 200m Individual Medley - SM11,Bronze Medal
+Uzbekistan,UZB,TOSHPULATOVA Shokhsanamkhon,Swimming,SWM,Women's 200m Individual Medley - SM13,Bronze Medal
+Great Britain,GBR,FIDDES Louise,Swimming,SWM,Women's 200m Individual Medley - SM14,Bronze Medal
+Switzerland,SUI,MEISTER Nora,Swimming,SWM,Women's 400m Freestyle - S6,Bronze Medal
+United States of America,USA,GAFFNEY Julia,Swimming,SWM,Women's 400m Freestyle - S7,Bronze Medal
+Italy,ITA,PALAZZO Xenia Francesca,Swimming,SWM,Women's 400m Freestyle - S8,Bronze Medal
+Great Britain,GBR,SHAW Toni,Swimming,SWM,Women's 400m Freestyle - S9,Bronze Medal
+Poland,POL,JABLONSKA Oliwia,Swimming,SWM,Women's 400m Freestyle - S10,Bronze Medal
+People's Republic of China,CHN,CAI Liwen,Swimming,SWM,Women's 400m Freestyle - S11,Bronze Medal
+Australia,AUS,DEDEKIND Katja,Swimming,SWM,Women's 400m Freestyle - S13,Bronze Medal
+Canada,CAN,BIRD Morgan,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Bronze Medal
+Canada,CAN,DUCHESNE Sabrina,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Bronze Medal
+Canada,CAN,RIVARD Aurelie,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Bronze Medal
+Canada,CAN,ROXON Katarina,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts,Bronze Medal
+Australia,AUS,BEECROFT Emily,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Bronze Medal
+Australia,AUS,COLE Ellie,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Bronze Medal
+Australia,AUS,STEPHENS Keira,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Bronze Medal
+Australia,AUS,VINCENT Isabella,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points,Bronze Medal
+People's Republic of China,CHN,FENG Yazhu,Swimming,SWM,Women's 50m Backstroke - S2,Bronze Medal
+RPC,RPC,SHISHOVA Iuliia,Swimming,SWM,Women's 50m Backstroke - S3,Bronze Medal
+Greece,GRE,STAMATOPOULOU Alexandra,Swimming,SWM,Women's 50m Backstroke - S4,Bronze Medal
+Turkey,TUR,OZTURK Sevilay,Swimming,SWM,Women's 50m Backstroke - S5,Bronze Medal
+People's Republic of China,CHN,CHENG Jiao,Swimming,SWM,Women's 50m Butterfly - S5,Bronze Medal
+United States of America,USA,MARKS Elizabeth,Swimming,SWM,Women's 50m Butterfly - S6,Bronze Medal
+Italy,ITA,TERZI Giulia,Swimming,SWM,Women's 50m Butterfly - S7,Bronze Medal
+Mexico,MEX,MIRANDA HERRERA Nely,Swimming,SWM,Women's 50m Breaststroke - SB3,Bronze Medal
+Spain,ESP,FERNANDEZ INFANTE Marta,Swimming,SWM,Women's 50m Freestyle - S4,Bronze Medal
+Ukraine,UKR,HONTAR Anna,Swimming,SWM,Women's 50m Freestyle - S6,Bronze Medal
+Italy,ITA,PALAZZO Xenia Francesca,Swimming,SWM,Women's 50m Freestyle - S8,Bronze Medal
+Canada,CAN,RIVARD Aurelie,Swimming,SWM,Women's 50m Freestyle - S10,Bronze Medal
+Cyprus,CYP,PELENDRITOU Karolina,Swimming,SWM,Women's 50m Freestyle - S11,Bronze Medal
+Italy,ITA,GILLI Carlotta,Swimming,SWM,Women's 50m Freestyle - S13,Bronze Medal
+Ukraine,UKR,GARASHCHENKO Kyrylo,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Bronze Medal
+Ukraine,UKR,PIDDUBNA Maryna,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Bronze Medal
+Ukraine,UKR,STETSENKO Anna,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Bronze Medal
+Ukraine,UKR,VERAKSA Maksym,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points,Bronze Medal
+Brazil,BRA,BANDEIRA Gabriel,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Bronze Medal
+Brazil,BRA,BORGES CARNEIRO Debora,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Bronze Medal
+Brazil,BRA,SOARES de OLIVEIRA Ana Karolina,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Bronze Medal
+Brazil,BRA,VILA REAL Felipe,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14,Bronze Medal
+Brazil,BRA,da SILVA NEVES EUZEBIO Joana Maria,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Brazil,BRA,de FARIA DIAS Daniel,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Brazil,BRA,GLOCK Talisson Henrique,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Brazil,BRA,MELONE de OLIVEIRA Gabriel,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Brazil,BRA,PEREIRA dos SANTOS Patricia,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Brazil,BRA,SUZIGAN ABATE Laila,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Brazil,BRA,TOBERA Eric,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points,Bronze Medal
+Great Britain,GBR,MATTHEWS Thomas,Table Tennis,TTE,Men's Singles - Class 1,Bronze Medal
+Republic of Korea,KOR,NAM Ki Won,Table Tennis,TTE,Men's Singles - Class 1,Bronze Medal
+Republic of Korea,KOR,CHA Soo Yong,Table Tennis,TTE,Men's Singles - Class 2,Bronze Medal
+Republic of Korea,KOR,PARK Jin Cheol,Table Tennis,TTE,Men's Singles - Class 2,Bronze Medal
+People's Republic of China,CHN,ZHAI Xiang,Table Tennis,TTE,Men's Singles - Class 3,Bronze Medal
+United States of America,USA,van EMBURGH Jenson,Table Tennis,TTE,Men's Singles - Class 3,Bronze Medal
+France,FRA,THOMAS Maxime,Table Tennis,TTE,Men's Singles - Class 4,Bronze Medal
+Turkey,TUR,TURAN Nesim,Table Tennis,TTE,Men's Singles - Class 4,Bronze Medal
+Great Britain,GBR,HUNTER SPIVEY Jack,Table Tennis,TTE,Men's Singles - Class 5,Bronze Medal
+Turkey,TUR,OZTURK Ali,Table Tennis,TTE,Men's Singles - Class 5,Bronze Medal
+Great Britain,GBR,KARABARDAK Paul,Table Tennis,TTE,Men's Singles - Class 6,Bronze Medal
+Thailand,THA,THAINIYOM Rungroj,Table Tennis,TTE,Men's Singles - Class 6,Bronze Medal
+People's Republic of China,CHN,LIAO Keli,Table Tennis,TTE,Men's Singles - Class 7,Bronze Medal
+Poland,POL,CHUDZICKI Maksym,Table Tennis,TTE,Men's Singles - Class 7,Bronze Medal
+People's Republic of China,CHN,PENG Weinan,Table Tennis,TTE,Men's Singles - Class 8,Bronze Medal
+Ukraine,UKR,NIKOLENKO Maksym,Table Tennis,TTE,Men's Singles - Class 8,Bronze Medal
+RPC,RPC,NOZDRUNOV Iurii,Table Tennis,TTE,Men's Singles - Class 9,Bronze Medal
+Ukraine,UKR,MAI Ivan,Table Tennis,TTE,Men's Singles - Class 9,Bronze Medal
+Indonesia,INA,JACOBS David,Table Tennis,TTE,Men's Singles - Class 10,Bronze Medal
+Montenegro,MNE,RADOVIC Filip,Table Tennis,TTE,Men's Singles - Class 10,Bronze Medal
+Belgium,BEL,van ACKER Florian,Table Tennis,TTE,Men's Singles - Class 11,Bronze Medal
+France,FRA,CREANGE Lucas,Table Tennis,TTE,Men's Singles - Class 11,Bronze Medal
+Poland,POL,CZUPER Rafal,Table Tennis,TTE,Men's Team - Classes 1-2,Bronze Medal
+Poland,POL,JAKIMCZUK Tomasz,Table Tennis,TTE,Men's Team - Classes 1-2,Bronze Medal
+Slovakia,SVK,LUDROVSKY Martin,Table Tennis,TTE,Men's Team - Classes 1-2,Bronze Medal
+Slovakia,SVK,RIAPOS Jan,Table Tennis,TTE,Men's Team - Classes 1-2,Bronze Medal
+Czech Republic,CZE,SUCHANEK Jiri,Table Tennis,TTE,Men's Team - Class 3,Bronze Medal
+Czech Republic,CZE,SVATOS Petr,Table Tennis,TTE,Men's Team - Class 3,Bronze Medal
+Thailand,THA,CHUEAWONG Thirayu,Table Tennis,TTE,Men's Team - Class 3,Bronze Medal
+Thailand,THA,GLINBANCHEUN Yuttajak,Table Tennis,TTE,Men's Team - Class 3,Bronze Medal
+Thailand,THA,LAOWONG Anurak,Table Tennis,TTE,Men's Team - Class 3,Bronze Medal
+France,FRA,MERRIEN Florian,Table Tennis,TTE,Men's Team - Class 4-5,Bronze Medal
+France,FRA,SAVANT AIRA Nicolas,Table Tennis,TTE,Men's Team - Class 4-5,Bronze Medal
+France,FRA,THOMAS Maxime,Table Tennis,TTE,Men's Team - Class 4-5,Bronze Medal
+Slovakia,SVK,MIHALIK Peter,Table Tennis,TTE,Men's Team - Class 4-5,Bronze Medal
+Slovakia,SVK,TRAVNICEK Boris,Table Tennis,TTE,Men's Team - Class 4-5,Bronze Medal
+Germany,GER,RAU Thomas,Table Tennis,TTE,Men's Team - Classes 6-7,Bronze Medal
+Germany,GER,SCHNAKE Bjoern,Table Tennis,TTE,Men's Team - Classes 6-7,Bronze Medal
+Spain,ESP,MORALES Jordi,Table Tennis,TTE,Men's Team - Classes 6-7,Bronze Medal
+Spain,ESP,VALERA Alvaro,Table Tennis,TTE,Men's Team - Classes 6-7,Bronze Medal
+France,FRA,BERTHIER Clement,Table Tennis,TTE,Men's Team - Class 8,Bronze Medal
+France,FRA,BOUVAIS Thomas,Table Tennis,TTE,Men's Team - Class 8,Bronze Medal
+Great Britain,GBR,McKIBBIN Aaron,Table Tennis,TTE,Men's Team - Class 8,Bronze Medal
+Great Britain,GBR,SHILTON Billy,Table Tennis,TTE,Men's Team - Class 8,Bronze Medal
+Great Britain,GBR,WILSON Ross,Table Tennis,TTE,Men's Team - Class 8,Bronze Medal
+Nigeria,NGR,AGUNBIADE Tajudeen,Table Tennis,TTE,Men's Team - Class 9-10,Bronze Medal
+Nigeria,NGR,FARINLOYE Victor,Table Tennis,TTE,Men's Team - Class 9-10,Bronze Medal
+Nigeria,NGR,OLUFEMI Alabi,Table Tennis,TTE,Men's Team - Class 9-10,Bronze Medal
+Ukraine,UKR,KATS Lev,Table Tennis,TTE,Men's Team - Class 9-10,Bronze Medal
+Ukraine,UKR,MAI Ivan,Table Tennis,TTE,Men's Team - Class 9-10,Bronze Medal
+Brazil,BRA,da SILVA OLIVEIRA Catia Cristina,Table Tennis,TTE,Women's Singles - Classes 1-2,Bronze Medal
+RPC,RPC,PUSHPASHEVA Nadezhda,Table Tennis,TTE,Women's Singles - Classes 1-2,Bronze Medal
+Republic of Korea,KOR,LEE Mi Gyu,Table Tennis,TTE,Women's Singles - Class 3,Bronze Medal
+Republic of Korea,KOR,YOON Jiyu,Table Tennis,TTE,Women's Singles - Class 3,Bronze Medal
+People's Republic of China,CHN,GU Xiaodan,Table Tennis,TTE,Women's Singles - Class 4,Bronze Medal
+People's Republic of China,CHN,ZHANG Miao,Table Tennis,TTE,Women's Singles - Class 4,Bronze Medal
+Jordan,JOR,ABU AWAD Khetam,Table Tennis,TTE,Women's Singles - Class 5,Bronze Medal
+Republic of Korea,KOR,JUNG Young A,Table Tennis,TTE,Women's Singles - Class 5,Bronze Medal
+Germany,GER,GREBE Stephanie,Table Tennis,TTE,Women's Singles - Class 6,Bronze Medal
+RPC,RPC,CHEBANIKA Raisa,Table Tennis,TTE,Women's Singles - Class 6,Bronze Medal
+France,FRA,BARNEOUD Anne,Table Tennis,TTE,Women's Singles - Class 7,Bronze Medal
+Turkey,TUR,KORKUT Kubra,Table Tennis,TTE,Women's Singles - Class 7,Bronze Medal
+France,FRA,KAMKASOMPHOU Thu,Table Tennis,TTE,Women's Singles - Class 8,Bronze Medal
+Norway,NOR,DAHLEN Aida,Table Tennis,TTE,Women's Singles - Class 8,Bronze Medal
+Hungary,HUN,SZVITACS Alexa,Table Tennis,TTE,Women's Singles - Class 9,Bronze Medal
+Poland,POL,PEK Karolina,Table Tennis,TTE,Women's Singles - Class 9,Bronze Medal
+Chinese Taipei,TPE,TIAN Shiau Wen,Table Tennis,TTE,Women's Singles - Class 10,Bronze Medal
+Poland,POL,PARTYKA Natalia,Table Tennis,TTE,Women's Singles - Class 10,Bronze Medal
+"Hong Kong, China",HKG,WONG Ting Ting,Table Tennis,TTE,Women's Singles - Class 11,Bronze Medal
+Japan,JPN,ITO Maki,Table Tennis,TTE,Women's Singles - Class 11,Bronze Medal
+Croatia,CRO,DRETAR KARIC Helena,Table Tennis,TTE,Women's Team - Classes 1-3,Bronze Medal
+Croatia,CRO,MUZINIC Andela,Table Tennis,TTE,Women's Team - Classes 1-3,Bronze Medal
+Italy,ITA,BRUNELLI Michela,Table Tennis,TTE,Women's Team - Classes 1-3,Bronze Medal
+Italy,ITA,ROSSI Giada,Table Tennis,TTE,Women's Team - Classes 1-3,Bronze Medal
+Great Britain,GBR,BAILEY Susan,Table Tennis,TTE,Women's Team - Classes 4-5,Bronze Medal
+Great Britain,GBR,SHACKLETON Megan,Table Tennis,TTE,Women's Team - Classes 4-5,Bronze Medal
+Serbia,SRB,MATIC Nada,Table Tennis,TTE,Women's Team - Classes 4-5,Bronze Medal
+Serbia,SRB,PERIC RANKOVIC Borislava,Table Tennis,TTE,Women's Team - Classes 4-5,Bronze Medal
+France,FRA,BARNEOUD Anne,Table Tennis,TTE,Women's Team - Classes 6-8,Bronze Medal
+France,FRA,KAMKASOMPHOU Thu,Table Tennis,TTE,Women's Team - Classes 6-8,Bronze Medal
+RPC,RPC,ALIEVA Maliak,Table Tennis,TTE,Women's Team - Classes 6-8,Bronze Medal
+RPC,RPC,CHEBANIKA Raisa,Table Tennis,TTE,Women's Team - Classes 6-8,Bronze Medal
+RPC,RPC,SAFONOVA Viktoriia,Table Tennis,TTE,Women's Team - Classes 6-8,Bronze Medal
+Brazil,BRA,COSTA ALEXANDRE Bruna,Table Tennis,TTE,Women's Team - Classes 9-10,Bronze Medal
+Brazil,BRA,MARQUES PARINOS Jennyfer,Table Tennis,TTE,Women's Team - Classes 9-10,Bronze Medal
+Brazil,BRA,RAUEN Danielle,Table Tennis,TTE,Women's Team - Classes 9-10,Bronze Medal
+People's Republic of China,CHN,XIONG Guiyan,Table Tennis,TTE,Women's Team - Classes 9-10,Bronze Medal
+People's Republic of China,CHN,ZHAO Xiaojing,Table Tennis,TTE,Women's Team - Classes 9-10,Bronze Medal
+RPC,RPC,SIDOROV Daniil,Taekwondo,TKW,Men K44 -61kg,Bronze Medal
+Turkey,TUR,BOZTEKE Mahmut,Taekwondo,TKW,Men K44 -61kg,Bronze Medal
+Argentina,ARG,SAMORANO Juan,Taekwondo,TKW,Men K44 -75kg,Bronze Medal
+Republic of Korea,KOR,JOO Jeong Hun,Taekwondo,TKW,Men K44 -75kg,Bronze Medal
+RPC,RPC,ATAEV Zainutdin,Taekwondo,TKW,Men K44 +75kg,Bronze Medal
+United States of America,USA,MEDELL Evan,Taekwondo,TKW,Men K44 +75kg,Bronze Medal
+RPC,RPC,PODDUBSKAIA Anna,Taekwondo,TKW,Women K44 -49kg,Bronze Medal
+Thailand,THA,PHUANGKITCHA Khwansuda,Taekwondo,TKW,Women K44 -49kg,Bronze Medal
+Brazil,BRA,CARDOSO FERNANDES Silvana Mayara,Taekwondo,TKW,Women K44 -58kg,Bronze Medal
+People's Republic of China,CHN,LI Yujie,Taekwondo,TKW,Women K44 -58kg,Bronze Medal
+Australia,AUS,WATSON Janine,Taekwondo,TKW,Women K44 +58kg,Bronze Medal
+Great Britain,GBR,TRUESDALE Amy,Taekwondo,TKW,Women K44 +58kg,Bronze Medal
+Italy,ITA,ACHENZA Giovanni,Triathlon,TRI,Men's PTWC,Bronze Medal
+Japan,JPN,YONEOKA Satoru,Triathlon,TRI,Men's PTVI,Bronze Medal
+Spain,ESP,SANCHEZ PALOMERO Alejandro,Triathlon,TRI,Men's PTS4,Bronze Medal
+Canada,CAN,DANIEL Stefan,Triathlon,TRI,Men's PTS5,Bronze Medal
+Italy,ITA,PLEBANI Veronica Yoko,Triathlon,TRI,Women's PTS2,Bronze Medal
+Spain,ESP,MORAL PEDRERO Eva Maria,Triathlon,TRI,Women's PTWC,Bronze Medal
+France,FRA,CURZILLAT Annouck,Triathlon,TRI,Women's PTVI,Bronze Medal
+Great Britain,GBR,CASHMORE Claire,Triathlon,TRI,Women's PTS5,Bronze Medal
+Great Britain,GBR,BRIDGE Billy,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,BROWN Harrison,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,BYWATER Terry,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,CHOUDHRY Gaz,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,EDWARDS Lewis,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,FOX Ben,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,JAMA Abdi,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,MACSORLEY James,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,MANNING Lee,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,PALMER James,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,SAGAR Ian,Wheelchair Basketball,WBK,Men,Bronze Medal
+Great Britain,GBR,WARBURTON Gregg,Wheelchair Basketball,WBK,Men,Bronze Medal
+United States of America,USA,ASLAKSON Josie,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,BAULEKE Abigail,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,EATON Kaitlyn,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,GONZALEZ Ixhelt,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,HOLLERMANN Rose,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,HUNTER Darlene,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,IBANEZ Alejandra,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,MOODY Bailey,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,RYAN Courtney,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,SCHNEIDER Natalie,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,VORIS Zoe,Wheelchair Basketball,WBK,Women,Bronze Medal
+United States of America,USA,ZURBRUGG Lindsey,Wheelchair Basketball,WBK,Women,Bronze Medal
+People's Republic of China,CHN,TIAN Jianquan,Wheelchair Fencing,WFE,Men's Épée Individual - Category A,Bronze Medal
+Great Britain,GBR,COUTYA Dimitri,Wheelchair Fencing,WFE,Men's Épée Individual - Category B,Bronze Medal
+RPC,RPC,NAGAEV Nikita,Wheelchair Fencing,WFE,Men's Foil Individual - Category A,Bronze Medal
+Great Britain,GBR,COUTYA Dimitri,Wheelchair Fencing,WFE,Men's Foil Individual - Category B,Bronze Medal
+People's Republic of China,CHN,TIAN Jianquan,Wheelchair Fencing,WFE,Men's Sabre Individual - Category A,Bronze Medal
+Greece,GRE,TRIANTAFYLLOU Panagiotis,Wheelchair Fencing,WFE,Men's Sabre Individual - Category B,Bronze Medal
+Great Britain,GBR,COUTYA Dimitri,Wheelchair Fencing,WFE,Men's Épée Team,Bronze Medal
+Great Britain,GBR,GILLIVER Piers,Wheelchair Fencing,WFE,Men's Épée Team,Bronze Medal
+Great Britain,GBR,LAM-WATSON Oliver,Wheelchair Fencing,WFE,Men's Épée Team,Bronze Medal
+France,FRA,NOBLE Romain,Wheelchair Fencing,WFE,Men's Foil Team,Bronze Medal
+France,FRA,TOKATLIAN Damien,Wheelchair Fencing,WFE,Men's Foil Team,Bronze Medal
+France,FRA,VALET Maxime,Wheelchair Fencing,WFE,Men's Foil Team,Bronze Medal
+People's Republic of China,CHN,BIAN Jing,Wheelchair Fencing,WFE,Women's Épée Individual - Category A,Bronze Medal
+Thailand,THA,JANA Saysunee,Wheelchair Fencing,WFE,Women's Épée Individual - Category B,Bronze Medal
+People's Republic of China,CHN,RONG Jing,Wheelchair Fencing,WFE,Women's Foil Individual - Category A,Bronze Medal
+RPC,RPC,VASILEVA Ludmila,Wheelchair Fencing,WFE,Women's Foil Individual - Category B,Bronze Medal
+Ukraine,UKR,BREUS Yevheniia,Wheelchair Fencing,WFE,Women's Sabre Individual - Category A,Bronze Medal
+People's Republic of China,CHN,XIAO Rong,Wheelchair Fencing,WFE,Women's Sabre Individual - Category B,Bronze Medal
+RPC,RPC,BOYKOVA Viktoria,Wheelchair Fencing,WFE,Women's Épée Team,Bronze Medal
+RPC,RPC,EVDOKIMOVA Alena,Wheelchair Fencing,WFE,Women's Épée Team,Bronze Medal
+RPC,RPC,MAYA Iuliia,Wheelchair Fencing,WFE,Women's Épée Team,Bronze Medal
+Hungary,HUN,DANI Gyongyi,Wheelchair Fencing,WFE,Women's Foil Team,Bronze Medal
+Hungary,HUN,HAJMASI Eva Andrea,Wheelchair Fencing,WFE,Women's Foil Team,Bronze Medal
+Hungary,HUN,KRAJNYAK Zsuzsanna,Wheelchair Fencing,WFE,Women's Foil Team,Bronze Medal
+Japan,JPN,HAGA Masayuki,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,HASEGAWA Yuki,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,HASHIMOTO Katsuya,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,IKE Yukinobu,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,IKEZAKI Daisuke,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,IMAI Tomoaki,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,KURAHASHI Kae,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,NAKAMACHI Shunya,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,NORIMATSU Seiya,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,OGAWA Hitoshi,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,SHIMAKAWA Shinichi,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Japan,JPN,WAKAYAMA Hidefumi,Wheelchair Rugby,WRU,Mixed,Bronze Medal
+Netherlands,NED,EGBERINK Tom,Wheelchair Tennis,WTE,Men's Doubles,Bronze Medal
+Netherlands,NED,SCHEFFERS Maikel,Wheelchair Tennis,WTE,Men's Doubles,Bronze Medal
+Great Britain,GBR,REID Gordon,Wheelchair Tennis,WTE,Men's Singles,Bronze Medal
+Japan,JPN,MOROISHI Mitsuteru,Wheelchair Tennis,WTE,Quad Doubles,Bronze Medal
+Japan,JPN,SUGENO Koji,Wheelchair Tennis,WTE,Quad Doubles,Bronze Medal
+Netherlands,NED,VINK Niels,Wheelchair Tennis,WTE,Quad Singles,Bronze Medal
+Japan,JPN,KAMIJI Yui,Wheelchair Tennis,WTE,Women's Doubles,Bronze Medal
+Japan,JPN,OHTANI Momoko,Wheelchair Tennis,WTE,Women's Doubles,Bronze Medal
+Great Britain,GBR,WHILEY Jordanne,Wheelchair Tennis,WTE,Women's Singles,Bronze Medal
