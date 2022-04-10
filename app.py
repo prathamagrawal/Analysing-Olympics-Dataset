@@ -48,9 +48,7 @@ app.layout = html.Div(children=[
     html.Div([
         html.H1(children='Graph 02'),
 
-        html.Div(children='''
-            Dash: A web application framework for Python.
-        '''),
+        html.Div(children='''Dash: A web application framework for Python.'''),
         geo_dropdown,
         dcc.Graph(
             id='graph-02',
