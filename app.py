@@ -2,6 +2,7 @@ from dash import Dash, html, dcc, Input, Output
 import pandas as pd
 import plotly.express as px
 import json
+import plotly.graph_objects as go
 
 
 data = pd.read_csv('data.csv')
@@ -24,8 +25,20 @@ def update_graph(selected_geography):
     return line_fig
 
 
+fig = go.Figure(data=go.Choropleth(
+    locations=data['Team'], # Spatial coordinates
+    z = data['Medal'].astype(float), # Data to be color-coded
+    locationmode = 'ISO-3', # set of locations match entries in `locations`
+    colorscale = 'Reds',
+    colorbar_title = "Medals Won",
+))
 
-fig = px.choropleth(locationmode="USA-states", color=[1], scope="usa")
+fig.update_layout(
+    title_text = 'Number of Medals',
+    geo_scope='world', # limite map scope to USA
+)
+
+fig.show()
  
 
 #app.layout = html.Div(childern=[dcc.Graph(id="life-exp-vs-gdp", figure=fig),[html.H1(children='Dashboard'), geo_dropdown, dcc.Graph(id='price-graph')])])
