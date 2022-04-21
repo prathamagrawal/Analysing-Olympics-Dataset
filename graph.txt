@@ -1,4 +1,5 @@
 1. Graph based on countries and their medal distrubution values
 2. Graph based on Gender and their total medals 
 3. Graph based on Year distrubution annd the number of woman and man participated in.
-4. Make clusters based on countries and make a world map
+4. Make heatmap based on countries and make a world map and make year wise basis
+5. 
