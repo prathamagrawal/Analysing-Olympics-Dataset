@@ -1,0 +1,46 @@
+---
+title: "Analysis of Tokyo Olympics"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+data=read.csv("data.csv")
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart 1
+
+```{r}
+
+```
+
+### Chart 2
+
+```{r}
+
+```
+
+
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
