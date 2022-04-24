@@ -1,74 +1,85 @@
+from io import BytesIO
+from operator import ge
 from dash import Dash, html, dcc, Input, Output
 import pandas as pd
 import plotly.express as px
 import json
+import dash.dependencies as dd
 import plotly.graph_objects as go
+from dash.dependencies import Input, Output
+import squarify
+import base64
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import matplotlib
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 
 data = pd.read_csv('data.csv')
+colorscales = px.colors.named_colorscales()
 
 app = Dash()
-geo_dropdown = dcc.Dropdown(options=data['Year'].unique(),
-                            value='New York')
+values_year = data['Year'].unique()
+values_year.sort()
+values_year = list(values_year)
+count_discipline = data.Sport.value_counts()
+count_discipline
+sns.set_style("ticks")
+wordcloud = WordCloud(
+                    width=2000,
+                    height=1000, 
+                    scale=1,
+                    normalize_plurals=False,
+                    repeat=False,
+                    random_state=42,
+                    background_color='white')
+wordcloud.generate_from_frequencies(frequencies = count_discipline)
+plt.figure(figsize=(17,10))
+plt.imshow(wordcloud, interpolation="bilinear")
+plt.axis("off")
+plt.title('Number of athletes by sport', fontsize = 30)
+plt.savefig("wordcloud.png")
 
-
-@app.callback(
-    Output(component_id='graph-02', component_property='figure'),
-    Input(component_id=geo_dropdown, component_property='value')
-)
-def update_graph(selected_geography):
-    filtered_data = data[data['Year'] == selected_geography]
-    line_fig = px.bar(filtered_data,
-                       x='Age', y='Medal',
-                       color='Team',
-                       title=f'No. of Medals won by a Country in {selected_geography}')
-    return line_fig
-
-
-fig = go.Figure(data=go.Choropleth(
-    locations=data['Team'], # Spatial coordinates
-    z = data['Medal'].astype(float), # Data to be color-coded
-    locationmode = 'ISO-3', # set of locations match entries in `locations`
-    colorscale = 'Reds',
-    colorbar_title = "Medals Won",
-))
-
-fig.update_layout(
-    title_text = 'Number of Medals',
-    geo_scope='world', # limite map scope to USA
-)
-
-fig.show()
- 
-
-#app.layout = html.Div(childern=[dcc.Graph(id="life-exp-vs-gdp", figure=fig),[html.H1(children='Dashboard'), geo_dropdown, dcc.Graph(id='price-graph')])])
+test_png = 'wordcloud.png'
+test_base64 = base64.b64encode(open(test_png, 'rb').read()).decode('ascii')
 
 app.layout = html.Div(children=[
-    # All elements from the top of the page
     html.Div([
-        html.H1(children='Dashboard- Graph 01'),
-
-        html.Div(children='''
-            Dash: A web application framework for Python.
-        '''),
-
-        dcc.Graph(
-            id='graph1',
-            figure=fig
-        ),  
+        html.H1("Welcome to Analysis of Olympics Dataset")
     ]),
-    # New Div for all elements in the new 'row' of the page
     html.Div([
-        html.H1(children='Graph 02'),
-
-        html.Div(children='''Dash: A web application framework for Python.'''),
-        geo_dropdown,
-        dcc.Graph(
-            id='graph-02',
-            figure=fig
-        ),  
+        html.H4('Enter a year you want to see the Number of Participation:'),
+        dcc.Dropdown(
+            id="dropdown",
+            options=values_year,
+            value="2020",
+            clearable=False,
+        ),
+        dcc.Graph(id="graph1"),
     ]),
+    html.Div([
+        html.H1("WordCloud representing the Sports"),
+        html.Img(src='data:image/png;base64,{}'.format(test_base64),style={'height':'80%', 'width':'80%',"float":"center"}),
+    ])
 ])
+
+#Graph 1
+@app.callback(
+    Output("graph1", "figure"),
+    Input("dropdown", "value"))
+def update_bar_chart(year):
+    data_year = data.loc[data['Year'] == year]
+    top_countries = data_year.Team.value_counts().sort_values(ascending=False).head(15)
+    indexes = list(top_countries.keys())
+    values = top_countries.values
+    graph1data = pd.DataFrame({"Teams": indexes, "Participation": values})
+    fig = px.bar(graph1data, x="Teams", y="Participation",
+                 title='Participation', template='plotly_dark', color="Teams")
+    return fig
+
 
 
 if __name__ == '__main__':
