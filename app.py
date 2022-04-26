@@ -73,7 +73,7 @@ fig_age_medal.update_traces(textposition='inside', textinfo='percent+label')
 fig_age_medal.update_layout(margin=dict(t=30, b=30, l=30, r=30))
 
 
-app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
+app.layout = html.Div(style={'backgroundColor': colors['background'],'margin-left':"0px"},children=[
     html.Div([
         html.H1("Welcome to Analysis of Olympics Dataset",style={"font-family":"montserrat","color":"white"})
     ]),
@@ -108,7 +108,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
     html.Div([
         html.H1("WordCloud representing the Sports",style={"font-family":"montserrat","color":"white"}),
         html.Img(src='data:image/png;base64,{}'.format(test_base64),
-                 style={'height': '80%', 'width': '80%', "float": "center"}),
+                 style={'height': '100%', 'width': '100%', "float": "center"}),
     ])
 ])
 
@@ -126,6 +126,9 @@ def update_bar_chart(year):
                  title='Participation', template='plotly_dark', color="Teams",color_discrete_sequence=px.colors.sequential.RdBu)
     return fig
 
+
+
+# Graph Male - Female Medal Distribution 
 
 
 
