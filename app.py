@@ -73,7 +73,10 @@ fig_age_medal.update_traces(textposition='inside', textinfo='percent+label')
 fig_age_medal.update_layout(margin=dict(t=30, b=30, l=30, r=30))
 
 
-app.layout = html.Div(style={'backgroundColor': colors['background'],'margin-left':"0px"},children=[
+#Graph Gender Wise and Medal Distribution
+values_gender=["Male","Female"]
+
+app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
     html.Div([
         html.H1("Welcome to Analysis of Olympics Dataset",style={"font-family":"montserrat","color":"white"})
     ]),
@@ -108,7 +111,27 @@ app.layout = html.Div(style={'backgroundColor': colors['background'],'margin-lef
     html.Div([
         html.H1("WordCloud representing the Sports",style={"font-family":"montserrat","color":"white"}),
         html.Img(src='data:image/png;base64,{}'.format(test_base64),
-                 style={'height': '100%', 'width': '100%', "float": "center"}),
+                 style={'height': '80%', 'width': '80%', "float": "center","margin":'0'}),
+    ]),
+    html.Div([
+        html.H1('Gender Wise Distribution of Medal',style={"font-family":"montserrat","color":"white"}),
+        dcc.Dropdown(
+            id="gender_dropdown",
+            options=values_gender,
+            clearable=False,
+            style={"background-color":"black","text":"white"}
+        ),
+        dcc.Graph(id="graph_gender",
+            figure={
+                'layout':{
+                    'plot_bgcolor': colors['background'],
+                    'paper_bgcolor': colors['background'],
+                    'font': {
+                        'color': colors['text']
+                    }
+                }
+            }
+        )
     ])
 ])
 
@@ -129,7 +152,25 @@ def update_bar_chart(year):
 
 
 # Graph Male - Female Medal Distribution 
+@app.callback(
+    Output("graph_gender", "figure"),
+    Input("gender_dropdown", "value"))
+def update_gender(gender):
+    data['Sex']=data['Sex'].replace("M","Male")
+    data['Sex']=data['Sex'].replace("F","Female")
+    data_male = data.loc[data['Sex'] == gender]
 
+    medal_male = list(data_male['Medal'])
+    for i in range(len(medal_male)):
+        medal_male[i] = int(medal_male[i])
+
+    medal_male_no = medal_male.count(0)
+    medal_male_bronze = medal_male.count(1)
+    medal_male_silver = medal_male.count(2)
+    medal_male_gold = medal_male.count(3)
+    medal_count=[medal_male_no, medal_male_bronze, medal_male_silver,medal_male_gold]
+    fig=px.pie(values=medal_count,names=["No Medal","Bronze","Silver","Gold"],color_discrete_sequence=px.colors.sequential.RdBu,template="plotly_dark")
+    return fig
 
 
 if __name__ == '__main__':
