@@ -46,9 +46,8 @@ wordcloud.generate_from_frequencies(frequencies=count_discipline)
 plt.figure(figsize=(17, 10))
 plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis("off")
-plt.savefig("wordcloud.png")
 
-test_png = 'wordcloud.png'
+test_png = 'yy.png'
 test_base64 = base64.b64encode(open(test_png, 'rb').read()).decode('ascii')
 
 # Graph 2020
@@ -77,19 +76,19 @@ fig_age_medal.update_layout(margin=dict(t=30, b=30, l=30, r=30))
 # Graph Gender Wise and Medal Distribution
 values_gender = ["Male", "Female"]
 
-app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
+app.layout = html.Div(style={'backgroundColor': 'black'}, children=[
     html.Div([
         html.H1("Welcome to Analysis of Olympics Dataset", style={
-                "font-family": "montserrat", "color": "white"})
+                "font-family": "montserrat", "color": "white","text-align": "center"})
     ]),
     html.Div([
         html.H4('Enter a year you want to see the Number of Participation:', style={
-                "font-family": "montserrat", "color": "white"}),
+                "font-family": "montserrat", "color": "white","text-align": "center"}),
         dcc.Dropdown(
             id="dropdown",
             options=values_year,
             clearable=False,
-            style={"background-color": "black", "text": "white"}
+            style={"background-color": "black", "text": "white","text-align": "center"}
         ),
         dcc.Graph(id="graph1",
                   figure={
@@ -105,28 +104,23 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
     ]),
     html.Div([
         html.H4('The Age - Medal Distribution',
-                style={"font-family": "montserrat", "color": "white"}),
+                style={"font-family": "montserrat", "color": "white","text-align": "center"}),
         dcc.Graph(figure=fig_age_medal),
     ]),
     html.Div([
         html.H4('The Number of the participation Country wise over the years: ->',
-                style={"font-family": "montserrat", "color": "white"}),
+                style={"font-family": "montserrat", "color": "white","text-align": "center"}),
         dcc.Graph(figure=fig_graph_2),
     ]),
-    html.Div([
-        html.H1("WordCloud representing the Sports", style={
-                "font-family": "montserrat", "color": "white"}),
-        html.Img(src='data:image/png;base64,{}'.format(test_base64),
-                 style={'height': '80%', 'width': '80%', "float": "center", "margin": '0'}),
-    ]),
+    
     html.Div([
         html.H1('Gender Wise Distribution of Medal', style={
-                "font-family": "montserrat", "color": "white"}),
+                "font-family": "montserrat", "color": "white","text-align": "center"}),
         dcc.Dropdown(
             id="gender_dropdown",
             options=values_gender,
             clearable=False,
-            style={"background-color": "black", "text": "white"}
+            style={"background-color": "black", "text": "white","text-align": "center"}
         ),
         dcc.Graph(id="graph_gender",
                   figure={
@@ -150,6 +144,17 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
                       }
                   }
                   )
+    ]),html.Div([
+        html.H1("WordCloud representing the Sports", style={
+                "font-family": "montserrat", "color": "white","text-align": "center"}),
+        html.Img(src='data:image/png;base64,{}'.format(test_base64),
+                 style={'height': '50%', 'width': '50%', "display": "block", "margin-left": "auto","margin-right": "auto",
+                 "width": "50%"}),
+    ]),
+    html.Div([
+        html.H4("Created by Pratham Agrawal", style={
+            "font-family": "montserrat", "color": "white","text-align": "center"
+        })
     ])
 ])
 
@@ -206,7 +211,7 @@ def update_box(gender):
     fig = px.box(MenOverTime, x='Year', y='Age', hover_name='Year',
                  color_discrete_sequence=px.colors.sequential.RdBu, template="plotly_dark",
                  title="Variation of Age for "+str(gender)+" Athletes over time")
-    fig.update_traces(quartilemethod="inclusive",yaxis_range=[0,100],xaxis_range=[1896,2020])
+    fig.update_traces(quartilemethod="inclusive")
     return fig
 
 
