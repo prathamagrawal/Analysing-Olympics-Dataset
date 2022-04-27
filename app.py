@@ -54,88 +54,108 @@ test_base64 = base64.b64encode(open(test_png, 'rb').read()).decode('ascii')
 # Graph 2020
 top_countries = data.Team.value_counts().sort_values(ascending=False).head(1203)
 u_team = data.Team.unique()
-fig_graph_2 = px.treemap(path=[u_team], values=top_countries,color_discrete_sequence=px.colors.sequential.RdBu,template="plotly_dark")
+fig_graph_2 = px.treemap(path=[u_team], values=top_countries,
+                         color_discrete_sequence=px.colors.sequential.RdBu, template="plotly_dark")
 
-#Graph Age_Medal
-data_age=list(data.Age)
-data_medal=list(data.Medal)
+# Graph Age_Medal
+data_age = list(data.Age)
+data_medal = list(data.Medal)
 for i in range(len(data_medal)):
-    if(data_medal[i]>0):
-        data_medal[i]=1
+    if(data_medal[i] > 0):
+        data_medal[i] = 1
 
-data_pie=pd.DataFrame({"Age":data_age, "Medal":data_medal})
-result=data_pie.sort_values('Age')
-result.drop(result[result['Age'] > 70].index, inplace = True)
+data_pie = pd.DataFrame({"Age": data_age, "Medal": data_medal})
+result = data_pie.sort_values('Age')
+result.drop(result[result['Age'] > 70].index, inplace=True)
 fig_age_medal = px.pie(result, values='Medal', names='Age',
-    title="Age-Medal Distribution",color_discrete_sequence=px.colors.sequential.RdBu,
-    hover_data=['Age'],template = "plotly_dark",)
+                       title="Age-Medal Distribution", color_discrete_sequence=px.colors.sequential.RdBu,
+                       hover_data=['Age'], template="plotly_dark",)
 fig_age_medal.update_traces(textposition='inside', textinfo='percent+label')
 fig_age_medal.update_layout(margin=dict(t=30, b=30, l=30, r=30))
 
 
-#Graph Gender Wise and Medal Distribution
-values_gender=["Male","Female"]
+# Graph Gender Wise and Medal Distribution
+values_gender = ["Male", "Female"]
 
-app.layout = html.Div(style={'backgroundColor': colors['background']},children=[
+app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.Div([
-        html.H1("Welcome to Analysis of Olympics Dataset",style={"font-family":"montserrat","color":"white"})
+        html.H1("Welcome to Analysis of Olympics Dataset", style={
+                "font-family": "montserrat", "color": "white"})
     ]),
     html.Div([
-        html.H4('Enter a year you want to see the Number of Participation:',style={"font-family":"montserrat","color":"white"}),
+        html.H4('Enter a year you want to see the Number of Participation:', style={
+                "font-family": "montserrat", "color": "white"}),
         dcc.Dropdown(
             id="dropdown",
             options=values_year,
             clearable=False,
-            style = {"background-color":"black","text":"white"}
+            style={"background-color": "black", "text": "white"}
         ),
         dcc.Graph(id="graph1",
-            figure={
-                'layout':{
-                    'plot_bgcolor': colors['background'],
-                    'paper_bgcolor': colors['background'],
-                    'font': {
-                        'color': colors['text']
-                    }
-                }
-            }
-        )
+                  figure={
+                      'layout': {
+                          'plot_bgcolor': colors['background'],
+                          'paper_bgcolor': colors['background'],
+                          'font': {
+                              'color': colors['text']
+                          }
+                      }
+                  }
+                  )
     ]),
     html.Div([
-        html.H4('The Age - Medal Distribution',style={"font-family":"montserrat","color":"white"}),
+        html.H4('The Age - Medal Distribution',
+                style={"font-family": "montserrat", "color": "white"}),
         dcc.Graph(figure=fig_age_medal),
     ]),
     html.Div([
-        html.H4('The Number of the participation Country wise over the years: ->',style={"font-family":"montserrat","color":"white"}),
+        html.H4('The Number of the participation Country wise over the years: ->',
+                style={"font-family": "montserrat", "color": "white"}),
         dcc.Graph(figure=fig_graph_2),
     ]),
     html.Div([
-        html.H1("WordCloud representing the Sports",style={"font-family":"montserrat","color":"white"}),
+        html.H1("WordCloud representing the Sports", style={
+                "font-family": "montserrat", "color": "white"}),
         html.Img(src='data:image/png;base64,{}'.format(test_base64),
-                 style={'height': '80%', 'width': '80%', "float": "center","margin":'0'}),
+                 style={'height': '80%', 'width': '80%', "float": "center", "margin": '0'}),
     ]),
     html.Div([
-        html.H1('Gender Wise Distribution of Medal',style={"font-family":"montserrat","color":"white"}),
+        html.H1('Gender Wise Distribution of Medal', style={
+                "font-family": "montserrat", "color": "white"}),
         dcc.Dropdown(
             id="gender_dropdown",
             options=values_gender,
             clearable=False,
-            style={"background-color":"black","text":"white"}
+            style={"background-color": "black", "text": "white"}
         ),
         dcc.Graph(id="graph_gender",
-            figure={
-                'layout':{
-                    'plot_bgcolor': colors['background'],
-                    'paper_bgcolor': colors['background'],
-                    'font': {
-                        'color': colors['text']
-                    }
-                }
-            }
-        )
+                  figure={
+                      'layout': {
+                          'plot_bgcolor': colors['background'],
+                          'paper_bgcolor': colors['background'],
+                          'font': {
+                              'color': colors['text']
+                          }
+                      }
+                  }
+                  ),
+        dcc.Graph(id="graph_participation",
+                  figure={
+                      'layout': {
+                          'plot_bgcolor': colors['background'],
+                          'paper_bgcolor': colors['background'],
+                          'font': {
+                              'color': colors['text']
+                          }
+                      }
+                  }
+                  )
     ])
 ])
 
 # Graph 1
+
+
 @app.callback(
     Output("graph1", "figure"),
     Input("dropdown", "value"))
@@ -146,18 +166,17 @@ def update_bar_chart(year):
     values = top_countries.values
     graph1data = pd.DataFrame({"Teams": indexes, "Participation": values})
     fig = px.bar(graph1data, x="Teams", y="Participation",
-                 title='Participation', template='plotly_dark', color="Teams",color_discrete_sequence=px.colors.sequential.RdBu)
+                 title='Participation', template='plotly_dark', color="Teams", color_discrete_sequence=px.colors.sequential.RdBu)
     return fig
 
 
-
-# Graph Male - Female Medal Distribution 
+# Graph Male - Female Medal Distribution
 @app.callback(
     Output("graph_gender", "figure"),
     Input("gender_dropdown", "value"))
 def update_gender(gender):
-    data['Sex']=data['Sex'].replace("M","Male")
-    data['Sex']=data['Sex'].replace("F","Female")
+    data['Sex'] = data['Sex'].replace("M", "Male")
+    data['Sex'] = data['Sex'].replace("F", "Female")
     data_male = data.loc[data['Sex'] == gender]
 
     medal_male = list(data_male['Medal'])
@@ -168,8 +187,26 @@ def update_gender(gender):
     medal_male_bronze = medal_male.count(1)
     medal_male_silver = medal_male.count(2)
     medal_male_gold = medal_male.count(3)
-    medal_count=[medal_male_no, medal_male_bronze, medal_male_silver,medal_male_gold]
-    fig=px.pie(values=medal_count,names=["No Medal","Bronze","Silver","Gold"],color_discrete_sequence=px.colors.sequential.RdBu,template="plotly_dark")
+    medal_count = [medal_male_no, medal_male_bronze,
+                   medal_male_silver, medal_male_gold]
+    fig = px.pie(values=medal_count, names=["No Medal", "Bronze", "Silver", "Gold"],
+                 color_discrete_sequence=px.colors.sequential.RdBu, template="plotly_dark")
+    return fig
+
+
+# Graph MenOverTime
+@app.callback(
+    Output("graph_participation", "figure"),
+    Input("gender_dropdown", "value"))
+def update_box(gender):
+    data['Sex'] = data['Sex'].replace("M", "Male")
+    data['Sex'] = data['Sex'].replace("F", "Female")
+    MenOverTime = data[(data.Sex == gender) & (data.Season == 'Summer')]
+
+    fig = px.box(MenOverTime, x='Year', y='Age', hover_name='Year',
+                 color_discrete_sequence=px.colors.sequential.RdBu, template="plotly_dark",
+                 title="Variation of Age for "+str(gender)+" Athletes over time")
+    fig.update_traces(quartilemethod="inclusive",yaxis_range=[0,100],xaxis_range=[1896,2020])
     return fig
 
 
