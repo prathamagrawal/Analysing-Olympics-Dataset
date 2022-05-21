@@ -48,7 +48,7 @@ plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis("off")
 plt.savefig("wordcloud.png")
 
-test_png = 'wordcloud.png'
+test_png = 'qw.png'
 test_base64 = base64.b64encode(open(test_png, 'rb').read()).decode('ascii')
 
 # Graph 2020
@@ -114,12 +114,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
         dcc.Graph(figure=fig_graph_2),
     ]),
     html.Div([
-        html.H1("WordCloud representing the Sports", style={
-                "font-family": "montserrat", "color": "white"}),
-        html.Img(src='data:image/png;base64,{}'.format(test_base64),
-                 style={'height': '80%', 'width': '80%', "float": "center", "margin": '0'}),
-    ]),
-    html.Div([
         html.H1('Gender Wise Distribution of Medal', style={
                 "font-family": "montserrat", "color": "white"}),
         dcc.Dropdown(
@@ -150,6 +144,12 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
                       }
                   }
                   )
+    ]),
+    html.Div([
+        html.H1("WordCloud representing the Sports", style={
+                "font-family": "montserrat", "color": "white"}),
+        html.Img(src='data:image/png;base64,{}'.format(test_base64),
+                 style={'height': '70%', 'width': '70%', "float": "center", "margin-left": '10'}),
     ])
 ])
 
@@ -206,7 +206,7 @@ def update_box(gender):
     fig = px.box(MenOverTime, x='Year', y='Age', hover_name='Year',
                  color_discrete_sequence=px.colors.sequential.RdBu, template="plotly_dark",
                  title="Variation of Age for "+str(gender)+" Athletes over time")
-    fig.update_traces(quartilemethod="inclusive",yaxis_range=[0,100],xaxis_range=[1896,2020])
+    fig.update_traces(quartilemethod="inclusive")
     return fig
 
 
