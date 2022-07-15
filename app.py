@@ -17,7 +17,6 @@ import matplotlib
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-
 data = pd.read_csv('data.csv')
 colorscales = px.colors.named_colorscales()
 
@@ -46,9 +45,12 @@ wordcloud.generate_from_frequencies(frequencies=count_discipline)
 plt.figure(figsize=(17, 10))
 plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis("off")
-plt.savefig("wordcloud.png")
 
+<<<<<<< HEAD
 test_png = 'qw.png'
+=======
+test_png = 'yy.png'
+>>>>>>> dc8001cbf322a20003a3384780c92178b634da5e
 test_base64 = base64.b64encode(open(test_png, 'rb').read()).decode('ascii')
 
 # Graph 2020
@@ -74,22 +76,40 @@ fig_age_medal.update_traces(textposition='inside', textinfo='percent+label')
 fig_age_medal.update_layout(margin=dict(t=30, b=30, l=30, r=30))
 
 
+df = pd.read_csv('athlete_events.csv',error_bad_lines=False, engine="python")
+newdf=df.groupby('Team').Medal.value_counts().unstack().fillna(0)
+topc=newdf.loc[newdf['Silver'] >= 300]
+bottomc=newdf.loc[newdf['Silver'] <= 150 ]
+bottomc=newdf.sample(n=10)
+frames = [topc, bottomc]
+result = pd.concat(frames)
+result=result.sample(frac = 1)
+fig_heatmap=px.imshow(result,text_auto=True,width=800,height=400,template="plotly_dark")
+fig_heatmap.layout.height = 800
+fig_heatmap.layout.width = 800
+
+
+
 # Graph Gender Wise and Medal Distribution
 values_gender = ["Male", "Female"]
 
-app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
+# Graph Season Wise and M/F Distribution
+values_season = ["Summer", "Winter"]
+
+app.layout = html.Div(style={'backgroundColor': 'black'}, children=[
     html.Div([
         html.H1("Welcome to Analysis of Olympics Dataset", style={
-                "font-family": "montserrat", "color": "white"})
+                "font-family": "montserrat", "color": "white", "text-align": "center"})
     ]),
     html.Div([
         html.H4('Enter a year you want to see the Number of Participation:', style={
-                "font-family": "montserrat", "color": "white"}),
+                "font-family": "montserrat", "color": "white", "text-align": "center"}),
         dcc.Dropdown(
             id="dropdown",
             options=values_year,
             clearable=False,
-            style={"background-color": "black", "text": "white"}
+            style={"background-color": "black",
+                   "text": "white", "text-align": "center"}
         ),
         dcc.Graph(id="graph1",
                   figure={
@@ -105,22 +125,33 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
     ]),
     html.Div([
         html.H4('The Age - Medal Distribution',
-                style={"font-family": "montserrat", "color": "white"}),
+                style={"font-family": "montserrat", "color": "white", "text-align": "center"}),
         dcc.Graph(figure=fig_age_medal),
     ]),
     html.Div([
         html.H4('The Number of the participation Country wise over the years: ->',
-                style={"font-family": "montserrat", "color": "white"}),
+                style={"font-family": "montserrat", "color": "white", "text-align": "center"}),
         dcc.Graph(figure=fig_graph_2),
     ]),
     html.Div([
+<<<<<<< HEAD
+=======
+        html.H4('The Number of Medals versus Certain Countries: ->',
+                style={"font-family": "montserrat", "color": "white", "text-align": "center"}),
+        dcc.Graph(figure=fig_heatmap,
+        style={"align":'center','width':'100%'}),
+    ]),
+
+    html.Div([
+>>>>>>> dc8001cbf322a20003a3384780c92178b634da5e
         html.H1('Gender Wise Distribution of Medal', style={
-                "font-family": "montserrat", "color": "white"}),
+                "font-family": "montserrat", "color": "white", "text-align": "center"}),
         dcc.Dropdown(
             id="gender_dropdown",
             options=values_gender,
             clearable=False,
-            style={"background-color": "black", "text": "white"}
+            style={"background-color": "black",
+                   "text": "white", "text-align": "center"}
         ),
         dcc.Graph(id="graph_gender",
                   figure={
@@ -146,17 +177,50 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
                   )
     ]),
     html.Div([
+<<<<<<< HEAD
         html.H1("WordCloud representing the Sports", style={
                 "font-family": "montserrat", "color": "white"}),
         html.Img(src='data:image/png;base64,{}'.format(test_base64),
                  style={'height': '70%', 'width': '70%', "float": "center", "margin-left": '10'}),
+=======
+        html.H4('Enter The season you want to see the Number of Participation:', style={
+                "font-family": "montserrat", "color": "white", "text-align": "center"}),
+        dcc.Dropdown(
+            id="values_season",
+            options=values_season,
+            clearable=False,
+            style={"background-color": "black",
+                   "text": "white", "text-align": "center"}
+        ),
+        dcc.Graph(id="graph_season",
+                  figure={
+                      'layout': {
+                          'plot_bgcolor': colors['background'],
+                          'paper_bgcolor': colors['background'],
+                          'font': {
+                              'color': colors['text']
+                          }
+                      }
+                  }
+                  ),
+    ]),
+    html.Div([
+        html.H1("WordCloud representing the Sports", style={
+                "font-family": "montserrat", "color": "white", "text-align": "center"}),
+        html.Img(src='data:image/png;base64,{}'.format(test_base64),
+                 style={'height': '50%', 'width': '50%', "display": "block", "margin-left": "auto", "margin-right": "auto",
+                 "width": "50%"}),
+    ]),
+    html.Div([
+        html.H4("Created by Pratham Agrawal", style={
+            "font-family": "montserrat", "color": "white", "text-align": "center"
+        })
+>>>>>>> dc8001cbf322a20003a3384780c92178b634da5e
     ])
 ])
 
 # Graph 1
-
-
-@app.callback(
+@ app.callback(
     Output("graph1", "figure"),
     Input("dropdown", "value"))
 def update_bar_chart(year):
@@ -171,7 +235,7 @@ def update_bar_chart(year):
 
 
 # Graph Male - Female Medal Distribution
-@app.callback(
+@ app.callback(
     Output("graph_gender", "figure"),
     Input("gender_dropdown", "value"))
 def update_gender(gender):
@@ -208,6 +272,26 @@ def update_box(gender):
                  title="Variation of Age for "+str(gender)+" Athletes over time")
     fig.update_traces(quartilemethod="inclusive")
     return fig
+
+
+# Graph SummerWinter Season
+@app.callback(
+    Output("graph_season", "figure"),
+    Input("values_season", "value"))
+def update_Season(season):
+    data = pd.read_csv("data.csv")
+    data.rename({'Unnamed: 0': 'ID'}, axis=1, inplace=True)
+    summer_olympic = data.query("Season =='Summer'")
+    winter_olympic = data.query("Season =='Winter'")
+    games = {"Summer": summer_olympic, "Winter": winter_olympic}
+    sex_year_df = games[season].groupby(["Year", "Sex"]).ID.count().rename("Count").reset_index()
+    sex_year_df = sex_year_df.pivot(
+        index="Year", columns="Sex", values="Count").reset_index()
+    sex_year_df["Ratio"] = sex_year_df["M"] / sex_year_df["F"]
+    fig = px.line(sex_year_df, x="Year", y="Ratio", title=str(season)+" Olympic Games M/F Ratio Over Years",
+                  color_discrete_sequence=px.colors.sequential.RdBu, template="plotly_dark",)
+    return fig
+
 
 
 if __name__ == '__main__':
