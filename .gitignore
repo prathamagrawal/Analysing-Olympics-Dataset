@@ -1,0 +1,4 @@
+ECG
+*.pyc
+.DS_Store
+.env
