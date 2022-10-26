@@ -5,4 +5,4 @@ So for that particular reason, I have created a dataset to encorporate all year 
 
 Future works includes making a visualization dashboard and understanding data trends to a deeper level. 
 
-Link for the dataset: (Kaggle Link)[https://www.kaggle.com/datasets/fearsomejockey/olympics-dataset-2020-tokyo-dataset]
+Link for the dataset: [Kaggle Link](https://www.kaggle.com/datasets/fearsomejockey/olympics-dataset-2020-tokyo-dataset)
